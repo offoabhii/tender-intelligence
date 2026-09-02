@@ -1,0 +1,25 @@
+# Never upload secret keys
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Keep data/live_tenders.json and data/health.json tracked.
+# Do not add data/ here.
