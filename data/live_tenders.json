@@ -1,73 +1,8 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-09-02T11:18:38.163943+00:00",
+  "generated_at": "2026-09-02T14:02:52.863857+00:00",
   "record_count": 8,
   "tenders": [
-    {
-      "title": "REPAIR/MAINTENANCE OF AIR CONDITIONER AND REFRIGERATION AND HEATING PLANTS AND REPAIR/MAINT OF SOLAR WATER HEATER AND SWIMMING POOL AND LAUNDARY PLANT AND OTHER MISC WORK SERVICES AT HAPPY VALLEY AREA UNDER GE SHILLONG",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQzNTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM0NjYxMw==A13h1R0UvU0hML1RPS0VOLTc1IE9GIDIwMjYtMjc=A13h1MjAyNl9NRVNfNzg3NDg0XzE=",
-      "category": "Solar",
-      "closing_date": "2026-09-23",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "REPAIR/MAINT OF SOLAR WATER HEATER"
-    },
-    {
-      "title": "SITC of 5 kWp Grid-Tied Roof mounted Solar Power Pack at Kalkaji HPO, New Delhi.(4th Call)",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQyNTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM0NjY0Mg==A13h1QUUvRS9QRVNELUlJSS9OSVQtMTkvMjAyNi0yNw==A13h1MjAyNl9ET1BfOTI0NTUwXzE=",
-      "category": "Solar",
-      "closing_date": "2026-09-07",
-      "issued_by": "Department of Posts",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 07-Sep-2026 03:00 PM"
-    },
-    {
-      "title": "REPAIR AND MAINT OF STREET LIGHTS, SECURITY PERIMETER LIGHTS , HIGH MAST FITTINGS, SOLAR LIGHTS , GARDEN GATE LIGHTS AND CONNECTED ITEMS REPAIRS  MAINTENANCE SERVICING TO VARIOUS TYPE OF FANS AND GEYSER REPAIRS  MAINTENANCE SERVICING TO VARIOUS TYP",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQxODY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM0NjY2Mg==A13h1ODg5NC9FOA==A13h1MjAyNl9NRVNfNzg3NDY3XzE=",
-      "category": "Solar",
-      "closing_date": "2026-09-22",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 22-Sep-2026 06:00 PM"
-    },
-    {
-      "title": "SPECIAL REPAIRS/ REPLACEMENT OF BER CENTRIFUGAL PUMP SET AND VT PUMP AND SOLAR LIGHT (06 X SOLAR STREET LIGHTS) AT CLP-36 INSIDE DEPOT AREA AT CAD PULGAON",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDE4NDc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM0NjkxNw==A13h1ODM2MS9FOA==A13h1MjAyNl9NRVNfNzg3MzIzXzE=",
-      "category": "Solar",
-      "closing_date": "2026-09-22",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 22-Sep-2026 06:00 PM"
-    },
-    {
-      "title": "PROVISION OF SELF POWERED SOLAR ENERGY BY USAGE OF SOLAR PANELS AT COAST GUARD STORE DEPOT CHENNAI UNDER GE (I) (CG) CHENNAI",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDIwMzQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM0NjkzMw==A13h1ODMxNy9FOA==A13h1MjAyNl9NRVNfNzgwNzExXzI=",
-      "category": "Solar",
-      "closing_date": "2026-09-15",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 15-Sep-2026 06:00 PM"
-    },
     {
       "title": "For Setting Up, Operation and Maintenance of Electric Vehicle (Ev) Charging Stations at Kel Premises",
       "source_url": "https://www.tendersontime.com/indiaproducts/indian-electric-charging-station-tenders-33935",
@@ -109,6 +44,76 @@
       "confidence": "HIGH",
       "evidence": "Selection of Bus Operator for Procurement, Supply, Operation and Maintenance of 3,604 Electric Buses and Development of Allied Electric and Civil Infrastructure on Gross Cost Contracting (GCC) under PM-eBus Sewa (Tender 3)",
       "found_at": "2026-09-01T20:09:53.484684"
+    },
+    {
+      "title": "REPAIR/MAINTENANCE OF AIR CONDITIONER AND REFRIGERATION AND HEATING PLANTS AND REPAIR/MAINT OF SOLAR WATER HEATER AND SWIMMING POOL AND LAUNDARY PLANT AND OTHER MISC WORK SERVICES AT HAPPY VALLEY AREA UNDER GE SHILLONG",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQzNTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM0NDQ4Ng==A13h1R0UvU0hML1RPS0VOLTc1IE9GIDIwMjYtMjc=A13h1MjAyNl9NRVNfNzg3NDg0XzE=",
+      "category": "Solar",
+      "closing_date": "2026-09-23",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "REPAIR/MAINT OF SOLAR WATER HEATER",
+      "found_at": "2026-09-02T10:42:31.873203"
+    },
+    {
+      "title": "SITC of 5 kWp Grid-Tied Roof mounted Solar Power Pack at Kalkaji HPO, New Delhi.(4th Call)",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQyNTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM0NDUzMw==A13h1QUUvRS9QRVNELUlJSS9OSVQtMTkvMjAyNi0yNw==A13h1MjAyNl9ET1BfOTI0NTUwXzE=",
+      "category": "Solar",
+      "closing_date": "2026-09-07",
+      "issued_by": "Department of Posts",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Bid Submission Closing Date: 07-Sep-2026 03:00 PM",
+      "found_at": "2026-09-02T10:42:31.895599"
+    },
+    {
+      "title": "REPAIR AND MAINT OF STREET LIGHTS, SECURITY PERIMETER LIGHTS , HIGH MAST FITTINGS, SOLAR LIGHTS , GARDEN GATE LIGHTS AND CONNECTED ITEMS REPAIRS  MAINTENANCE SERVICING TO VARIOUS TYPE OF FANS AND GEYSER REPAIRS  MAINTENANCE SERVICING TO VARIOUS TYP",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQxODY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM0NDU1Ng==A13h1ODg5NC9FOA==A13h1MjAyNl9NRVNfNzg3NDY3XzE=",
+      "category": "Solar",
+      "closing_date": "2026-09-22",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Bid Submission Closing Date: 22-Sep-2026 06:00 PM",
+      "found_at": "2026-09-02T10:42:31.908267"
+    },
+    {
+      "title": "PROVISION OF SELF POWERED SOLAR ENERGY BY USAGE OF SOLAR PANELS AT COAST GUARD STORE DEPOT CHENNAI UNDER GE (I) (CG) CHENNAI",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDIwMzQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM0NDc4Mg==A13h1ODMxNy9FOA==A13h1MjAyNl9NRVNfNzgwNzExXzI=",
+      "category": "Solar",
+      "closing_date": "2026-09-15",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Bid Submission Closing Date: 15-Sep-2026 06:00 PM",
+      "found_at": "2026-09-02T10:42:31.922069"
+    },
+    {
+      "title": "SPECIAL REPAIRS/ REPLACEMENT OF BER CENTRIFUGAL PUMP SET AND VT PUMP AND SOLAR LIGHT (06 X SOLAR STREET LIGHTS) AT CLP-36 INSIDE DEPOT AREA AT CAD PULGAON",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDE4NDc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM0NDc5MQ==A13h1ODM2MS9FOA==A13h1MjAyNl9NRVNfNzg3MzIzXzE=",
+      "category": "Solar",
+      "closing_date": "2026-09-22",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Bid Submission Closing Date: 22-Sep-2026 06:00 PM",
+      "found_at": "2026-09-02T10:42:31.935750"
     }
   ],
   "source_summary": [
@@ -135,10 +140,13 @@
       "keywords": [
         "solar"
       ],
-      "status": "SUCCESS",
-      "documents_found": 8,
-      "verified_tenders": 8,
-      "errors": []
+      "status": "WARNING",
+      "documents_found": 2,
+      "verified_tenders": 0,
+      "errors": [
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQ4NTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM1NzMyNw==A13h1ODg5NS9FOA==A13h1MjAyNl9NRVNfNzg3MzY1XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQ4NTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM1NzMyNw==A13h1ODg5NS9FOA==A13h1MjAyNl9NRVNfNzg3MzY1XzE=: 499 CANCELLED. {'error': {'code': 499, 'message': 'The operation was cancelled.', 'status': 'CANCELLED'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQ3NjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM1NzM0OQ==A13h1Q01VLTEzMDEyLzcxLzIwMjYtQ01VA13h1MjAyNl9JU01EXzkyNDYxNF8x: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQ3NjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM1NzM0OQ==A13h1Q01VLTEzMDEyLzcxLzIwMjYtQ01VA13h1MjAyNl9JU01EXzkyNDYxNF8x: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}"
+      ]
     },
     {
       "category": "Bus operations (gross cost only)",

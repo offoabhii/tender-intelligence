@@ -1,6 +1,80 @@
 {
-  "status": "RUNNING",
-  "message": "Live tender scan started.",
-  "updated_at": "2026-09-02T12:04:41.342757+00:00",
-  "details": []
+  "status": "SUCCESS_WITH_WARNINGS",
+  "message": "Scan completed with warnings. 8 verified tender(s) found.",
+  "updated_at": "2026-09-02T14:02:52.864383+00:00",
+  "details": [
+    {
+      "category": "Charging point operations",
+      "keywords": [
+        "ev charging",
+        "e-vehicle charging",
+        "electric vehicle charging",
+        "charging station",
+        "charging point",
+        "charging infrastructure",
+        "ev charging station",
+        "battery charging station",
+        "charging kiosk"
+      ],
+      "status": "NO_RESULTS",
+      "documents_found": 0,
+      "verified_tenders": 0,
+      "errors": []
+    },
+    {
+      "category": "Solar",
+      "keywords": [
+        "solar"
+      ],
+      "status": "WARNING",
+      "documents_found": 2,
+      "verified_tenders": 0,
+      "errors": [
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQ4NTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM1NzMyNw==A13h1ODg5NS9FOA==A13h1MjAyNl9NRVNfNzg3MzY1XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQ4NTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM1NzMyNw==A13h1ODg5NS9FOA==A13h1MjAyNl9NRVNfNzg3MzY1XzE=: 499 CANCELLED. {'error': {'code': 499, 'message': 'The operation was cancelled.', 'status': 'CANCELLED'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQ3NjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM1NzM0OQ==A13h1Q01VLTEzMDEyLzcxLzIwMjYtQ01VA13h1MjAyNl9JU01EXzkyNDYxNF8x: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQ3NjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM1NzM0OQ==A13h1Q01VLTEzMDEyLzcxLzIwMjYtQ01VA13h1MjAyNl9JU01EXzkyNDYxNF8x: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}"
+      ]
+    },
+    {
+      "category": "Bus operations (gross cost only)",
+      "keywords": [
+        "bus operation",
+        "gross cost contract",
+        "gcc bus",
+        "state road transport",
+        "srtc",
+        "city bus service",
+        "bus service operation",
+        "hiring of buses",
+        "hiring of ac buses",
+        "hiring of non-ac buses",
+        "operation and maintenance of buses",
+        "o&m of buses",
+        "plying of buses",
+        "bus fleet operation",
+        "operation of city buses",
+        "electric bus operation",
+        "e-bus operation"
+      ],
+      "status": "NO_RESULTS",
+      "documents_found": 0,
+      "verified_tenders": 0,
+      "errors": []
+    },
+    {
+      "category": "Bus body building",
+      "keywords": [
+        "bus body building",
+        "bus body fabrication",
+        "bus body",
+        "body building of bus",
+        "fabrication of bus body",
+        "manufacture and supply of bus body",
+        "bus body manufacturing"
+      ],
+      "status": "NO_RESULTS",
+      "documents_found": 0,
+      "verified_tenders": 0,
+      "errors": []
+    }
+  ]
 }
