@@ -7,6 +7,7 @@ This file is inside app/ so imports work consistently on:
 - Streamlit Cloud
 """
 
+import os
 from datetime import date
 
 TODAY = date.today()
@@ -101,7 +102,7 @@ CATEGORY_KEYWORDS = {
 # category still comes up empty across several consecutive runs and
 # you want deeper coverage — each +50 pages costs roughly +1 minute of
 # runtime per category with no matches.
-EPROCURE_MAX_PAGES = 100
+EPROCURE_MAX_PAGES = int(os.getenv("EPROCURE_MAX_PAGES", "100"))
 
 # Stop scanning a category early once this many keyword-matching
 # tenders have been found for it, to keep runs fast and polite to the
