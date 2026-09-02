@@ -34,7 +34,22 @@ class IntelligentAuditor:
                 "GEMINI_API_KEY is missing. Add it to .env and GitHub Actions Secrets."
             )
 
-        self.client = genai.Client(api_key=api_key)
+        # The google-genai SDK has NO timeout by default: if a request
+        # to Google's API stalls (as opposed to erroring outright),
+        # generate_content() hangs forever. On GitHub-hosted runners
+        # this occasionally happens (egress to Google's API from GitHub's
+        # IP ranges can stall in a way it rarely does from a home
+        # connection), so with 4 categories x up to 10 documents x a
+        # 6-model fallback probe on init, a single stalled call can eat
+        # the entire 55-minute job timeout and the run gets killed with
+        # a bare "The operation was canceled." — no real error message,
+        # and nothing that reproduces locally. An explicit per-request
+        # timeout turns that silent hang into a normal, catchable
+        # TimeoutError within seconds.
+        self.client = genai.Client(
+            api_key=api_key,
+            http_options=types.HttpOptions(timeout=30_000),  # milliseconds
+        )
         self.model = self._select_working_model()
 
         print(f"[AUDITOR] Gemini model selected: {self.model}")
