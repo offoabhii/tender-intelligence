@@ -1,21 +1,8 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-09-02T16:27:03.759711+00:00",
+  "generated_at": "2026-09-02T20:50:00.648211+00:00",
   "record_count": 9,
   "tenders": [
-    {
-      "title": "REPAIR MAINT OF EXTERNAL WATER SUPPLY  REPAIR MAINT TO LT EXTERNAL ELECTRICFICATION  REPAIRS MAINT SERVICING TO COOLING APPLIANCES  REPAIRS MAINT SERVICING DG SETS , LT PANELS  EARTHING  REPAIRS MAINT OF SECURITY PERIMETER LIGHTS SOLAR LIGHTS GAR",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQ4NTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM2NTg0OA==A13h1ODg5NS9FOA==A13h1MjAyNl9NRVNfNzg3MzY1XzE=",
-      "category": "Solar",
-      "closing_date": "2026-09-22",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "MEDIUM",
-      "evidence": "REPAIRS MAINT OF SECURITY PERIMETER LIGHTS SOLAR LIGHTS"
-    },
     {
       "title": "For Setting Up, Operation and Maintenance of Electric Vehicle (Ev) Charging Stations at Kel Premises",
       "source_url": "https://www.tendersontime.com/indiaproducts/indian-electric-charging-station-tenders-33935",
@@ -127,6 +114,20 @@
       "confidence": "HIGH",
       "evidence": "Bid Submission Closing Date: 22-Sep-2026 06:00 PM",
       "found_at": "2026-09-02T10:42:31.935750"
+    },
+    {
+      "title": "REPAIR MAINT OF EXTERNAL WATER SUPPLY  REPAIR MAINT TO LT EXTERNAL ELECTRICFICATION  REPAIRS MAINT SERVICING TO COOLING APPLIANCES  REPAIRS MAINT SERVICING DG SETS , LT PANELS  EARTHING  REPAIRS MAINT OF SECURITY PERIMETER LIGHTS SOLAR LIGHTS GAR",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQ4NTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM2NTg0OA==A13h1ODg5NS9FOA==A13h1MjAyNl9NRVNfNzg3MzY1XzE=",
+      "category": "Solar",
+      "closing_date": "2026-09-22",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "MEDIUM",
+      "evidence": "REPAIRS MAINT OF SECURITY PERIMETER LIGHTS SOLAR LIGHTS",
+      "found_at": "2026-09-02T16:27:03.756806"
     }
   ],
   "source_summary": [
@@ -153,10 +154,12 @@
       "keywords": [
         "solar"
       ],
-      "status": "SUCCESS",
+      "status": "WARNING",
       "documents_found": 1,
-      "verified_tenders": 1,
-      "errors": []
+      "verified_tenders": 0,
+      "errors": [
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQ4NTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM4MTg4Mg==A13h1ODg5NS9FOA==A13h1MjAyNl9NRVNfNzg3MzY1XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQ4NTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM4MTg4Mg==A13h1ODg5NS9FOA==A13h1MjAyNl9NRVNfNzg3MzY1XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+      ]
     },
     {
       "category": "Bus operations (gross cost only)",
