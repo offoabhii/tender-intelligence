@@ -16,7 +16,7 @@ concurrency:
 jobs:
   scan-and-publish:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 55
 
     steps:
       - name: Checkout repository
@@ -71,6 +71,17 @@ jobs:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           DATABASE_URL: sqlite:///./data/tenders.db
           PYTHONPATH: .
+          # Runs on GitHub's shared runners every 6h, on a schedule —
+          # each run doesn't need to be exhaustive, since a tender
+          # missed this run that's still open gets carried forward by
+          # app/db.py's get_previously_open_tenders() and re-surfaced
+          # by the very next scheduled run. A smaller page count here
+          # keeps runtime well inside the job timeout on a runner that
+          # may have higher latency to eprocure.gov.in than a home
+          # connection, while still accumulating full coverage over a
+          # day's worth of runs. Override independently of the local
+          # default (100) in app/config.py if you want to tune this.
+          EPROCURE_MAX_PAGES: "40"
         run: |
           echo "=== Running real tender pipeline ==="
           python run_agent.py
