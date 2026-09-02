@@ -1,8 +1,21 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-09-02T14:02:52.863857+00:00",
-  "record_count": 8,
+  "generated_at": "2026-09-02T16:27:03.759711+00:00",
+  "record_count": 9,
   "tenders": [
+    {
+      "title": "REPAIR MAINT OF EXTERNAL WATER SUPPLY  REPAIR MAINT TO LT EXTERNAL ELECTRICFICATION  REPAIRS MAINT SERVICING TO COOLING APPLIANCES  REPAIRS MAINT SERVICING DG SETS , LT PANELS  EARTHING  REPAIRS MAINT OF SECURITY PERIMETER LIGHTS SOLAR LIGHTS GAR",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQ4NTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM2NTg0OA==A13h1ODg5NS9FOA==A13h1MjAyNl9NRVNfNzg3MzY1XzE=",
+      "category": "Solar",
+      "closing_date": "2026-09-22",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "MEDIUM",
+      "evidence": "REPAIRS MAINT OF SECURITY PERIMETER LIGHTS SOLAR LIGHTS"
+    },
     {
       "title": "For Setting Up, Operation and Maintenance of Electric Vehicle (Ev) Charging Stations at Kel Premises",
       "source_url": "https://www.tendersontime.com/indiaproducts/indian-electric-charging-station-tenders-33935",
@@ -140,13 +153,10 @@
       "keywords": [
         "solar"
       ],
-      "status": "WARNING",
-      "documents_found": 2,
-      "verified_tenders": 0,
-      "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQ4NTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM1NzMyNw==A13h1ODg5NS9FOA==A13h1MjAyNl9NRVNfNzg3MzY1XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQ4NTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM1NzMyNw==A13h1ODg5NS9FOA==A13h1MjAyNl9NRVNfNzg3MzY1XzE=: 499 CANCELLED. {'error': {'code': 499, 'message': 'The operation was cancelled.', 'status': 'CANCELLED'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQ3NjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM1NzM0OQ==A13h1Q01VLTEzMDEyLzcxLzIwMjYtQ01VA13h1MjAyNl9JU01EXzkyNDYxNF8x: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQ3NjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM1NzM0OQ==A13h1Q01VLTEzMDEyLzcxLzIwMjYtQ01VA13h1MjAyNl9JU01EXzkyNDYxNF8x: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}"
-      ]
+      "status": "SUCCESS",
+      "documents_found": 1,
+      "verified_tenders": 1,
+      "errors": []
     },
     {
       "category": "Bus operations (gross cost only)",
