@@ -1,12 +1,12 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-09-03T11:04:59.294673+00:00",
-  "record_count": 9,
+  "generated_at": "2026-09-03T16:10:24.296804+00:00",
+  "record_count": 10,
   "tenders": [
     {
-      "title": "REPAIR  MAINTENANCE OF ELECTRIC GEYSER  SOLAR WATER HEATER FOR OTM  MD ACCN AND OLD UNSERVICEABLE SUB MAIN WIRING  DBS  MCBS AND ALUMINIUM WIRING FOR OFFRS  JCOS MD ACCN UNDER AGE EM OF GE BENGDUBI",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDU5NTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODQzMjkzMw==A13h1ODg5OS9FOA==A13h1MjAyNl9NRVNfNzg3NjA4XzE=",
-      "category": "Solar",
+      "title": "PROVISION OF ELECTRIC VEHICLE CHARGING STATION AT MIC AND S, AHILYANAGAR",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDU3ODg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODQ1MTIyNA==A13h1ODc0MjEvRTg=A13h1MjAyNl9NRVNfNzg3NjAzXzE=",
+      "category": "Charging point operations",
       "closing_date": "2026-09-24",
       "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
       "qualification_criteria": "NOT SURE",
@@ -14,7 +14,7 @@
       "is_net_cost": false,
       "is_open_now": true,
       "confidence": "HIGH",
-      "evidence": "REPAIR  MAINTENANCE OF ELECTRIC GEYSER  SOLAR WATER HEATER FOR OTM  MD ACCN"
+      "evidence": "PROVISION OF ELECTRIC VEHICLE CHARGING STATION AT MIC AND S, AHILYANAGAR"
     },
     {
       "title": "For Setting Up, Operation and Maintenance of Electric Vehicle (Ev) Charging Stations at Kel Premises",
@@ -127,6 +127,20 @@
       "confidence": "MEDIUM",
       "evidence": "REPAIRS MAINT OF SECURITY PERIMETER LIGHTS SOLAR LIGHTS",
       "found_at": "2026-09-02T16:27:03.756806"
+    },
+    {
+      "title": "REPAIR  MAINTENANCE OF ELECTRIC GEYSER  SOLAR WATER HEATER FOR OTM  MD ACCN AND OLD UNSERVICEABLE SUB MAIN WIRING  DBS  MCBS AND ALUMINIUM WIRING FOR OFFRS  JCOS MD ACCN UNDER AGE EM OF GE BENGDUBI",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDU5NTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODQzMjkzMw==A13h1ODg5OS9FOA==A13h1MjAyNl9NRVNfNzg3NjA4XzE=",
+      "category": "Solar",
+      "closing_date": "2026-09-24",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "REPAIR  MAINTENANCE OF ELECTRIC GEYSER  SOLAR WATER HEATER FOR OTM  MD ACCN",
+      "found_at": "2026-09-03T11:04:59.105869"
     }
   ],
   "source_summary": [
@@ -143,9 +157,9 @@
         "battery charging station",
         "charging kiosk"
       ],
-      "status": "NO_RESULTS",
-      "documents_found": 0,
-      "verified_tenders": 0,
+      "status": "SUCCESS",
+      "documents_found": 1,
+      "verified_tenders": 1,
       "errors": []
     },
     {
@@ -153,13 +167,10 @@
       "keywords": [
         "solar"
       ],
-      "status": "WARNING",
-      "documents_found": 3,
-      "verified_tenders": 1,
-      "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDYwMjU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODQzMjk0Mw==A13h1TlRQQy9VU1NDLUNQRzMvOTkwMDMzMjY0MA==A13h1MjAyNl9OVFBDXzExMTQ5NV8x: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMDYwMjU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODQzMjk0Mw==A13h1TlRQQy9VU1NDLUNQRzMvOTkwMDMzMjY0MA==A13h1MjAyNl9OVFBDXzExMTQ5NV8x: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDU2NDk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODQzMjk3Nw==A13h1Q0UgKFApIFNFV0FLLzA5LzIwMjYtMjc=A13h1MjAyNl9CUk9fNzg3NTg0XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMDU2NDk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODQzMjk3Nw==A13h1Q0UgKFApIFNFV0FLLzA5LzIwMjYtMjc=A13h1MjAyNl9CUk9fNzg3NTg0XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
-      ]
+      "status": "NO_RESULTS",
+      "documents_found": 0,
+      "verified_tenders": 0,
+      "errors": []
     },
     {
       "category": "Bus operations (gross cost only)",
