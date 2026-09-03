@@ -1,7 +1,7 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-09-02T20:50:00.648211+00:00",
-  "record_count": 9,
+  "generated_at": "2026-09-03T03:37:09.471235+00:00",
+  "record_count": 8,
   "tenders": [
     {
       "title": "For Setting Up, Operation and Maintenance of Electric Vehicle (Ev) Charging Stations at Kel Premises",
@@ -30,20 +30,6 @@
       "confidence": "HIGH",
       "evidence": "15 Sep 2026 15d left",
       "found_at": "2026-09-01T20:09:53.470637"
-    },
-    {
-      "title": "Selection of Bus Operator for Procurement, Supply, Operation and Maintenance of 3,604 Electric Buses and Development of Allied Electric and Civil Infrastructure on Gross Cost Contracting (GCC) under PM-eBus Sewa (Tender 3)",
-      "source_url": "https://www.convergence.co.in/tender",
-      "category": "Bus operations (gross cost only)",
-      "closing_date": "2026-09-02",
-      "issued_by": "CESL",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Selection of Bus Operator for Procurement, Supply, Operation and Maintenance of 3,604 Electric Buses and Development of Allied Electric and Civil Infrastructure on Gross Cost Contracting (GCC) under PM-eBus Sewa (Tender 3)",
-      "found_at": "2026-09-01T20:09:53.484684"
     },
     {
       "title": "REPAIR/MAINTENANCE OF AIR CONDITIONER AND REFRIGERATION AND HEATING PLANTS AND REPAIR/MAINT OF SOLAR WATER HEATER AND SWIMMING POOL AND LAUNDARY PLANT AND OTHER MISC WORK SERVICES AT HAPPY VALLEY AREA UNDER GE SHILLONG",
@@ -154,12 +140,10 @@
       "keywords": [
         "solar"
       ],
-      "status": "WARNING",
-      "documents_found": 1,
+      "status": "NO_RESULTS",
+      "documents_found": 0,
       "verified_tenders": 0,
-      "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQ4NTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM4MTg4Mg==A13h1ODg5NS9FOA==A13h1MjAyNl9NRVNfNzg3MzY1XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQ4NTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM4MTg4Mg==A13h1ODg5NS9FOA==A13h1MjAyNl9NRVNfNzg3MzY1XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
-      ]
+      "errors": []
     },
     {
       "category": "Bus operations (gross cost only)",
