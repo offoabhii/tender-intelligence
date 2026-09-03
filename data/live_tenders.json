@@ -1,11 +1,11 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-09-03T16:10:24.296804+00:00",
+  "generated_at": "2026-09-03T21:00:26.643224+00:00",
   "record_count": 10,
   "tenders": [
     {
       "title": "PROVISION OF ELECTRIC VEHICLE CHARGING STATION AT MIC AND S, AHILYANAGAR",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDU3ODg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODQ1MTIyNA==A13h1ODc0MjEvRTg=A13h1MjAyNl9NRVNfNzg3NjAzXzE=",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDU3ODg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODQ2ODMzOA==A13h1ODc0MjEvRTg=A13h1MjAyNl9NRVNfNzg3NjAzXzE=",
       "category": "Charging point operations",
       "closing_date": "2026-09-24",
       "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
@@ -14,7 +14,7 @@
       "is_net_cost": false,
       "is_open_now": true,
       "confidence": "HIGH",
-      "evidence": "PROVISION OF ELECTRIC VEHICLE CHARGING STATION AT MIC AND S, AHILYANAGAR"
+      "evidence": "Tender Title: PROVISION OF ELECTRIC VEHICLE CHARGING STATION AT MIC AND S, AHILYANAGAR"
     },
     {
       "title": "For Setting Up, Operation and Maintenance of Electric Vehicle (Ev) Charging Stations at Kel Premises",
