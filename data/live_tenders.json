@@ -1,21 +1,8 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-09-03T21:00:26.643224+00:00",
+  "generated_at": "2026-09-04T03:35:02.997597+00:00",
   "record_count": 10,
   "tenders": [
-    {
-      "title": "PROVISION OF ELECTRIC VEHICLE CHARGING STATION AT MIC AND S, AHILYANAGAR",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDU3ODg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODQ2ODMzOA==A13h1ODc0MjEvRTg=A13h1MjAyNl9NRVNfNzg3NjAzXzE=",
-      "category": "Charging point operations",
-      "closing_date": "2026-09-24",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Tender Title: PROVISION OF ELECTRIC VEHICLE CHARGING STATION AT MIC AND S, AHILYANAGAR"
-    },
     {
       "title": "For Setting Up, Operation and Maintenance of Electric Vehicle (Ev) Charging Stations at Kel Premises",
       "source_url": "https://www.tendersontime.com/indiaproducts/indian-electric-charging-station-tenders-33935",
@@ -141,6 +128,20 @@
       "confidence": "HIGH",
       "evidence": "REPAIR  MAINTENANCE OF ELECTRIC GEYSER  SOLAR WATER HEATER FOR OTM  MD ACCN",
       "found_at": "2026-09-03T11:04:59.105869"
+    },
+    {
+      "title": "PROVISION OF ELECTRIC VEHICLE CHARGING STATION AT MIC AND S, AHILYANAGAR",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDU3ODg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODQ1MTIyNA==A13h1ODc0MjEvRTg=A13h1MjAyNl9NRVNfNzg3NjAzXzE=",
+      "category": "Charging point operations",
+      "closing_date": "2026-09-24",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "PROVISION OF ELECTRIC VEHICLE CHARGING STATION AT MIC AND S, AHILYANAGAR",
+      "found_at": "2026-09-03T16:10:24.293962"
     }
   ],
   "source_summary": [
@@ -157,10 +158,12 @@
         "battery charging station",
         "charging kiosk"
       ],
-      "status": "SUCCESS",
+      "status": "WARNING",
       "documents_found": 1,
-      "verified_tenders": 1,
-      "errors": []
+      "verified_tenders": 0,
+      "errors": [
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDU3ODg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODQ5MjM2Nw==A13h1ODc0MjEvRTg=A13h1MjAyNl9NRVNfNzg3NjAzXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMDU3ODg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODQ5MjM2Nw==A13h1ODc0MjEvRTg=A13h1MjAyNl9NRVNfNzg3NjAzXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+      ]
     },
     {
       "category": "Solar",
