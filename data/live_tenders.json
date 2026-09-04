@@ -1,11 +1,11 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-09-04T11:00:18.676165+00:00",
-  "record_count": 11,
+  "generated_at": "2026-09-04T16:06:47.339774+00:00",
+  "record_count": 12,
   "tenders": [
     {
-      "title": "SPECIAL REPAIR REPLACEMENT OF EXISTING UNSV BOLLARDS,GATE PILLAR LIGHTS AND CONNECTED MISC ITEMS  OF VARIOUS UNIT LOCATIONS AT BORARUPAK-I AND SPECIAL REPAIR/REPLACEMENT OF EXISTING UNSV SOLAR SECURITY LIGHTS  OF VARIOUS UNIT LOCATIONS  AT BORARUPAK-",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDgwNTI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODUxOTE0MA==A13h1ODg5MS9FOA==A13h1MjAyNl9NRVNfNzg3ODcwXzE=",
+      "title": "SPECIAL REPAIR REPLACEMENT OF EXISTING UNSV SOLAR SECURITY LIGHTS OF VARIOUS UNIT LOCATIONS AND SPECIAL REPAIR REPLACEMENT OF EXISTING UNSV HPSV MV MH CFL SECURITY LIGHT FITTINGS INTO LED FITTINGS ALONGWITH CONNECTED MISC ITEMS OF VARIOUS UNIT LOCATI",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDgxNTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODUzNzU4OQ==A13h1ODg4OS9FOA==A13h1MjAyNl9NRVNfNzg3ODg2XzE=",
       "category": "Solar",
       "closing_date": "2026-09-24",
       "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
@@ -14,7 +14,7 @@
       "is_net_cost": false,
       "is_open_now": true,
       "confidence": "HIGH",
-      "evidence": "SPECIAL REPAIR/REPLACEMENT OF EXISTING UNSV SOLAR SECURITY LIGHTS"
+      "evidence": "SPECIAL REPAIR REPLACEMENT OF EXISTING UNSV SOLAR SECURITY LIGHTS OF VARIOUS UNIT LOCATIONS"
     },
     {
       "title": "For Setting Up, Operation and Maintenance of Electric Vehicle (Ev) Charging Stations at Kel Premises",
@@ -155,6 +155,20 @@
       "confidence": "HIGH",
       "evidence": "PROVISION OF ELECTRIC VEHICLE CHARGING STATION AT MIC AND S, AHILYANAGAR",
       "found_at": "2026-09-03T16:10:24.293962"
+    },
+    {
+      "title": "SPECIAL REPAIR REPLACEMENT OF EXISTING UNSV BOLLARDS,GATE PILLAR LIGHTS AND CONNECTED MISC ITEMS  OF VARIOUS UNIT LOCATIONS AT BORARUPAK-I AND SPECIAL REPAIR/REPLACEMENT OF EXISTING UNSV SOLAR SECURITY LIGHTS  OF VARIOUS UNIT LOCATIONS  AT BORARUPAK-",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDgwNTI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODUxOTE0MA==A13h1ODg5MS9FOA==A13h1MjAyNl9NRVNfNzg3ODcwXzE=",
+      "category": "Solar",
+      "closing_date": "2026-09-24",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "SPECIAL REPAIR/REPLACEMENT OF EXISTING UNSV SOLAR SECURITY LIGHTS",
+      "found_at": "2026-09-04T11:00:18.673138"
     }
   ],
   "source_summary": [
@@ -182,12 +196,14 @@
         "solar"
       ],
       "status": "WARNING",
-      "documents_found": 4,
+      "documents_found": 6,
       "verified_tenders": 1,
       "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDgwNjI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODUxOTE0MA==A13h1ODg5MC9FOA==A13h1MjAyNl9NRVNfNzg3ODcxXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMDgwNjI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODUxOTE0MA==A13h1ODg5MC9FOA==A13h1MjAyNl9NRVNfNzg3ODcxXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDc3MjI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODUxOTIzOA==A13h1SUlUSC9DTUQvRUxFL05JVC8yMDI2LTI3LzA5ICgybmQgQ2FsbCk=A13h1MjAyNl9JSVRIXzkyNDkwNl8x: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMDc3MjI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODUxOTIzOA==A13h1SUlUSC9DTUQvRUxFL05JVC8yMDI2LTI3LzA5ICgybmQgQ2FsbCk=A13h1MjAyNl9JSVRIXzkyNDkwNl8x: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDc3MjI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODUxOTI0NA==A13h1SUlUSC9DTUQvRUxFL05JVC8yMDI2LTI3LzA5ICgybmQgQ2FsbCk=A13h1MjAyNl9JSVRIXzkyNDkwNl8x: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMDc3MjI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODUxOTI0NA==A13h1SUlUSC9DTUQvRUxFL05JVC8yMDI2LTI3LzA5ICgybmQgQ2FsbCk=A13h1MjAyNl9JSVRIXzkyNDkwNl8x: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk0MTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODUzNzUwMg==A13h1ODcyMC9FOA==A13h1MjAyNl9NRVNfNzg3OTEwXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk0MTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODUzNzUwMg==A13h1ODcyMC9FOA==A13h1MjAyNl9NRVNfNzg3OTEwXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDgxNTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODUzNzU0Ng==A13h1QUFJL0FHVC9FTkdHKEUpL0VOSVQtMDcvMjYtMjc=A13h1MjAyNl9BQUlfMjg5NzMzXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMDgxNTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODUzNzU0Ng==A13h1QUFJL0FHVC9FTkdHKEUpL0VOSVQtMDcvMjYtMjc=A13h1MjAyNl9BQUlfMjg5NzMzXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDgwNTI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODUzNzU4OQ==A13h1ODg5MS9FOA==A13h1MjAyNl9NRVNfNzg3ODcwXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMDgwNTI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODUzNzU4OQ==A13h1ODg5MS9FOA==A13h1MjAyNl9NRVNfNzg3ODcwXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDgwNTI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODUzNzU5Nw==A13h1ODg5MS9FOA==A13h1MjAyNl9NRVNfNzg3ODcwXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMDgwNTI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODUzNzU5Nw==A13h1ODg5MS9FOA==A13h1MjAyNl9NRVNfNzg3ODcwXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDgwNjI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODUzNzU5Nw==A13h1ODg5MC9FOA==A13h1MjAyNl9NRVNfNzg3ODcxXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMDgwNjI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODUzNzU5Nw==A13h1ODg5MC9FOA==A13h1MjAyNl9NRVNfNzg3ODcxXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
       ]
     },
     {
