@@ -1,7 +1,7 @@
 {
-  "status": "SUCCESS",
-  "message": "Scan completed successfully. 13 verified tender(s) found.",
-  "updated_at": "2026-09-05T10:21:58.262289+00:00",
+  "status": "SUCCESS_WITH_WARNINGS",
+  "message": "Scan completed with warnings. 15 verified tender(s) found.",
+  "updated_at": "2026-09-05T15:00:46.079385+00:00",
   "details": [
     {
       "category": "Charging point operations",
@@ -16,10 +16,12 @@
         "battery charging station",
         "charging kiosk"
       ],
-      "status": "SUCCESS",
+      "status": "WARNING",
       "documents_found": 1,
       "verified_tenders": 0,
-      "errors": []
+      "errors": [
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk3Mzc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODYxOTc1MQ==A13h1MjYwL0FDKEUpL0ZUUi1LTVIvMjAyNi0yNw==A13h1MjAyNl9CU0ZfOTI1MDE2XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk3Mzc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODYxOTc1MQ==A13h1MjYwL0FDKEUpL0ZUUi1LTVIvMjAyNi0yNw==A13h1MjAyNl9CU0ZfOTI1MDE2XzE=: The read operation timed out"
+      ]
     },
     {
       "category": "Solar",
@@ -27,8 +29,8 @@
         "solar"
       ],
       "status": "SUCCESS",
-      "documents_found": 1,
-      "verified_tenders": 1,
+      "documents_found": 3,
+      "verified_tenders": 3,
       "errors": []
     },
     {

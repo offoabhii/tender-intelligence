@@ -1,20 +1,33 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-09-05T10:21:58.261842+00:00",
-  "record_count": 13,
+  "generated_at": "2026-09-05T15:00:46.078953+00:00",
+  "record_count": 15,
   "tenders": [
     {
-      "title": "SPECIAL REPAIR/ REPLACEMENT OF DEFECTIVE INVERTER, DCDB, ACDB, CABLES AND CONNECTED ITEMS OF SOLAR PLANTS AT CERTAIN LOCATIONS AT INS GARUDA, NAVAL BASE KOCHI",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk0MTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODYwMzI2Mw==A13h1ODcyMC9FOA==A13h1MjAyNl9NRVNfNzg3OTEwXzE=",
+      "title": "SITC of 5 KWp  Grid connected Roof Top solar PV System at Vijayanagar Colony PO building under Head quarters Region, Telangana Circle",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk5MzI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODYxOTg2Ng==A13h1NjkvRUVFL1BFRC9CR0wvMjAyNi0yNy9IWUQ=A13h1MjAyNl9ET1BfOTI1MDM2XzE=",
       "category": "Solar",
-      "closing_date": "2026-09-25",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "closing_date": "2026-09-12",
+      "issued_by": "Department of Posts",
       "qualification_criteria": "NOT SURE",
       "eligibility_status": "NOT SURE",
       "is_net_cost": false,
       "is_open_now": true,
       "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 25-Sep-2026 06:00 PM"
+      "evidence": "Bid Submission Closing Date: 12-Sep-2026 11:00 AM"
+    },
+    {
+      "title": "SITC of 5 KWp  Grid connected Roof Top solar PV System at Hanamkonda HO  building under Hyderabad Region, Telangana Circle",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk4NzM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODYxOTkxNQ==A13h1NjcvRUVFL1BFRC9CR0wvMjAyNi0yNy9IWUQ=A13h1MjAyNl9ET1BfOTI1MDM0XzE=",
+      "category": "Solar",
+      "closing_date": "2026-09-12",
+      "issued_by": "Department of Posts",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "SITC of 5 KWp  Grid connected Roof Top solar PV System at Hanamkonda HO  building under Hyderabad Region, Telangana Circle"
     },
     {
       "title": "For Setting Up, Operation and Maintenance of Electric Vehicle (Ev) Charging Stations at Kel Premises",
@@ -183,6 +196,20 @@
       "confidence": "HIGH",
       "evidence": "SPECIAL REPAIR REPLACEMENT OF EXISTING UNSV SOLAR SECURITY LIGHTS OF VARIOUS UNIT LOCATIONS",
       "found_at": "2026-09-04T16:06:47.336676"
+    },
+    {
+      "title": "SPECIAL REPAIR/ REPLACEMENT OF DEFECTIVE INVERTER, DCDB, ACDB, CABLES AND CONNECTED ITEMS OF SOLAR PLANTS AT CERTAIN LOCATIONS AT INS GARUDA, NAVAL BASE KOCHI",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk0MTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODYwMzI2Mw==A13h1ODcyMC9FOA==A13h1MjAyNl9NRVNfNzg3OTEwXzE=",
+      "category": "Solar",
+      "closing_date": "2026-09-25",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Bid Submission Closing Date: 25-Sep-2026 06:00 PM",
+      "found_at": "2026-09-05T10:21:58.259149"
     }
   ],
   "source_summary": [
@@ -199,10 +226,12 @@
         "battery charging station",
         "charging kiosk"
       ],
-      "status": "SUCCESS",
+      "status": "WARNING",
       "documents_found": 1,
       "verified_tenders": 0,
-      "errors": []
+      "errors": [
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk3Mzc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODYxOTc1MQ==A13h1MjYwL0FDKEUpL0ZUUi1LTVIvMjAyNi0yNw==A13h1MjAyNl9CU0ZfOTI1MDE2XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk3Mzc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODYxOTc1MQ==A13h1MjYwL0FDKEUpL0ZUUi1LTVIvMjAyNi0yNw==A13h1MjAyNl9CU0ZfOTI1MDE2XzE=: The read operation timed out"
+      ]
     },
     {
       "category": "Solar",
@@ -210,8 +239,8 @@
         "solar"
       ],
       "status": "SUCCESS",
-      "documents_found": 1,
-      "verified_tenders": 1,
+      "documents_found": 3,
+      "verified_tenders": 3,
       "errors": []
     },
     {
