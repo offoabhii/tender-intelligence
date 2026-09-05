@@ -1,8 +1,21 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-09-05T03:39:20.260146+00:00",
-  "record_count": 12,
+  "generated_at": "2026-09-05T10:21:58.261842+00:00",
+  "record_count": 13,
   "tenders": [
+    {
+      "title": "SPECIAL REPAIR/ REPLACEMENT OF DEFECTIVE INVERTER, DCDB, ACDB, CABLES AND CONNECTED ITEMS OF SOLAR PLANTS AT CERTAIN LOCATIONS AT INS GARUDA, NAVAL BASE KOCHI",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk0MTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODYwMzI2Mw==A13h1ODcyMC9FOA==A13h1MjAyNl9NRVNfNzg3OTEwXzE=",
+      "category": "Solar",
+      "closing_date": "2026-09-25",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Bid Submission Closing Date: 25-Sep-2026 06:00 PM"
+    },
     {
       "title": "For Setting Up, Operation and Maintenance of Electric Vehicle (Ev) Charging Stations at Kel Premises",
       "source_url": "https://www.tendersontime.com/indiaproducts/indian-electric-charging-station-tenders-33935",
@@ -186,24 +199,20 @@
         "battery charging station",
         "charging kiosk"
       ],
-      "status": "FAILED",
-      "documents_found": 0,
+      "status": "SUCCESS",
+      "documents_found": 1,
       "verified_tenders": 0,
-      "errors": [
-        "RuntimeError: eprocure.gov.in connection error (page 1, category Charging point operations): HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=30)"
-      ]
+      "errors": []
     },
     {
       "category": "Solar",
       "keywords": [
         "solar"
       ],
-      "status": "FAILED",
-      "documents_found": 0,
-      "verified_tenders": 0,
-      "errors": [
-        "RuntimeError: eprocure.gov.in connection error (page 1, category Solar): HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=30)"
-      ]
+      "status": "SUCCESS",
+      "documents_found": 1,
+      "verified_tenders": 1,
+      "errors": []
     },
     {
       "category": "Bus operations (gross cost only)",
