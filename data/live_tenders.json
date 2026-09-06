@@ -1,20 +1,20 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-09-06T15:16:32.426800+00:00",
+  "generated_at": "2026-09-06T20:18:22.440636+00:00",
   "record_count": 17,
   "tenders": [
     {
-      "title": "REPAIRS / MAINT OF GEYSERS, SOLAR WATER HEATERS AND CONNECTED ITEMS AT AF STN NAL UNDER GE (AF) NAL",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk1NzA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODcwNzM0Mg==A13h1R0UgKEFGKSBOQUwvVC0gNTYvMjAyNi0yNw==A13h1MjAyNl9NRVNfNzg3OTczXzE=",
+      "title": "Construction of Solar Based Deep Boring at Mandudih Panchyat under Pundi Project, CSR Scheme 2026-27 of Kuju Area.",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk3MDg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODcyNTQ3OA==A13h1R00oSykvU09DL2UtTklUL0NTUi8yNi0yNy8yOTQ=A13h1MjAyNl9DQ0xfMzY0OTg4XzE=",
       "category": "Solar",
-      "closing_date": "2026-09-26",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "closing_date": "2026-09-18",
+      "issued_by": "Central Coalfields Limited",
       "qualification_criteria": "NOT SURE",
       "eligibility_status": "NOT SURE",
       "is_net_cost": false,
       "is_open_now": true,
       "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 26-Sep-2026 06:00 PM"
+      "evidence": "Construction of Solar Based Deep Boring at Mandudih Panchyat under Pundi Project, CSR Scheme 2026-27 of Kuju Area."
     },
     {
       "title": "For Setting Up, Operation and Maintenance of Electric Vehicle (Ev) Charging Stations at Kel Premises",
@@ -227,18 +227,18 @@
       "found_at": "2026-09-05T15:00:46.075392"
     },
     {
-      "title": "Construction of Solar Based Deep Boring at Mandudih Panchyat under Pundi Project, CSR Scheme 2026-27 of Kuju Area.",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk3MDg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODYzODk2Mw==A13h1R00oSykvU09DL2UtTklUL0NTUi8yNi0yNy8yOTQ=A13h1MjAyNl9DQ0xfMzY0OTg4XzE=",
+      "title": "REPAIRS / MAINT OF GEYSERS, SOLAR WATER HEATERS AND CONNECTED ITEMS AT AF STN NAL UNDER GE (AF) NAL",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk1NzA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODcwNzM0Mg==A13h1R0UgKEFGKSBOQUwvVC0gNTYvMjAyNi0yNw==A13h1MjAyNl9NRVNfNzg3OTczXzE=",
       "category": "Solar",
-      "closing_date": "2026-09-18",
-      "issued_by": "Central Coalfields Limited",
+      "closing_date": "2026-09-26",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
       "qualification_criteria": "NOT SURE",
       "eligibility_status": "NOT SURE",
       "is_net_cost": false,
       "is_open_now": true,
       "confidence": "HIGH",
-      "evidence": "Construction of Solar Based Deep Boring at Mandudih Panchyat under Pundi Project, CSR Scheme 2026-27 of Kuju Area.",
-      "found_at": "2026-09-05T20:20:34.923257"
+      "evidence": "Bid Submission Closing Date: 26-Sep-2026 06:00 PM",
+      "found_at": "2026-09-06T15:16:32.423609"
     }
   ],
   "source_summary": [
@@ -269,10 +269,10 @@
       "documents_found": 5,
       "verified_tenders": 1,
       "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk3MDg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODcwNzMzNg==A13h1R00oSykvU09DL2UtTklUL0NTUi8yNi0yNy8yOTQ=A13h1MjAyNl9DQ0xfMzY0OTg4XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk3MDg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODcwNzMzNg==A13h1R00oSykvU09DL2UtTklUL0NTUi8yNi0yNy8yOTQ=A13h1MjAyNl9DQ0xfMzY0OTg4XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk5MTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODcwNzM1Mg==A13h1NjgvRUVFL1BFRC9CR0wvMjAyNi0yNy9IWUQ=A13h1MjAyNl9ET1BfOTI1MDM1XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk5MTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODcwNzM1Mg==A13h1NjgvRUVFL1BFRC9CR0wvMjAyNi0yNy9IWUQ=A13h1MjAyNl9ET1BfOTI1MDM1XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk5MzI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODcwNzM1OA==A13h1NjkvRUVFL1BFRC9CR0wvMjAyNi0yNy9IWUQ=A13h1MjAyNl9ET1BfOTI1MDM2XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk5MzI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODcwNzM1OA==A13h1NjkvRUVFL1BFRC9CR0wvMjAyNi0yNy9IWUQ=A13h1MjAyNl9ET1BfOTI1MDM2XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk3MDg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODcwNzM2OA==A13h1R00oSykvU09DL2UtTklUL0NTUi8yNi0yNy8yOTQ=A13h1MjAyNl9DQ0xfMzY0OTg4XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk3MDg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODcwNzM2OA==A13h1R00oSykvU09DL2UtTklUL0NTUi8yNi0yNy8yOTQ=A13h1MjAyNl9DQ0xfMzY0OTg4XzE=: The read operation timed out"
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk3MDg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODcyNTQ0Nw==A13h1R00oSykvU09DL2UtTklUL0NTUi8yNi0yNy8yOTQ=A13h1MjAyNl9DQ0xfMzY0OTg4XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk3MDg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODcyNTQ0Nw==A13h1R00oSykvU09DL2UtTklUL0NTUi8yNi0yNy8yOTQ=A13h1MjAyNl9DQ0xfMzY0OTg4XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk1NzA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODcyNTQ1Mw==A13h1R0UgKEFGKSBOQUwvVC0gNTYvMjAyNi0yNw==A13h1MjAyNl9NRVNfNzg3OTczXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk1NzA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODcyNTQ1Mw==A13h1R0UgKEFGKSBOQUwvVC0gNTYvMjAyNi0yNw==A13h1MjAyNl9NRVNfNzg3OTczXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk5MTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODcyNTQ2Mw==A13h1NjgvRUVFL1BFRC9CR0wvMjAyNi0yNy9IWUQ=A13h1MjAyNl9ET1BfOTI1MDM1XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk5MTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODcyNTQ2Mw==A13h1NjgvRUVFL1BFRC9CR0wvMjAyNi0yNy9IWUQ=A13h1MjAyNl9ET1BfOTI1MDM1XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk5MzI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODcyNTQ2OQ==A13h1NjkvRUVFL1BFRC9CR0wvMjAyNi0yNy9IWUQ=A13h1MjAyNl9ET1BfOTI1MDM2XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk5MzI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODcyNTQ2OQ==A13h1NjkvRUVFL1BFRC9CR0wvMjAyNi0yNy9IWUQ=A13h1MjAyNl9ET1BfOTI1MDM2XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
       ]
     },
     {
