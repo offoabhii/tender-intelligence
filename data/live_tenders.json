@@ -1,20 +1,33 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-09-06T20:18:22.440636+00:00",
-  "record_count": 17,
+  "generated_at": "2026-09-07T03:37:04.171206+00:00",
+  "record_count": 18,
   "tenders": [
     {
-      "title": "Construction of Solar Based Deep Boring at Mandudih Panchyat under Pundi Project, CSR Scheme 2026-27 of Kuju Area.",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk3MDg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODcyNTQ3OA==A13h1R00oSykvU09DL2UtTklUL0NTUi8yNi0yNy8yOTQ=A13h1MjAyNl9DQ0xfMzY0OTg4XzE=",
+      "title": "SITC of 5 KWp  Grid connected Roof Top solar PV System at Uppal HO building under Head Quarters  Region, Telangana Circle",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk5MTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODc1MTg0MA==A13h1NjgvRUVFL1BFRC9CR0wvMjAyNi0yNy9IWUQ=A13h1MjAyNl9ET1BfOTI1MDM1XzE=",
       "category": "Solar",
-      "closing_date": "2026-09-18",
-      "issued_by": "Central Coalfields Limited",
+      "closing_date": "2026-09-12",
+      "issued_by": "Department of Posts",
       "qualification_criteria": "NOT SURE",
       "eligibility_status": "NOT SURE",
       "is_net_cost": false,
       "is_open_now": true,
       "confidence": "HIGH",
-      "evidence": "Construction of Solar Based Deep Boring at Mandudih Panchyat under Pundi Project, CSR Scheme 2026-27 of Kuju Area."
+      "evidence": "Bid Submission Closing Date: 12-Sep-2026 11:00 AM"
+    },
+    {
+      "title": "REPAIRS / MAINT OF GEYSERS, SOLAR WATER HEATERS AND CONNECTED ITEMS AT AF STN NAL UNDER GE (AF) NAL",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk1NzA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODc1MTg0OQ==A13h1R0UgKEFGKSBOQUwvVC0gNTYvMjAyNi0yNw==A13h1MjAyNl9NRVNfNzg3OTczXzE=",
+      "category": "Solar",
+      "closing_date": "2026-09-26",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Bid Submission Closing Date: 26-Sep-2026 06:00 PM"
     },
     {
       "title": "For Setting Up, Operation and Maintenance of Electric Vehicle (Ev) Charging Stations at Kel Premises",
@@ -227,18 +240,18 @@
       "found_at": "2026-09-05T15:00:46.075392"
     },
     {
-      "title": "REPAIRS / MAINT OF GEYSERS, SOLAR WATER HEATERS AND CONNECTED ITEMS AT AF STN NAL UNDER GE (AF) NAL",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk1NzA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODcwNzM0Mg==A13h1R0UgKEFGKSBOQUwvVC0gNTYvMjAyNi0yNw==A13h1MjAyNl9NRVNfNzg3OTczXzE=",
+      "title": "Construction of Solar Based Deep Boring at Mandudih Panchyat under Pundi Project, CSR Scheme 2026-27 of Kuju Area.",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk3MDg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODYzODk2Mw==A13h1R00oSykvU09DL2UtTklUL0NTUi8yNi0yNy8yOTQ=A13h1MjAyNl9DQ0xfMzY0OTg4XzE=",
       "category": "Solar",
-      "closing_date": "2026-09-26",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "closing_date": "2026-09-18",
+      "issued_by": "Central Coalfields Limited",
       "qualification_criteria": "NOT SURE",
       "eligibility_status": "NOT SURE",
       "is_net_cost": false,
       "is_open_now": true,
       "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 26-Sep-2026 06:00 PM",
-      "found_at": "2026-09-06T15:16:32.423609"
+      "evidence": "Construction of Solar Based Deep Boring at Mandudih Panchyat under Pundi Project, CSR Scheme 2026-27 of Kuju Area.",
+      "found_at": "2026-09-05T20:20:34.923257"
     }
   ],
   "source_summary": [
@@ -267,12 +280,11 @@
       ],
       "status": "WARNING",
       "documents_found": 5,
-      "verified_tenders": 1,
+      "verified_tenders": 2,
       "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk3MDg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODcyNTQ0Nw==A13h1R00oSykvU09DL2UtTklUL0NTUi8yNi0yNy8yOTQ=A13h1MjAyNl9DQ0xfMzY0OTg4XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk3MDg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODcyNTQ0Nw==A13h1R00oSykvU09DL2UtTklUL0NTUi8yNi0yNy8yOTQ=A13h1MjAyNl9DQ0xfMzY0OTg4XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk1NzA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODcyNTQ1Mw==A13h1R0UgKEFGKSBOQUwvVC0gNTYvMjAyNi0yNw==A13h1MjAyNl9NRVNfNzg3OTczXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk1NzA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODcyNTQ1Mw==A13h1R0UgKEFGKSBOQUwvVC0gNTYvMjAyNi0yNw==A13h1MjAyNl9NRVNfNzg3OTczXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk5MTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODcyNTQ2Mw==A13h1NjgvRUVFL1BFRC9CR0wvMjAyNi0yNy9IWUQ=A13h1MjAyNl9ET1BfOTI1MDM1XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk5MTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODcyNTQ2Mw==A13h1NjgvRUVFL1BFRC9CR0wvMjAyNi0yNy9IWUQ=A13h1MjAyNl9ET1BfOTI1MDM1XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk5MzI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODcyNTQ2OQ==A13h1NjkvRUVFL1BFRC9CR0wvMjAyNi0yNy9IWUQ=A13h1MjAyNl9ET1BfOTI1MDM2XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk5MzI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODcyNTQ2OQ==A13h1NjkvRUVFL1BFRC9CR0wvMjAyNi0yNy9IWUQ=A13h1MjAyNl9ET1BfOTI1MDM2XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk3MDg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODc1MTg0OQ==A13h1R00oSykvU09DL2UtTklUL0NTUi8yNi0yNy8yOTQ=A13h1MjAyNl9DQ0xfMzY0OTg4XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk3MDg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODc1MTg0OQ==A13h1R00oSykvU09DL2UtTklUL0NTUi8yNi0yNy8yOTQ=A13h1MjAyNl9DQ0xfMzY0OTg4XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk1NzA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODc1MTg2MA==A13h1R0UgKEFGKSBOQUwvVC0gNTYvMjAyNi0yNw==A13h1MjAyNl9NRVNfNzg3OTczXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk1NzA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODc1MTg2MA==A13h1R0UgKEFGKSBOQUwvVC0gNTYvMjAyNi0yNw==A13h1MjAyNl9NRVNfNzg3OTczXzE=: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 55.924809325s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '55s'}]}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk5MzI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODc1MTg2Ng==A13h1NjkvRUVFL1BFRC9CR0wvMjAyNi0yNy9IWUQ=A13h1MjAyNl9ET1BfOTI1MDM2XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk5MzI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODc1MTg2Ng==A13h1NjkvRUVFL1BFRC9CR0wvMjAyNi0yNy9IWUQ=A13h1MjAyNl9ET1BfOTI1MDM2XzE=: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 55.839917991s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.8-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '55s'}]}}"
       ]
     },
     {
