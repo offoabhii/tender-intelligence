@@ -1,20 +1,20 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-09-08T11:04:35.778229+00:00",
-  "record_count": 20,
+  "generated_at": "2026-09-08T16:24:01.998950+00:00",
+  "record_count": 21,
   "tenders": [
     {
-      "title": "SPECIAL REPAIR TO SOLAR LIGHTS AT VARIOUS SPORTS FACILITIES CHILDREN PARK AF STN BHUJ",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTM4Nzc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODg2NDc3Mg==A13h1ODYzNS9WL0U4A13h1MjAyNl9NRVNfNzg4MzY3XzE=",
+      "title": "Repair and maintenance of 25 KWp Solar power plant at BOP K M Para of 33 Bn BSF under SHQ BSF Panisagar SH Shifting of Power Plant on RCC roof",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTM1Mzc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODg4NDE0Mg==A13h1ODAvU0hRL1BTUi9BRShFKS9OSVQvMjAyNi0yNw==A13h1MjAyNl9CU0ZfOTI1MjYzXzE=",
       "category": "Solar",
-      "closing_date": "2026-09-28",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "closing_date": "2026-09-17",
+      "issued_by": "DG,BSF,MHA",
       "qualification_criteria": "NOT SURE",
       "eligibility_status": "NOT SURE",
       "is_net_cost": false,
       "is_open_now": true,
       "confidence": "HIGH",
-      "evidence": "Tender Title: SPECIAL REPAIR TO SOLAR LIGHTS AT VARIOUS SPORTS FACILITIES CHILDREN PARK AF STN BHUJ"
+      "evidence": "Repair and maintenance of 25 KWp Solar power plant at BOP K M Para of 33 Bn BSF under SHQ BSF Panisagar SH Shifting of Power Plant on RCC roof"
     },
     {
       "title": "For Setting Up, Operation and Maintenance of Electric Vehicle (Ev) Charging Stations at Kel Premises",
@@ -281,6 +281,20 @@
       "confidence": "MEDIUM",
       "evidence": "Bid Submission Closing Date: 28-Sep-2026 06:00 PM",
       "found_at": "2026-09-07T21:24:17.921172"
+    },
+    {
+      "title": "SPECIAL REPAIR TO SOLAR LIGHTS AT VARIOUS SPORTS FACILITIES CHILDREN PARK AF STN BHUJ",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTM4Nzc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODg2NDc3Mg==A13h1ODYzNS9WL0U4A13h1MjAyNl9NRVNfNzg4MzY3XzE=",
+      "category": "Solar",
+      "closing_date": "2026-09-28",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Tender Title: SPECIAL REPAIR TO SOLAR LIGHTS AT VARIOUS SPORTS FACILITIES CHILDREN PARK AF STN BHUJ",
+      "found_at": "2026-09-08T11:04:35.775088"
     }
   ],
   "source_summary": [
@@ -307,10 +321,15 @@
       "keywords": [
         "solar"
       ],
-      "status": "SUCCESS",
-      "documents_found": 1,
+      "status": "WARNING",
+      "documents_found": 5,
       "verified_tenders": 1,
-      "errors": []
+      "errors": [
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTM2OTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODg4NDE3MQ==A13h1R0UvR1VSLS9OSVQtODIvMjAyNi0yNw==A13h1MjAyNl9NRVNfNzg4MzQ2XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMTM2OTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODg4NDE3MQ==A13h1R0UvR1VSLS9OSVQtODIvMjAyNi0yNw==A13h1MjAyNl9NRVNfNzg4MzQ2XzE=: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTM2OTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODg4NDE5Mg==A13h1R0UvR1VSLS9OSVQtODIvMjAyNi0yNw==A13h1MjAyNl9NRVNfNzg4MzQ2XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMTM2OTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODg4NDE5Mg==A13h1R0UvR1VSLS9OSVQtODIvMjAyNi0yNw==A13h1MjAyNl9NRVNfNzg4MzQ2XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTM1Mzc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODg4NDE5Mg==A13h1ODAvU0hRL1BTUi9BRShFKS9OSVQvMjAyNi0yNw==A13h1MjAyNl9CU0ZfOTI1MjYzXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMTM1Mzc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODg4NDE5Mg==A13h1ODAvU0hRL1BTUi9BRShFKS9OSVQvMjAyNi0yNw==A13h1MjAyNl9CU0ZfOTI1MjYzXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTQxMzA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODg4NDIxNQ==A13h1UkVJTC9OSVQvUE1DLzIwMjYtMjcvMDAxA13h1MjAyNl9SRUlMXzkyNTM3Ml8x: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMTQxMzA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODg4NDIxNQ==A13h1UkVJTC9OSVQvUE1DLzIwMjYtMjcvMDAxA13h1MjAyNl9SRUlMXzkyNTM3Ml8x: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+      ]
     },
     {
       "category": "Bus operations (gross cost only)",
