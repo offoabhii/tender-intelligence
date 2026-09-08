@@ -1,7 +1,7 @@
 {
-  "status": "SUCCESS_WITH_WARNINGS",
-  "message": "Scan completed with warnings. 19 verified tender(s) found.",
-  "updated_at": "2026-09-08T03:48:39.752150+00:00",
+  "status": "SUCCESS",
+  "message": "Scan completed successfully. 20 verified tender(s) found.",
+  "updated_at": "2026-09-08T11:04:35.778683+00:00",
   "details": [
     {
       "category": "Charging point operations",
@@ -26,12 +26,10 @@
       "keywords": [
         "solar"
       ],
-      "status": "FAILED",
-      "documents_found": 0,
-      "verified_tenders": 0,
-      "errors": [
-        "RuntimeError: eprocure.gov.in connection error (page 1, category Solar): HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=30)"
-      ]
+      "status": "SUCCESS",
+      "documents_found": 1,
+      "verified_tenders": 1,
+      "errors": []
     },
     {
       "category": "Bus operations (gross cost only)",

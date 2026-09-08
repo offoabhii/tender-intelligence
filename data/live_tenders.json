@@ -1,8 +1,21 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-09-08T03:48:39.751535+00:00",
-  "record_count": 19,
+  "generated_at": "2026-09-08T11:04:35.778229+00:00",
+  "record_count": 20,
   "tenders": [
+    {
+      "title": "SPECIAL REPAIR TO SOLAR LIGHTS AT VARIOUS SPORTS FACILITIES CHILDREN PARK AF STN BHUJ",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTM4Nzc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODg2NDc3Mg==A13h1ODYzNS9WL0U4A13h1MjAyNl9NRVNfNzg4MzY3XzE=",
+      "category": "Solar",
+      "closing_date": "2026-09-28",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Tender Title: SPECIAL REPAIR TO SOLAR LIGHTS AT VARIOUS SPORTS FACILITIES CHILDREN PARK AF STN BHUJ"
+    },
     {
       "title": "For Setting Up, Operation and Maintenance of Electric Vehicle (Ev) Charging Stations at Kel Premises",
       "source_url": "https://www.tendersontime.com/indiaproducts/indian-electric-charging-station-tenders-33935",
@@ -294,12 +307,10 @@
       "keywords": [
         "solar"
       ],
-      "status": "FAILED",
-      "documents_found": 0,
-      "verified_tenders": 0,
-      "errors": [
-        "RuntimeError: eprocure.gov.in connection error (page 1, category Solar): HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=30)"
-      ]
+      "status": "SUCCESS",
+      "documents_found": 1,
+      "verified_tenders": 1,
+      "errors": []
     },
     {
       "category": "Bus operations (gross cost only)",
