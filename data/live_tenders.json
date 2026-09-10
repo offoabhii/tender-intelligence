@@ -1,21 +1,8 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-09-10T11:03:11.455536+00:00",
+  "generated_at": "2026-09-10T16:11:28.542402+00:00",
   "record_count": 25,
   "tenders": [
-    {
-      "title": "800066546 SITC of Solar high mast system under CSR budget FY 2026 27 RE at VSTPS",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTc2NzY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTAzNzc4Mg==A13h1TlRQQy9VU1NDLUNQRzIvOTkwMDMzMjk2Nw==A13h1MjAyNl9OVFBDXzExMTc0MV8x",
-      "category": "Solar",
-      "closing_date": "2026-09-21",
-      "issued_by": "NTPC Limited",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 21-Sep-2026 10:00 AM"
-    },
     {
       "title": "Selection of Solar Power Generators (SPGs) on the basis of Build, Own & Operate (BOO) for Design, Survey, Supply, Installation, Testing, Commissioning, Operation & Maintenance of grid connected distributed solar power plants for solarization of Sub-Station (SS) of capacity 500MW in BESCOM jurisdicti",
       "source_url": "https://tenders.infralens.in/solar-power-plant-tenders",
@@ -351,6 +338,20 @@
       "confidence": "HIGH",
       "evidence": "Bid Submission Closing Date: 23-Sep-2026 12:00 PM",
       "found_at": "2026-09-09T20:48:27.182303"
+    },
+    {
+      "title": "800066546 SITC of Solar high mast system under CSR budget FY 2026 27 RE at VSTPS",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTc2NzY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTAzNzc4Mg==A13h1TlRQQy9VU1NDLUNQRzIvOTkwMDMzMjk2Nw==A13h1MjAyNl9OVFBDXzExMTc0MV8x",
+      "category": "Solar",
+      "closing_date": "2026-09-21",
+      "issued_by": "NTPC Limited",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Bid Submission Closing Date: 21-Sep-2026 10:00 AM",
+      "found_at": "2026-09-10T11:03:11.451626"
     }
   ],
   "source_summary": [
@@ -378,12 +379,12 @@
         "solar"
       ],
       "status": "WARNING",
-      "documents_found": 4,
-      "verified_tenders": 1,
+      "documents_found": 3,
+      "verified_tenders": 0,
       "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTgwODQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTAzNzY5Mg==A13h1NzYvRUUvUEVEL0tPTC9OSVQvMjYtMjc=A13h1MjAyNl9ET1BfOTI1NjUyXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMTgwODQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTAzNzY5Mg==A13h1NzYvRUUvUEVEL0tPTC9OSVQvMjYtMjc=A13h1MjAyNl9ET1BfOTI1NjUyXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTc5NTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTAzNzcxNA==A13h1Q1dFL0ZaUi03NS8yMDI2LTI3A13h1MjAyNl9NRVNfNzg4NzQ5XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMTc5NTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTAzNzcxNA==A13h1Q1dFL0ZaUi03NS8yMDI2LTI3A13h1MjAyNl9NRVNfNzg4NzQ5XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTc3NDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTAzNzc4Mg==A13h1SUlUREgvSVBTLzIwMjYtMjcvMDE1A13h1MjAyNl9JSVREV185MjUzNDRfMQ==: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMTc3NDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTAzNzc4Mg==A13h1SUlUREgvSVBTLzIwMjYtMjcvMDE1A13h1MjAyNl9JSVREV185MjUzNDRfMQ==: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjEyOTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA1NjE5NQ==A13h1R0UvRFcvVE9LRU4vOTYgT0YgMjYtMjc=A13h1MjAyNl9NRVNfNzg4ODQ4XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMjEyOTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA1NjE5NQ==A13h1R0UvRFcvVE9LRU4vOTYgT0YgMjYtMjc=A13h1MjAyNl9NRVNfNzg4ODQ4XzE=: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTg0ODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA1NjI1MA==A13h1MTU5NC9FOA==A13h1MjAyNl9NRVNfNzg4ODI1XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMTg0ODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA1NjI1MA==A13h1MTU5NC9FOA==A13h1MjAyNl9NRVNfNzg4ODI1XzE=: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTgyODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA1NjI5OA==A13h1MTAwMDQ2NDQ0NA==A13h1MjAyNl9CUENMXzI2NTcw: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMTgyODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA1NjI5OA==A13h1MTAwMDQ2NDQ0NA==A13h1MjAyNl9CUENMXzI2NTcw: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}"
       ]
     },
     {

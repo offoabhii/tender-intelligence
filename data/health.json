@@ -1,7 +1,7 @@
 {
   "status": "SUCCESS_WITH_WARNINGS",
   "message": "Scan completed with warnings. 25 verified tender(s) found.",
-  "updated_at": "2026-09-10T11:03:11.456164+00:00",
+  "updated_at": "2026-09-10T16:11:28.542963+00:00",
   "details": [
     {
       "category": "Charging point operations",
@@ -27,12 +27,12 @@
         "solar"
       ],
       "status": "WARNING",
-      "documents_found": 4,
-      "verified_tenders": 1,
+      "documents_found": 3,
+      "verified_tenders": 0,
       "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTgwODQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTAzNzY5Mg==A13h1NzYvRUUvUEVEL0tPTC9OSVQvMjYtMjc=A13h1MjAyNl9ET1BfOTI1NjUyXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMTgwODQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTAzNzY5Mg==A13h1NzYvRUUvUEVEL0tPTC9OSVQvMjYtMjc=A13h1MjAyNl9ET1BfOTI1NjUyXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTc5NTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTAzNzcxNA==A13h1Q1dFL0ZaUi03NS8yMDI2LTI3A13h1MjAyNl9NRVNfNzg4NzQ5XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMTc5NTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTAzNzcxNA==A13h1Q1dFL0ZaUi03NS8yMDI2LTI3A13h1MjAyNl9NRVNfNzg4NzQ5XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTc3NDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTAzNzc4Mg==A13h1SUlUREgvSVBTLzIwMjYtMjcvMDE1A13h1MjAyNl9JSVREV185MjUzNDRfMQ==: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMTc3NDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTAzNzc4Mg==A13h1SUlUREgvSVBTLzIwMjYtMjcvMDE1A13h1MjAyNl9JSVREV185MjUzNDRfMQ==: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjEyOTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA1NjE5NQ==A13h1R0UvRFcvVE9LRU4vOTYgT0YgMjYtMjc=A13h1MjAyNl9NRVNfNzg4ODQ4XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMjEyOTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA1NjE5NQ==A13h1R0UvRFcvVE9LRU4vOTYgT0YgMjYtMjc=A13h1MjAyNl9NRVNfNzg4ODQ4XzE=: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTg0ODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA1NjI1MA==A13h1MTU5NC9FOA==A13h1MjAyNl9NRVNfNzg4ODI1XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMTg0ODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA1NjI1MA==A13h1MTU5NC9FOA==A13h1MjAyNl9NRVNfNzg4ODI1XzE=: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTgyODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA1NjI5OA==A13h1MTAwMDQ2NDQ0NA==A13h1MjAyNl9CUENMXzI2NTcw: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMTgyODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA1NjI5OA==A13h1MTAwMDQ2NDQ0NA==A13h1MjAyNl9CUENMXzI2NTcw: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}"
       ]
     },
     {
