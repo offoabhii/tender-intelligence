@@ -1,11 +1,11 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-09-09T20:48:27.184894+00:00",
+  "generated_at": "2026-09-10T03:46:21.789276+00:00",
   "record_count": 24,
   "tenders": [
     {
       "title": "REPAIR, MAINTENANCE AND REPLACEMENT OF STEEL TUBULAR POLES, LIGHT BRACKETS, SOLAR STREET LIGHTS, JUNCTION BOXES, FEEDER PILLAR BOXES, AND OTHER ALLIED WORKS AT OLD AND NEW NAVY NAGAR UNDER GE(NW) NAVY NAGAR, COLABA, MUMBAI",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTcyOTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODk4NjQxMQ==A13h1ODY3NS9FOA==A13h1MjAyNl9NRVNfNzg4NjQxXzE=",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTcyOTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTAxMTQ4NA==A13h1ODY3NS9FOA==A13h1MjAyNl9NRVNfNzg4NjQxXzE=",
       "category": "Solar",
       "closing_date": "2026-09-30",
       "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
@@ -14,20 +14,7 @@
       "is_net_cost": false,
       "is_open_now": true,
       "confidence": "HIGH",
-      "evidence": "SOLAR STREET LIGHTS"
-    },
-    {
-      "title": "ROOF TOP MOUNTED SOLAR POWER SYSTEM",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTYyMjc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODk4NjU1Mw==A13h1TUtLL0IzMDItMDAwLVhaLU1SLTA3MTAvMTE1A13h1MjAyNl9FSUxfOTI0MDIzXzE=",
-      "category": "Solar",
-      "closing_date": "2026-09-23",
-      "issued_by": "Engineers India Limited,MoPNG",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 23-Sep-2026 12:00 PM"
+      "evidence": "Bid Submission Closing Date: 30-Sep-2026 06:50 PM"
     },
     {
       "title": "Selection of Solar Power Generators (SPGs) on the basis of Build, Own & Operate (BOO) for Design, Survey, Supply, Installation, Testing, Commissioning, Operation & Maintenance of grid connected distributed solar power plants for solarization of Sub-Station (SS) of capacity 500MW in BESCOM jurisdicti",
@@ -336,6 +323,20 @@
       "confidence": "HIGH",
       "evidence": "Supply And Installation of 200nos Solar Street Lights in nearby Project Affected Villages at NTPC Khargone",
       "found_at": "2026-09-09T16:17:37.521448"
+    },
+    {
+      "title": "ROOF TOP MOUNTED SOLAR POWER SYSTEM",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTYyMjc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODk4NjU1Mw==A13h1TUtLL0IzMDItMDAwLVhaLU1SLTA3MTAvMTE1A13h1MjAyNl9FSUxfOTI0MDIzXzE=",
+      "category": "Solar",
+      "closing_date": "2026-09-23",
+      "issued_by": "Engineers India Limited,MoPNG",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Bid Submission Closing Date: 23-Sep-2026 12:00 PM",
+      "found_at": "2026-09-09T20:48:27.182303"
     }
   ],
   "source_summary": [
@@ -366,7 +367,7 @@
       "documents_found": 3,
       "verified_tenders": 2,
       "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTczMTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODk4NjQwMQ==A13h1R0FJTC9OT0lEQS9DTlAvUFJPSi8yNi00MA==A13h1MjAyNl9HQUlMXzI4OTA2MV8x: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMTczMTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODk4NjQwMQ==A13h1R0FJTC9OT0lEQS9DTlAvUFJPSi8yNi00MA==A13h1MjAyNl9HQUlMXzI4OTA2MV8x: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTczMTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTAxMTQ3MA==A13h1R0FJTC9OT0lEQS9DTlAvUFJPSi8yNi00MA==A13h1MjAyNl9HQUlMXzI4OTA2MV8x: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMTczMTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTAxMTQ3MA==A13h1R0FJTC9OT0lEQS9DTlAvUFJPSi8yNi00MA==A13h1MjAyNl9HQUlMXzI4OTA2MV8x: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
       ]
     },
     {

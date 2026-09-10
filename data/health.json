@@ -1,7 +1,7 @@
 {
   "status": "SUCCESS_WITH_WARNINGS",
   "message": "Scan completed with warnings. 24 verified tender(s) found.",
-  "updated_at": "2026-09-09T20:48:27.185555+00:00",
+  "updated_at": "2026-09-10T03:46:21.789880+00:00",
   "details": [
     {
       "category": "Charging point operations",
@@ -30,7 +30,7 @@
       "documents_found": 3,
       "verified_tenders": 2,
       "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTczMTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODk4NjQwMQ==A13h1R0FJTC9OT0lEQS9DTlAvUFJPSi8yNi00MA==A13h1MjAyNl9HQUlMXzI4OTA2MV8x: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMTczMTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODk4NjQwMQ==A13h1R0FJTC9OT0lEQS9DTlAvUFJPSi8yNi00MA==A13h1MjAyNl9HQUlMXzI4OTA2MV8x: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTczMTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTAxMTQ3MA==A13h1R0FJTC9OT0lEQS9DTlAvUFJPSi8yNi00MA==A13h1MjAyNl9HQUlMXzI4OTA2MV8x: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMTczMTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTAxMTQ3MA==A13h1R0FJTC9OT0lEQS9DTlAvUFJPSi8yNi00MA==A13h1MjAyNl9HQUlMXzI4OTA2MV8x: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
       ]
     },
     {
