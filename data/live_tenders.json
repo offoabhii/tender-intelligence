@@ -1,20 +1,33 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-09-11T10:59:31.574536+00:00",
-  "record_count": 28,
+  "generated_at": "2026-09-11T16:13:36.350908+00:00",
+  "record_count": 30,
   "tenders": [
     {
-      "title": "SITC off grid solar system",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjE0OTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTEyMzk0Mw==A13h1NzcvRUUvUEVEL0tPTC9OSVQvMjYtMjc=A13h1MjAyNl9ET1BfOTI1ODA0XzE=",
-      "category": "Solar",
-      "closing_date": "2026-09-18",
-      "issued_by": "Department of Posts",
+      "title": "REPAIR/ REPLACEMENT OF LT ELECTRIC SUPPLY, DISTRIBUTION NETWORK OF VARIOUS OTM BLDGS AND REPLACEMENT OF VARIOUS UNDER WATER LIGHTS INCLUDING COMPREHENSIVE MAINTENANCE OF EV CHARGING STATION AT NAVY NAGAR, COLABA, MUMBAI",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjE4MjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTE0MjY3Mw==A13h1ODY5OC9FOA==A13h1MjAyNl9NRVNfNzg4OTUwXzE=",
+      "category": "Charging point operations",
+      "closing_date": "2026-10-02",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
       "qualification_criteria": "NOT SURE",
       "eligibility_status": "NOT SURE",
       "is_net_cost": false,
       "is_open_now": true,
       "confidence": "HIGH",
-      "evidence": "Tender Title: SITC off grid solar system"
+      "evidence": "COMPREHENSIVE MAINTENANCE OF EV CHARGING STATION AT NAVY NAGAR, COLABA, MUMBAI"
+    },
+    {
+      "title": "REPAIR/MAINTENANCE OF HOT WATER APPLIANCES, SOLAR WATER HEATER, PANEL PIPES, SOLAR TANKS, ALLIED ACCESSORIES AND INTERNAL ELECTRIC WORKS AT DRC AREA OF AYODHYA CANTT UNDER AGE (I) AYODHYA.",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjIzODE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTE0MjgxMQ==A13h1ODQwMC8yMTAvRTg=A13h1MjAyNl9NRVNfNzgzNDQ5XzE=",
+      "category": "Solar",
+      "closing_date": "2026-10-03",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Bid Submission Closing Date: 03-Oct-2026 06:00 PM"
     },
     {
       "title": "Selection of Solar Power Generators (SPGs) on the basis of Build, Own & Operate (BOO) for Design, Survey, Supply, Installation, Testing, Commissioning, Operation & Maintenance of grid connected distributed solar power plants for solarization of Sub-Station (SS) of capacity 500MW in BESCOM jurisdicti",
@@ -393,6 +406,20 @@
       "confidence": "HIGH",
       "evidence": "REPAIR MAINT OF GEYSER AND SOLAR WATER HEATERS AT DOMESTIC AND TECHNICAL AREA AT AF STN NALIYA",
       "found_at": "2026-09-11T03:42:39.159850"
+    },
+    {
+      "title": "SITC off grid solar system",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjE0OTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTEyMzk0Mw==A13h1NzcvRUUvUEVEL0tPTC9OSVQvMjYtMjc=A13h1MjAyNl9ET1BfOTI1ODA0XzE=",
+      "category": "Solar",
+      "closing_date": "2026-09-18",
+      "issued_by": "Department of Posts",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Tender Title: SITC off grid solar system",
+      "found_at": "2026-09-11T10:59:31.571380"
     }
   ],
   "source_summary": [
@@ -409,9 +436,9 @@
         "battery charging station",
         "charging kiosk"
       ],
-      "status": "NO_RESULTS",
-      "documents_found": 0,
-      "verified_tenders": 0,
+      "status": "SUCCESS",
+      "documents_found": 1,
+      "verified_tenders": 1,
       "errors": []
     },
     {
@@ -419,16 +446,10 @@
       "keywords": [
         "solar"
       ],
-      "status": "WARNING",
-      "documents_found": 6,
-      "verified_tenders": 1,
-      "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjE4NzQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTEyMzg1Nw==A13h1R0UoTikvTS02Ny8yMDI2LTI3A13h1MjAyNl9NRVNfNzg4OTU5XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMjE4NzQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTEyMzg1Nw==A13h1R0UoTikvTS02Ny8yMDI2LTI3A13h1MjAyNl9NRVNfNzg4OTU5XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjE4NzQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTEyMzg2Mw==A13h1R0UoTikvTS02Ny8yMDI2LTI3A13h1MjAyNl9NRVNfNzg4OTU5XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMjE4NzQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTEyMzg2Mw==A13h1R0UoTikvTS02Ny8yMDI2LTI3A13h1MjAyNl9NRVNfNzg4OTU5XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjE4NzQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTEyMzg2OQ==A13h1R0UoTikvTS02Ny8yMDI2LTI3A13h1MjAyNl9NRVNfNzg4OTU5XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMjE4NzQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTEyMzg2OQ==A13h1R0UoTikvTS02Ny8yMDI2LTI3A13h1MjAyNl9NRVNfNzg4OTU5XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjE3ODY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTEyMzg5Nw==A13h1NzgvRUUvUEVEL0tPTC9OSVQvMjYtMjc=A13h1MjAyNl9ET1BfOTI1ODMxXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMjE3ODY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTEyMzg5Nw==A13h1NzgvRUUvUEVEL0tPTC9OSVQvMjYtMjc=A13h1MjAyNl9ET1BfOTI1ODMxXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTg0MzM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTEyMzk2Ng==A13h1ODIzOS9FOA==A13h1MjAyNl9NRVNfNzg4ODExXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMTg0MzM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTEyMzk2Ng==A13h1ODIzOS9FOA==A13h1MjAyNl9NRVNfNzg4ODExXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
-      ]
+      "status": "SUCCESS",
+      "documents_found": 3,
+      "verified_tenders": 3,
+      "errors": []
     },
     {
       "category": "Bus operations (gross cost only)",
