@@ -1,20 +1,20 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-09-10T20:43:02.343694+00:00",
-  "record_count": 26,
+  "generated_at": "2026-09-11T03:42:39.162839+00:00",
+  "record_count": 27,
   "tenders": [
     {
-      "title": "REPAIR OF 33 KV VCB PANEL & PREVENTIVE MAINTENANCE OF TRANSFORMER FOR RESTORATION OF SOLAR POWER PLANT.",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTgyODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA3MjY2NA==A13h1MTAwMDQ2NDQ0NA==A13h1MjAyNl9CUENMXzI2NTcw",
+      "title": "REPAIR MAINT OF GEYSER AND SOLAR WATER HEATERS AT DOMESTIC AND TECHNICAL AREA AT AF STN NALIYA",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTg0MzM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA5NzY5Ng==A13h1ODIzOS9FOA==A13h1MjAyNl9NRVNfNzg4ODExXzE=",
       "category": "Solar",
-      "closing_date": "2026-09-14",
-      "issued_by": "Bharat Petroleum Corporation Limited",
+      "closing_date": "2026-09-30",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
       "qualification_criteria": "NOT SURE",
       "eligibility_status": "NOT SURE",
       "is_net_cost": false,
       "is_open_now": true,
       "confidence": "HIGH",
-      "evidence": "REPAIR OF 33 KV VCB PANEL & PREVENTIVE MAINTENANCE OF TRANSFORMER FOR RESTORATION OF SOLAR POWER PLANT."
+      "evidence": "REPAIR MAINT OF GEYSER AND SOLAR WATER HEATERS AT DOMESTIC AND TECHNICAL AREA AT AF STN NALIYA"
     },
     {
       "title": "Selection of Solar Power Generators (SPGs) on the basis of Build, Own & Operate (BOO) for Design, Survey, Supply, Installation, Testing, Commissioning, Operation & Maintenance of grid connected distributed solar power plants for solarization of Sub-Station (SS) of capacity 500MW in BESCOM jurisdicti",
@@ -365,6 +365,20 @@
       "confidence": "HIGH",
       "evidence": "Bid Submission Closing Date: 21-Sep-2026 10:00 AM",
       "found_at": "2026-09-10T11:03:11.451626"
+    },
+    {
+      "title": "REPAIR OF 33 KV VCB PANEL & PREVENTIVE MAINTENANCE OF TRANSFORMER FOR RESTORATION OF SOLAR POWER PLANT.",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTgyODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA3MjY2NA==A13h1MTAwMDQ2NDQ0NA==A13h1MjAyNl9CUENMXzI2NTcw",
+      "category": "Solar",
+      "closing_date": "2026-09-14",
+      "issued_by": "Bharat Petroleum Corporation Limited",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "REPAIR OF 33 KV VCB PANEL & PREVENTIVE MAINTENANCE OF TRANSFORMER FOR RESTORATION OF SOLAR POWER PLANT.",
+      "found_at": "2026-09-10T20:43:02.340049"
     }
   ],
   "source_summary": [
@@ -392,11 +406,12 @@
         "solar"
       ],
       "status": "WARNING",
-      "documents_found": 3,
-      "verified_tenders": 1,
+      "documents_found": 5,
+      "verified_tenders": 2,
       "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjEyOTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA3MjU1MQ==A13h1R0UvRFcvVE9LRU4vOTYgT0YgMjYtMjc=A13h1MjAyNl9NRVNfNzg4ODQ4XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMjEyOTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA3MjU1MQ==A13h1R0UvRFcvVE9LRU4vOTYgT0YgMjYtMjc=A13h1MjAyNl9NRVNfNzg4ODQ4XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTg0ODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA3MjU2NQ==A13h1MTU5NC9FOA==A13h1MjAyNl9NRVNfNzg4ODI1XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMTg0ODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA3MjU2NQ==A13h1MTU5NC9FOA==A13h1MjAyNl9NRVNfNzg4ODI1XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTg0MzM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA5NzY5MA==A13h1ODIzOS9FOA==A13h1MjAyNl9NRVNfNzg4ODExXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMTg0MzM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA5NzY5MA==A13h1ODIzOS9FOA==A13h1MjAyNl9NRVNfNzg4ODExXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjEyOTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA5Nzc2Nw==A13h1R0UvRFcvVE9LRU4vOTYgT0YgMjYtMjc=A13h1MjAyNl9NRVNfNzg4ODQ4XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMjEyOTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA5Nzc2Nw==A13h1R0UvRFcvVE9LRU4vOTYgT0YgMjYtMjc=A13h1MjAyNl9NRVNfNzg4ODQ4XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTg0ODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA5NzgzNA==A13h1MTU5NC9FOA==A13h1MjAyNl9NRVNfNzg4ODI1XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMTg0ODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA5NzgzNA==A13h1MTU5NC9FOA==A13h1MjAyNl9NRVNfNzg4ODI1XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
       ]
     },
     {
