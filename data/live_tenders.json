@@ -1,20 +1,20 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-09-11T03:42:39.162839+00:00",
-  "record_count": 27,
+  "generated_at": "2026-09-11T10:59:31.574536+00:00",
+  "record_count": 28,
   "tenders": [
     {
-      "title": "REPAIR MAINT OF GEYSER AND SOLAR WATER HEATERS AT DOMESTIC AND TECHNICAL AREA AT AF STN NALIYA",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTg0MzM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA5NzY5Ng==A13h1ODIzOS9FOA==A13h1MjAyNl9NRVNfNzg4ODExXzE=",
+      "title": "SITC off grid solar system",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjE0OTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTEyMzk0Mw==A13h1NzcvRUUvUEVEL0tPTC9OSVQvMjYtMjc=A13h1MjAyNl9ET1BfOTI1ODA0XzE=",
       "category": "Solar",
-      "closing_date": "2026-09-30",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "closing_date": "2026-09-18",
+      "issued_by": "Department of Posts",
       "qualification_criteria": "NOT SURE",
       "eligibility_status": "NOT SURE",
       "is_net_cost": false,
       "is_open_now": true,
       "confidence": "HIGH",
-      "evidence": "REPAIR MAINT OF GEYSER AND SOLAR WATER HEATERS AT DOMESTIC AND TECHNICAL AREA AT AF STN NALIYA"
+      "evidence": "Tender Title: SITC off grid solar system"
     },
     {
       "title": "Selection of Solar Power Generators (SPGs) on the basis of Build, Own & Operate (BOO) for Design, Survey, Supply, Installation, Testing, Commissioning, Operation & Maintenance of grid connected distributed solar power plants for solarization of Sub-Station (SS) of capacity 500MW in BESCOM jurisdicti",
@@ -379,6 +379,20 @@
       "confidence": "HIGH",
       "evidence": "REPAIR OF 33 KV VCB PANEL & PREVENTIVE MAINTENANCE OF TRANSFORMER FOR RESTORATION OF SOLAR POWER PLANT.",
       "found_at": "2026-09-10T20:43:02.340049"
+    },
+    {
+      "title": "REPAIR MAINT OF GEYSER AND SOLAR WATER HEATERS AT DOMESTIC AND TECHNICAL AREA AT AF STN NALIYA",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTg0MzM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA5NzY5Ng==A13h1ODIzOS9FOA==A13h1MjAyNl9NRVNfNzg4ODExXzE=",
+      "category": "Solar",
+      "closing_date": "2026-09-30",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "REPAIR MAINT OF GEYSER AND SOLAR WATER HEATERS AT DOMESTIC AND TECHNICAL AREA AT AF STN NALIYA",
+      "found_at": "2026-09-11T03:42:39.159850"
     }
   ],
   "source_summary": [
@@ -406,12 +420,14 @@
         "solar"
       ],
       "status": "WARNING",
-      "documents_found": 5,
-      "verified_tenders": 2,
+      "documents_found": 6,
+      "verified_tenders": 1,
       "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTg0MzM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA5NzY5MA==A13h1ODIzOS9FOA==A13h1MjAyNl9NRVNfNzg4ODExXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMTg0MzM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA5NzY5MA==A13h1ODIzOS9FOA==A13h1MjAyNl9NRVNfNzg4ODExXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjEyOTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA5Nzc2Nw==A13h1R0UvRFcvVE9LRU4vOTYgT0YgMjYtMjc=A13h1MjAyNl9NRVNfNzg4ODQ4XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMjEyOTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA5Nzc2Nw==A13h1R0UvRFcvVE9LRU4vOTYgT0YgMjYtMjc=A13h1MjAyNl9NRVNfNzg4ODQ4XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTg0ODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA5NzgzNA==A13h1MTU5NC9FOA==A13h1MjAyNl9NRVNfNzg4ODI1XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMTg0ODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA5NzgzNA==A13h1MTU5NC9FOA==A13h1MjAyNl9NRVNfNzg4ODI1XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjE4NzQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTEyMzg1Nw==A13h1R0UoTikvTS02Ny8yMDI2LTI3A13h1MjAyNl9NRVNfNzg4OTU5XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMjE4NzQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTEyMzg1Nw==A13h1R0UoTikvTS02Ny8yMDI2LTI3A13h1MjAyNl9NRVNfNzg4OTU5XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjE4NzQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTEyMzg2Mw==A13h1R0UoTikvTS02Ny8yMDI2LTI3A13h1MjAyNl9NRVNfNzg4OTU5XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMjE4NzQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTEyMzg2Mw==A13h1R0UoTikvTS02Ny8yMDI2LTI3A13h1MjAyNl9NRVNfNzg4OTU5XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjE4NzQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTEyMzg2OQ==A13h1R0UoTikvTS02Ny8yMDI2LTI3A13h1MjAyNl9NRVNfNzg4OTU5XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMjE4NzQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTEyMzg2OQ==A13h1R0UoTikvTS02Ny8yMDI2LTI3A13h1MjAyNl9NRVNfNzg4OTU5XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjE3ODY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTEyMzg5Nw==A13h1NzgvRUUvUEVEL0tPTC9OSVQvMjYtMjc=A13h1MjAyNl9ET1BfOTI1ODMxXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMjE3ODY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTEyMzg5Nw==A13h1NzgvRUUvUEVEL0tPTC9OSVQvMjYtMjc=A13h1MjAyNl9ET1BfOTI1ODMxXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTg0MzM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTEyMzk2Ng==A13h1ODIzOS9FOA==A13h1MjAyNl9NRVNfNzg4ODExXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMTg0MzM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTEyMzk2Ng==A13h1ODIzOS9FOA==A13h1MjAyNl9NRVNfNzg4ODExXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
       ]
     },
     {
