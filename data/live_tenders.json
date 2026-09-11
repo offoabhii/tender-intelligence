@@ -1,11 +1,11 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-09-11T16:13:36.350908+00:00",
+  "generated_at": "2026-09-11T20:50:04.390428+00:00",
   "record_count": 30,
   "tenders": [
     {
       "title": "REPAIR/ REPLACEMENT OF LT ELECTRIC SUPPLY, DISTRIBUTION NETWORK OF VARIOUS OTM BLDGS AND REPLACEMENT OF VARIOUS UNDER WATER LIGHTS INCLUDING COMPREHENSIVE MAINTENANCE OF EV CHARGING STATION AT NAVY NAGAR, COLABA, MUMBAI",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjE4MjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTE0MjY3Mw==A13h1ODY5OC9FOA==A13h1MjAyNl9NRVNfNzg4OTUwXzE=",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjE4MjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTE1OTE0Mg==A13h1ODY5OC9FOA==A13h1MjAyNl9NRVNfNzg4OTUwXzE=",
       "category": "Charging point operations",
       "closing_date": "2026-10-02",
       "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
@@ -13,21 +13,8 @@
       "eligibility_status": "NOT SURE",
       "is_net_cost": false,
       "is_open_now": true,
-      "confidence": "HIGH",
+      "confidence": "MEDIUM",
       "evidence": "COMPREHENSIVE MAINTENANCE OF EV CHARGING STATION AT NAVY NAGAR, COLABA, MUMBAI"
-    },
-    {
-      "title": "REPAIR/MAINTENANCE OF HOT WATER APPLIANCES, SOLAR WATER HEATER, PANEL PIPES, SOLAR TANKS, ALLIED ACCESSORIES AND INTERNAL ELECTRIC WORKS AT DRC AREA OF AYODHYA CANTT UNDER AGE (I) AYODHYA.",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjIzODE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTE0MjgxMQ==A13h1ODQwMC8yMTAvRTg=A13h1MjAyNl9NRVNfNzgzNDQ5XzE=",
-      "category": "Solar",
-      "closing_date": "2026-10-03",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 03-Oct-2026 06:00 PM"
     },
     {
       "title": "Selection of Solar Power Generators (SPGs) on the basis of Build, Own & Operate (BOO) for Design, Survey, Supply, Installation, Testing, Commissioning, Operation & Maintenance of grid connected distributed solar power plants for solarization of Sub-Station (SS) of capacity 500MW in BESCOM jurisdicti",
@@ -420,6 +407,20 @@
       "confidence": "HIGH",
       "evidence": "Tender Title: SITC off grid solar system",
       "found_at": "2026-09-11T10:59:31.571380"
+    },
+    {
+      "title": "REPAIR/MAINTENANCE OF HOT WATER APPLIANCES, SOLAR WATER HEATER, PANEL PIPES, SOLAR TANKS, ALLIED ACCESSORIES AND INTERNAL ELECTRIC WORKS AT DRC AREA OF AYODHYA CANTT UNDER AGE (I) AYODHYA.",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjIzODE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTE0MjgxMQ==A13h1ODQwMC8yMTAvRTg=A13h1MjAyNl9NRVNfNzgzNDQ5XzE=",
+      "category": "Solar",
+      "closing_date": "2026-10-03",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Bid Submission Closing Date: 03-Oct-2026 06:00 PM",
+      "found_at": "2026-09-11T16:13:36.348334"
     }
   ],
   "source_summary": [
@@ -436,20 +437,24 @@
         "battery charging station",
         "charging kiosk"
       ],
-      "status": "SUCCESS",
-      "documents_found": 1,
-      "verified_tenders": 1,
-      "errors": []
+      "status": "WARNING",
+      "documents_found": 4,
+      "verified_tenders": 3,
+      "errors": [
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjE4MjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTE1OTExOQ==A13h1ODY5OC9FOA==A13h1MjAyNl9NRVNfNzg4OTUwXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMjE4MjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTE1OTExOQ==A13h1ODY5OC9FOA==A13h1MjAyNl9NRVNfNzg4OTUwXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+      ]
     },
     {
       "category": "Solar",
       "keywords": [
         "solar"
       ],
-      "status": "SUCCESS",
-      "documents_found": 3,
-      "verified_tenders": 3,
-      "errors": []
+      "status": "WARNING",
+      "documents_found": 1,
+      "verified_tenders": 0,
+      "errors": [
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjIwNjM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTE1OTQwOQ==A13h1ODEzMTMvRTg=A13h1MjAyNl9NRVNfNzY1MDkwXzM=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMjIwNjM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTE1OTQwOQ==A13h1ODEzMTMvRTg=A13h1MjAyNl9NRVNfNzY1MDkwXzM=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+      ]
     },
     {
       "category": "Bus operations (gross cost only)",
