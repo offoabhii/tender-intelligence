@@ -1,46 +1,20 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-09-12T10:29:32.236787+00:00",
-  "record_count": 33,
+  "generated_at": "2026-09-12T15:21:11.127691+00:00",
+  "record_count": 34,
   "tenders": [
     {
-      "title": "PROVN OF INDUSTRIAL SIZE DEHUMIDIFIER AT BLDG NO 349, PROVN OF 10 X SOLAR STREET LIGHT IN INF BN II LOC AND PROVN OF SECURITY, BOLLARD LIGHT, GATE LIGHT AND ALLIED WORKS FOR WATER SUPPLY INSTALLATION AT UMROI MIL STN UNDER GE UMROI",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjM0NTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTIwODM4Mg==A13h1ODUwMS9FOA==A13h1MjAyNl9NRVNfNzg5MTc4XzE=",
+      "title": "Spl rep/repl of old HPSV/HPMV/CFL T5 street light with new LED street light fitting and provn of solar street light for internal road/hostel area and provn of 02xhigh mast light at APS and 2 ASD at Mil Stn Beas under GE Kapurthala",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjM2NTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTIyNjAzOQ==A13h1ODE5NC9FOA==A13h1MjAyNl9NRVNfNzg5MjQ1XzE=",
       "category": "Solar",
-      "closing_date": "2026-10-07",
+      "closing_date": "2026-10-03",
       "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
       "qualification_criteria": "NOT SURE",
       "eligibility_status": "NOT SURE",
       "is_net_cost": false,
       "is_open_now": true,
       "confidence": "HIGH",
-      "evidence": "PROVN OF 10 X SOLAR STREET LIGHT IN INF BN II LOC"
-    },
-    {
-      "title": "Comprehensive Rectification of the Existing 300 kW Ground Mounted Solar PV Power Plant and associated 100 kW Rooftop Solar PV Plant at Ennore LPG Bottling Plant Ennore Chennai",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjMyNDk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTIwODQzMA==A13h1RUJQL1NvbGFyIFBsYW50IHJlY3RpZmljYXRpb24gL0xULzIwMjYtIDI3A13h1MjAyNl9TUk9UTl8xOTEzOTZfMQ==",
-      "category": "Solar",
-      "closing_date": "2026-09-19",
-      "issued_by": "IndianOil",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 19-Sep-2026 10:15 AM"
-    },
-    {
-      "title": "REPAIR/ MAINT OF SOLAR WATER HEATER, WATER LEVEL INDICATORS ON OHR/ UG SUMP, HOOTER/ SIREN SYSTEM AND ALLIED WORKS AT AF STN JMR AND REPAIR OF OLD VINTAGE AMF PANEL AND WATCH TOWER SEARCH LIGHTS ALONGWITH CONNECTED WORKS AT RAMGARH UNDER GE(AF) JAISA",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjIzODQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTIwODQ1MA==A13h1ODQ3My9HRS9FOA==A13h1MjAyNl9NRVNfNzg5MDI3XzE=",
-      "category": "Solar",
-      "closing_date": "2026-10-01",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 01-Oct-2026 06:00 PM"
+      "evidence": "provn of solar street light for internal road/hostel area"
     },
     {
       "title": "Selection of Solar Power Generators (SPGs) on the basis of Build, Own & Operate (BOO) for Design, Survey, Supply, Installation, Testing, Commissioning, Operation & Maintenance of grid connected distributed solar power plants for solarization of Sub-Station (SS) of capacity 500MW in BESCOM jurisdicti",
@@ -461,6 +435,48 @@
       "confidence": "HIGH",
       "evidence": "Bid Submission Closing Date: 03-Oct-2026 06:00 PM",
       "found_at": "2026-09-11T16:13:36.348334"
+    },
+    {
+      "title": "REPAIR/ MAINT OF SOLAR WATER HEATER, WATER LEVEL INDICATORS ON OHR/ UG SUMP, HOOTER/ SIREN SYSTEM AND ALLIED WORKS AT AF STN JMR AND REPAIR OF OLD VINTAGE AMF PANEL AND WATCH TOWER SEARCH LIGHTS ALONGWITH CONNECTED WORKS AT RAMGARH UNDER GE(AF) JAISA",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjIzODQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTE4NDQxMA==A13h1ODQ3My9HRS9FOA==A13h1MjAyNl9NRVNfNzg5MDI3XzE=",
+      "category": "Solar",
+      "closing_date": "2026-10-01",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Bid Submission Closing Date: 01-Oct-2026 06:00 PM",
+      "found_at": "2026-09-12T03:47:24.712761"
+    },
+    {
+      "title": "PROVN OF INDUSTRIAL SIZE DEHUMIDIFIER AT BLDG NO 349, PROVN OF 10 X SOLAR STREET LIGHT IN INF BN II LOC AND PROVN OF SECURITY, BOLLARD LIGHT, GATE LIGHT AND ALLIED WORKS FOR WATER SUPPLY INSTALLATION AT UMROI MIL STN UNDER GE UMROI",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjM0NTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTIwODM4Mg==A13h1ODUwMS9FOA==A13h1MjAyNl9NRVNfNzg5MTc4XzE=",
+      "category": "Solar",
+      "closing_date": "2026-10-07",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "PROVN OF 10 X SOLAR STREET LIGHT IN INF BN II LOC",
+      "found_at": "2026-09-12T10:29:32.229769"
+    },
+    {
+      "title": "Comprehensive Rectification of the Existing 300 kW Ground Mounted Solar PV Power Plant and associated 100 kW Rooftop Solar PV Plant at Ennore LPG Bottling Plant Ennore Chennai",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjMyNDk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTIwODQzMA==A13h1RUJQL1NvbGFyIFBsYW50IHJlY3RpZmljYXRpb24gL0xULzIwMjYtIDI3A13h1MjAyNl9TUk9UTl8xOTEzOTZfMQ==",
+      "category": "Solar",
+      "closing_date": "2026-09-19",
+      "issued_by": "IndianOil",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Bid Submission Closing Date: 19-Sep-2026 10:15 AM",
+      "found_at": "2026-09-12T10:29:32.231936"
     }
   ],
   "source_summary": [
@@ -487,10 +503,13 @@
       "keywords": [
         "solar"
       ],
-      "status": "SUCCESS",
+      "status": "WARNING",
       "documents_found": 4,
-      "verified_tenders": 4,
-      "errors": []
+      "verified_tenders": 1,
+      "errors": [
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjMzMTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTIyNjAzMA==A13h1ODc5OC9BL0U4A13h1MjAyNl9NRVNfNzg5MTM0XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMjMzMTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTIyNjAzMA==A13h1ODc5OC9BL0U4A13h1MjAyNl9NRVNfNzg5MTM0XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjM0NTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTIyNjExNw==A13h1ODUwMS9FOA==A13h1MjAyNl9NRVNfNzg5MTc4XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMjM0NTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTIyNjExNw==A13h1ODUwMS9FOA==A13h1MjAyNl9NRVNfNzg5MTc4XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+      ]
     },
     {
       "category": "Bus operations (gross cost only)",
