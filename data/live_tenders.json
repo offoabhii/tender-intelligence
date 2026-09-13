@@ -1,21 +1,8 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-09-12T20:27:26.095596+00:00",
-  "record_count": 34,
+  "generated_at": "2026-09-13T03:53:58.369351+00:00",
+  "record_count": 31,
   "tenders": [
-    {
-      "title": "PROVN OF INDUSTRIAL SIZE DEHUMIDIFIER AT BLDG NO 349, PROVN OF 10 X SOLAR STREET LIGHT IN INF BN II LOC AND PROVN OF SECURITY, BOLLARD LIGHT, GATE LIGHT AND ALLIED WORKS FOR WATER SUPPLY INSTALLATION AT UMROI MIL STN UNDER GE UMROI",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjM0NTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTI0NDUzMQ==A13h1ODUwMS9FOA==A13h1MjAyNl9NRVNfNzg5MTc4XzE=",
-      "category": "Solar",
-      "closing_date": "2026-10-07",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "PROVN OF 10 X SOLAR STREET LIGHT IN INF BN II LOC"
-    },
     {
       "title": "Selection of Solar Power Generators (SPGs) on the basis of Build, Own & Operate (BOO) for Design, Survey, Supply, Installation, Testing, Commissioning, Operation & Maintenance of grid connected distributed solar power plants for solarization of Sub-Station (SS) of capacity 500MW in BESCOM jurisdicti",
       "source_url": "https://tenders.infralens.in/solar-power-plant-tenders",
@@ -171,34 +158,6 @@
       "found_at": "2026-09-05T10:21:58.259149"
     },
     {
-      "title": "SITC of 5 KWp  Grid connected Roof Top solar PV System at Vijayanagar Colony PO building under Head quarters Region, Telangana Circle",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk5MzI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODYxOTg2Ng==A13h1NjkvRUVFL1BFRC9CR0wvMjAyNi0yNy9IWUQ=A13h1MjAyNl9ET1BfOTI1MDM2XzE=",
-      "category": "Solar",
-      "closing_date": "2026-09-12",
-      "issued_by": "Department of Posts",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 12-Sep-2026 11:00 AM",
-      "found_at": "2026-09-05T15:00:46.073500"
-    },
-    {
-      "title": "SITC of 5 KWp  Grid connected Roof Top solar PV System at Hanamkonda HO  building under Hyderabad Region, Telangana Circle",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk4NzM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODYxOTkxNQ==A13h1NjcvRUVFL1BFRC9CR0wvMjAyNi0yNy9IWUQ=A13h1MjAyNl9ET1BfOTI1MDM0XzE=",
-      "category": "Solar",
-      "closing_date": "2026-09-12",
-      "issued_by": "Department of Posts",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "SITC of 5 KWp  Grid connected Roof Top solar PV System at Hanamkonda HO  building under Hyderabad Region, Telangana Circle",
-      "found_at": "2026-09-05T15:00:46.075392"
-    },
-    {
       "title": "Construction of Solar Based Deep Boring at Mandudih Panchyat under Pundi Project, CSR Scheme 2026-27 of Kuju Area.",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk3MDg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODYzODk2Mw==A13h1R00oSykvU09DL2UtTklUL0NTUi8yNi0yNy8yOTQ=A13h1MjAyNl9DQ0xfMzY0OTg4XzE=",
       "category": "Solar",
@@ -225,20 +184,6 @@
       "confidence": "HIGH",
       "evidence": "Bid Submission Closing Date: 26-Sep-2026 06:00 PM",
       "found_at": "2026-09-06T15:16:32.423609"
-    },
-    {
-      "title": "SITC of 5 KWp  Grid connected Roof Top solar PV System at Uppal HO building under Head Quarters  Region, Telangana Circle",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk5MTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODc1MTg0MA==A13h1NjgvRUVFL1BFRC9CR0wvMjAyNi0yNy9IWUQ=A13h1MjAyNl9ET1BfOTI1MDM1XzE=",
-      "category": "Solar",
-      "closing_date": "2026-09-12",
-      "issued_by": "Department of Posts",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 12-Sep-2026 11:00 AM",
-      "found_at": "2026-09-07T03:37:04.166413"
     },
     {
       "title": "Repair to OFF-Grid Solar power pack at Vallikkunnam PO under Mavelikkara Division (CR- Kerala)",
@@ -451,6 +396,20 @@
       "found_at": "2026-09-12T03:47:24.712761"
     },
     {
+      "title": "PROVN OF INDUSTRIAL SIZE DEHUMIDIFIER AT BLDG NO 349, PROVN OF 10 X SOLAR STREET LIGHT IN INF BN II LOC AND PROVN OF SECURITY, BOLLARD LIGHT, GATE LIGHT AND ALLIED WORKS FOR WATER SUPPLY INSTALLATION AT UMROI MIL STN UNDER GE UMROI",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjM0NTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTIwODM4Mg==A13h1ODUwMS9FOA==A13h1MjAyNl9NRVNfNzg5MTc4XzE=",
+      "category": "Solar",
+      "closing_date": "2026-10-07",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "PROVN OF 10 X SOLAR STREET LIGHT IN INF BN II LOC",
+      "found_at": "2026-09-12T10:29:32.229769"
+    },
+    {
       "title": "Comprehensive Rectification of the Existing 300 kW Ground Mounted Solar PV Power Plant and associated 100 kW Rooftop Solar PV Plant at Ennore LPG Bottling Plant Ennore Chennai",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjMyNDk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTIwODQzMA==A13h1RUJQL1NvbGFyIFBsYW50IHJlY3RpZmljYXRpb24gL0xULzIwMjYtIDI3A13h1MjAyNl9TUk9UTl8xOTEzOTZfMQ==",
       "category": "Solar",
@@ -505,11 +464,11 @@
       ],
       "status": "WARNING",
       "documents_found": 4,
-      "verified_tenders": 1,
+      "verified_tenders": 0,
       "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjMzMTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTI0NDQ1Mg==A13h1ODc5OC9BL0U4A13h1MjAyNl9NRVNfNzg5MTM0XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMjMzMTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTI0NDQ1Mg==A13h1ODc5OC9BL0U4A13h1MjAyNl9NRVNfNzg5MTM0XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjM2NTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTI0NDQ2MA==A13h1ODE5NC9FOA==A13h1MjAyNl9NRVNfNzg5MjQ1XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMjM2NTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTI0NDQ2MA==A13h1ODE5NC9FOA==A13h1MjAyNl9NRVNfNzg5MjQ1XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjM0MDY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTI0NDQ3OQ==A13h1MzYtNjE2NQ==A13h1MjAyNl9JUkVMXzI4OTc2Nl8x: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMjM0MDY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTI0NDQ3OQ==A13h1MzYtNjE2NQ==A13h1MjAyNl9JUkVMXzI4OTc2Nl8x: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjMzMTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTI3MTIzOQ==A13h1ODc5OC9BL0U4A13h1MjAyNl9NRVNfNzg5MTM0XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMjMzMTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTI3MTIzOQ==A13h1ODc5OC9BL0U4A13h1MjAyNl9NRVNfNzg5MTM0XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjM2NTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTI3MTI0OQ==A13h1ODE5NC9FOA==A13h1MjAyNl9NRVNfNzg5MjQ1XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMjM2NTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTI3MTI0OQ==A13h1ODE5NC9FOA==A13h1MjAyNl9NRVNfNzg5MjQ1XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjM0NTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTI3MTMyNA==A13h1ODUwMS9FOA==A13h1MjAyNl9NRVNfNzg5MTc4XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMjM0NTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTI3MTMyNA==A13h1ODUwMS9FOA==A13h1MjAyNl9NRVNfNzg5MTc4XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
       ]
     },
     {
