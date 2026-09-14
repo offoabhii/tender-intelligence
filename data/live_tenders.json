@@ -1,34 +1,8 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-09-14T04:19:34.726908+00:00",
+  "generated_at": "2026-09-14T12:17:14.603511+00:00",
   "record_count": 34,
   "tenders": [
-    {
-      "title": "Spl rep/repl of old HPSV/HPMV/CFL T5 street light with new LED street light fitting and provn of solar street light for internal road/hostel area and provn of 02xhigh mast light at APS and 2 ASD at Mil Stn Beas under GE Kapurthala",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjM2NTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTM1ODI0MA==A13h1ODE5NC9FOA==A13h1MjAyNl9NRVNfNzg5MjQ1XzE=",
-      "category": "Solar",
-      "closing_date": "2026-10-03",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "provn of solar street light for internal road/hostel area"
-    },
-    {
-      "title": "Fabrication, Furnishing & Installation / Mounting of bus body on the Road Mobile Relief Vehicle GVW-28T",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjUxNDE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTM1OTM1Mw==A13h1RExTLUtaSi1lLVQtMTEtMjYtMjc=A13h1OTIwNTE5OTA=",
-      "category": "Bus body building",
-      "closing_date": "2026-10-05",
-      "issued_by": "Ministry of Railways",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Fabrication, Furnishing & Installation / Mounting of bus body on the Road Mobile Relief Vehicle GVW-28T"
-    },
     {
       "title": "Selection of Solar Power Generators (SPGs) on the basis of Build, Own & Operate (BOO) for Design, Survey, Supply, Installation, Testing, Commissioning, Operation & Maintenance of grid connected distributed solar power plants for solarization of Sub-Station (SS) of capacity 500MW in BESCOM jurisdicti",
       "source_url": "https://tenders.infralens.in/solar-power-plant-tenders",
@@ -450,6 +424,20 @@
       "found_at": "2026-09-12T10:29:32.231936"
     },
     {
+      "title": "Spl rep/repl of old HPSV/HPMV/CFL T5 street light with new LED street light fitting and provn of solar street light for internal road/hostel area and provn of 02xhigh mast light at APS and 2 ASD at Mil Stn Beas under GE Kapurthala",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjM2NTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTIyNjAzOQ==A13h1ODE5NC9FOA==A13h1MjAyNl9NRVNfNzg5MjQ1XzE=",
+      "category": "Solar",
+      "closing_date": "2026-10-03",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "provn of solar street light for internal road/hostel area",
+      "found_at": "2026-09-12T15:21:11.124439"
+    },
+    {
       "title": "REPAIR / MAINT OF STREET LIGHTS, HIGH/MEDIUM MAST LIGHTS, SOLAR LIGHTS, HIGH/LOW BAY FLOOD LIGHTS, BLDG SECURITY, AREA LIGHTING INCLUDING ITS ASTRONOMICAL TIMER SWITCH AND CONNECTED WORKS AT TECH AREA UNDER AFS PHALODI",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjMzMTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTMxNDU4OA==A13h1ODc5OC9BL0U4A13h1MjAyNl9NRVNfNzg5MTM0XzE=",
       "category": "Solar",
@@ -462,6 +450,20 @@
       "confidence": "MEDIUM",
       "evidence": "Bid Submission Closing Date: 03-Oct-2026 06:00 PM",
       "found_at": "2026-09-13T15:56:25.649679"
+    },
+    {
+      "title": "Fabrication, Furnishing & Installation / Mounting of bus body on the Road Mobile Relief Vehicle GVW-28T",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjUxNDE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTMxNDkwNQ==A13h1RExTLUtaSi1lLVQtMTEtMjYtMjc=A13h1OTIwNTE5OTA=",
+      "category": "Bus body building",
+      "closing_date": "2026-10-05",
+      "issued_by": "Ministry of Railways",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Fabrication, Furnishing & Installation / Mounting of bus body on the Road Mobile Relief Vehicle GVW-28T",
+      "found_at": "2026-09-13T15:56:25.651861"
     },
     {
       "title": "REPAIR / MAINT OF STREET LIGHTS, HIGH/MEDIUM MAST  LIGHTS, SOLAR LIGHTS, HIGH/LOW BAY FLOOD LIGHTS,  BLDG SECURITY, AREA LIGHTING INCLUDING ITS  ASTRONOMICAL TIMER SWITCH AND CONNECTED WORKS  AT TECH AREA UNDER AFS PHALODI",
@@ -503,10 +505,11 @@
         "solar"
       ],
       "status": "WARNING",
-      "documents_found": 3,
-      "verified_tenders": 1,
+      "documents_found": 2,
+      "verified_tenders": 0,
       "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjM0MDY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTM1ODI4OQ==A13h1MzYtNjE2NQ==A13h1MjAyNl9JUkVMXzI4OTc2Nl8x: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMjM0MDY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTM1ODI4OQ==A13h1MzYtNjE2NQ==A13h1MjAyNl9JUkVMXzI4OTc2Nl8x: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjU4ODA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTM4NzgwOQ==A13h1ODQwMC8yMTEvRTg=A13h1MjAyNl9NRVNfNzg5Mjg0XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMjU4ODA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTM4NzgwOQ==A13h1ODQwMC8yMTEvRTg=A13h1MjAyNl9NRVNfNzg5Mjg0XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjU4ODA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTM4NzgxNg==A13h1ODQwMC8yMTEvRTg=A13h1MjAyNl9NRVNfNzg5Mjg0XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMjU4ODA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTM4NzgxNg==A13h1ODQwMC8yMTEvRTg=A13h1MjAyNl9NRVNfNzg5Mjg0XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
       ]
     },
     {
@@ -546,9 +549,9 @@
         "manufacture and supply of bus body",
         "bus body manufacturing"
       ],
-      "status": "SUCCESS",
-      "documents_found": 1,
-      "verified_tenders": 1,
+      "status": "NO_RESULTS",
+      "documents_found": 0,
+      "verified_tenders": 0,
       "errors": []
     }
   ]
