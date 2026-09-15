@@ -1,7 +1,7 @@
 {
-  "status": "SUCCESS_WITH_WARNINGS",
-  "message": "Scan completed with warnings. 37 verified tender(s) found.",
-  "updated_at": "2026-09-15T11:31:03.400219+00:00",
+  "status": "SUCCESS",
+  "message": "Scan completed successfully. 40 verified tender(s) found.",
+  "updated_at": "2026-09-15T16:44:52.916595+00:00",
   "details": [
     {
       "category": "Charging point operations",
@@ -26,15 +26,10 @@
       "keywords": [
         "solar"
       ],
-      "status": "WARNING",
+      "status": "SUCCESS",
       "documents_found": 5,
-      "verified_tenders": 1,
-      "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjc2MDM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTQ3MTI4Nw==A13h1NzYvRUVFL1BFRC9CR0wvMjAyNi0yNy9UVk0=A13h1MjAyNl9ET1BfOTI2MjUwXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMjc2MDM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTQ3MTI4Nw==A13h1NzYvRUVFL1BFRC9CR0wvMjAyNi0yNy9UVk0=A13h1MjAyNl9ET1BfOTI2MjUwXzE=: The read operation timed out",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjc2MDM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTQ3MTI5Mg==A13h1NzYvRUVFL1BFRC9CR0wvMjAyNi0yNy9UVk0=A13h1MjAyNl9ET1BfOTI2MjUwXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMjc2MDM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTQ3MTI5Mg==A13h1NzYvRUVFL1BFRC9CR0wvMjAyNi0yNy9UVk0=A13h1MjAyNl9ET1BfOTI2MjUwXzE=: The read operation timed out",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjczNTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTQ3MTM2Mw==A13h1NC8yNS0yNi9OSC0xOS9UcmFmZmljIEJvb3RoLzR0aCBDYWxsA13h1MjAyNl9OSEFJXzI5MDg0N18x: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMjczNTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTQ3MTM2Mw==A13h1NC8yNS0yNi9OSC0xOS9UcmFmZmljIEJvb3RoLzR0aCBDYWxsA13h1MjAyNl9OSEFJXzI5MDg0N18x: The read operation timed out",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjcyNzQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTQ3MTM3Ng==A13h1TlRQQy9VU1NDLUNQRzMvOTkwMDMzMjUyMA==A13h1MjAyNl9OVFBDXzExMTkwNl8x: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMjcyNzQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTQ3MTM3Ng==A13h1TlRQQy9VU1NDLUNQRzMvOTkwMDMzMjUyMA==A13h1MjAyNl9OVFBDXzExMTkwNl8x: The read operation timed out"
-      ]
+      "verified_tenders": 5,
+      "errors": []
     },
     {
       "category": "Bus operations (gross cost only)",
