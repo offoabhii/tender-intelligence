@@ -1,21 +1,8 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-09-18T03:52:03.641910+00:00",
+  "generated_at": "2026-09-18T10:57:20.562741+00:00",
   "record_count": 41,
   "tenders": [
-    {
-      "title": "SPL REPAIR TO SOLAR WATER SYSTEM AT SUDHAKAR MADHWAN AND OTHER AREA UNDER GE BABINA",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzI2MzE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTcwMzEzNg==A13h1ODU5NC9FOA==A13h1MjAyNl9NRVNfNzg5ODA4XzE=",
-      "category": "Solar",
-      "closing_date": "2026-10-08",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "SPL REPAIR TO SOLAR WATER SYSTEM AT SUDHAKAR MADHWAN AND OTHER AREA UNDER GE BABINA"
-    },
     {
       "title": "REPAIR/MAINTENANCE OF AIR CONDITIONER AND REFRIGERATION AND HEATING PLANTS AND REPAIR/MAINT OF SOLAR WATER HEATER AND SWIMMING POOL AND LAUNDARY PLANT AND OTHER MISC WORK SERVICES AT HAPPY VALLEY AREA UNDER GE SHILLONG",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQzNTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM0NDQ4Ng==A13h1R0UvU0hML1RPS0VOLTc1IE9GIDIwMjYtMjc=A13h1MjAyNl9NRVNfNzg3NDg0XzE=",
@@ -575,6 +562,20 @@
       "confidence": "HIGH",
       "evidence": "Tender Title: PROVN OF ROOFTOP SOLAR PLANTS (600KW) AT CERTAIN BUILDINGS UNDER GE (N) AHILYANAGAR",
       "found_at": "2026-09-16T21:12:46.342789"
+    },
+    {
+      "title": "SPL REPAIR TO SOLAR WATER SYSTEM AT SUDHAKAR MADHWAN AND OTHER AREA UNDER GE BABINA",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzI2MzE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTcwMzEzNg==A13h1ODU5NC9FOA==A13h1MjAyNl9NRVNfNzg5ODA4XzE=",
+      "category": "Solar",
+      "closing_date": "2026-10-08",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "SPL REPAIR TO SOLAR WATER SYSTEM AT SUDHAKAR MADHWAN AND OTHER AREA UNDER GE BABINA",
+      "found_at": "2026-09-18T03:52:03.517532"
     }
   ],
   "source_summary": [
@@ -602,11 +603,12 @@
         "solar"
       ],
       "status": "WARNING",
-      "documents_found": 5,
-      "verified_tenders": 2,
+      "documents_found": 3,
+      "verified_tenders": 0,
       "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzI2MzE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTcwMzExNA==A13h1ODU5NC9FOA==A13h1MjAyNl9NRVNfNzg5ODA4XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMzI2MzE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTcwMzExNA==A13h1ODU5NC9FOA==A13h1MjAyNl9NRVNfNzg5ODA4XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzMwMzk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTcwMzIxMA==A13h1UVkxUEwyNjAwOQ==A13h1MjAyNl9PTkdDXzI5MTEzOF8x: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMzMwMzk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTcwMzIxMA==A13h1UVkxUEwyNjAwOQ==A13h1MjAyNl9PTkdDXzI5MTEzOF8x: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzcwOTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTcyODUyOA==A13h1MDgvTklULyBTRS9FL0FCRVUvIEFJSU1TL0JQTC8yMDI1LTIwMjYsIFJldGVuZGVyLTQ=A13h1MjAyNl9JTVNCUF85MjY3NDlfMQ==: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMzcwOTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTcyODUyOA==A13h1MDgvTklULyBTRS9FL0FCRVUvIEFJSU1TL0JQTC8yMDI1LTIwMjYsIFJldGVuZGVyLTQ=A13h1MjAyNl9JTVNCUF85MjY3NDlfMQ==: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzcwOTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTcyODUzNg==A13h1MDgvTklULyBTRS9FL0FCRVUvIEFJSU1TL0JQTC8yMDI1LTIwMjYsIFJldGVuZGVyLTQ=A13h1MjAyNl9JTVNCUF85MjY3NDlfMQ==: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMzcwOTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTcyODUzNg==A13h1MDgvTklULyBTRS9FL0FCRVUvIEFJSU1TL0JQTC8yMDI1LTIwMjYsIFJldGVuZGVyLTQ=A13h1MjAyNl9JTVNCUF85MjY3NDlfMQ==: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzY4Mzg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTcyODY1MQ==A13h1Qy0yKGIpL0VPSS83MDQvMDM4OC8yMDI1LTMzA13h1MjAyNl9DRUxfMjkxMjkwXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMzY4Mzg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTcyODY1MQ==A13h1Qy0yKGIpL0VPSS83MDQvMDM4OC8yMDI1LTMzA13h1MjAyNl9DRUxfMjkxMjkwXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
       ]
     },
     {
