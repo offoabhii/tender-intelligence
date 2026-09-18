@@ -1,7 +1,7 @@
 {
-  "status": "SUCCESS_WITH_WARNINGS",
-  "message": "Scan completed with warnings. 41 verified tender(s) found.",
-  "updated_at": "2026-09-18T10:57:20.563489+00:00",
+  "status": "SUCCESS",
+  "message": "Scan completed successfully. 41 verified tender(s) found.",
+  "updated_at": "2026-09-18T16:15:58.299659+00:00",
   "details": [
     {
       "category": "Charging point operations",
@@ -26,14 +26,10 @@
       "keywords": [
         "solar"
       ],
-      "status": "WARNING",
-      "documents_found": 3,
+      "status": "NO_RESULTS",
+      "documents_found": 0,
       "verified_tenders": 0,
-      "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzcwOTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTcyODUyOA==A13h1MDgvTklULyBTRS9FL0FCRVUvIEFJSU1TL0JQTC8yMDI1LTIwMjYsIFJldGVuZGVyLTQ=A13h1MjAyNl9JTVNCUF85MjY3NDlfMQ==: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMzcwOTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTcyODUyOA==A13h1MDgvTklULyBTRS9FL0FCRVUvIEFJSU1TL0JQTC8yMDI1LTIwMjYsIFJldGVuZGVyLTQ=A13h1MjAyNl9JTVNCUF85MjY3NDlfMQ==: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzcwOTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTcyODUzNg==A13h1MDgvTklULyBTRS9FL0FCRVUvIEFJSU1TL0JQTC8yMDI1LTIwMjYsIFJldGVuZGVyLTQ=A13h1MjAyNl9JTVNCUF85MjY3NDlfMQ==: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMzcwOTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTcyODUzNg==A13h1MDgvTklULyBTRS9FL0FCRVUvIEFJSU1TL0JQTC8yMDI1LTIwMjYsIFJldGVuZGVyLTQ=A13h1MjAyNl9JTVNCUF85MjY3NDlfMQ==: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzY4Mzg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTcyODY1MQ==A13h1Qy0yKGIpL0VPSS83MDQvMDM4OC8yMDI1LTMzA13h1MjAyNl9DRUxfMjkxMjkwXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMzY4Mzg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTcyODY1MQ==A13h1Qy0yKGIpL0VPSS83MDQvMDM4OC8yMDI1LTMzA13h1MjAyNl9DRUxfMjkxMjkwXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
-      ]
+      "errors": []
     },
     {
       "category": "Bus operations (gross cost only)",
