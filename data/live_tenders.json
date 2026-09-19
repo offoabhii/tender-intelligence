@@ -1,21 +1,8 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-09-18T21:05:10.452151+00:00",
-  "record_count": 42,
+  "generated_at": "2026-09-19T03:50:03.567120+00:00",
+  "record_count": 40,
   "tenders": [
-    {
-      "title": "One time repairing  periodic cleaning/ Testing of 113kWp rooftop solar at RAKNPA, Ghaziabad U.P.",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzc0NTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTc2NDc1Nw==A13h1MTYvQUUvRS9QRVNELUlWL0RHUE8vTklULzI2LTI3A13h1MjAyNl9ET1BfOTI2ODM1XzE=",
-      "category": "Solar",
-      "closing_date": "2026-09-25",
-      "issued_by": "Department of Posts",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "One time repairing  periodic cleaning/ Testing of 113kWp rooftop solar at RAKNPA, Ghaziabad U.P."
-    },
     {
       "title": "REPAIR/MAINTENANCE OF AIR CONDITIONER AND REFRIGERATION AND HEATING PLANTS AND REPAIR/MAINT OF SOLAR WATER HEATER AND SWIMMING POOL AND LAUNDARY PLANT AND OTHER MISC WORK SERVICES AT HAPPY VALLEY AREA UNDER GE SHILLONG",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQzNTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM0NDQ4Ng==A13h1R0UvU0hML1RPS0VOLTc1IE9GIDIwMjYtMjc=A13h1MjAyNl9NRVNfNzg3NDg0XzE=",
@@ -143,20 +130,6 @@
       "found_at": "2026-09-05T10:21:58.259149"
     },
     {
-      "title": "Construction of Solar Based Deep Boring at Mandudih Panchyat under Pundi Project, CSR Scheme 2026-27 of Kuju Area.",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk3MDg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODYzODk2Mw==A13h1R00oSykvU09DL2UtTklUL0NTUi8yNi0yNy8yOTQ=A13h1MjAyNl9DQ0xfMzY0OTg4XzE=",
-      "category": "Solar",
-      "closing_date": "2026-09-18",
-      "issued_by": "Central Coalfields Limited",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Construction of Solar Based Deep Boring at Mandudih Panchyat under Pundi Project, CSR Scheme 2026-27 of Kuju Area.",
-      "found_at": "2026-09-05T20:20:34.923257"
-    },
-    {
       "title": "REPAIRS / MAINT OF GEYSERS, SOLAR WATER HEATERS AND CONNECTED ITEMS AT AF STN NAL UNDER GE (AF) NAL",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk1NzA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODcwNzM0Mg==A13h1R0UgKEFGKSBOQUwvVC0gNTYvMjAyNi0yNw==A13h1MjAyNl9NRVNfNzg3OTczXzE=",
       "category": "Solar",
@@ -281,20 +254,6 @@
       "confidence": "HIGH",
       "evidence": "REPAIR MAINT OF GEYSER AND SOLAR WATER HEATERS AT DOMESTIC AND TECHNICAL AREA AT AF STN NALIYA",
       "found_at": "2026-09-11T03:42:39.159850"
-    },
-    {
-      "title": "SITC off grid solar system",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjE0OTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTEyMzk0Mw==A13h1NzcvRUUvUEVEL0tPTC9OSVQvMjYtMjc=A13h1MjAyNl9ET1BfOTI1ODA0XzE=",
-      "category": "Solar",
-      "closing_date": "2026-09-18",
-      "issued_by": "Department of Posts",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Tender Title: SITC off grid solar system",
-      "found_at": "2026-09-11T10:59:31.571380"
     },
     {
       "title": "REPAIR/ REPLACEMENT OF LT ELECTRIC SUPPLY, DISTRIBUTION NETWORK OF VARIOUS OTM BLDGS AND REPLACEMENT OF VARIOUS UNDER WATER LIGHTS INCLUDING COMPREHENSIVE MAINTENANCE OF EV CHARGING STATION AT NAVY NAGAR, COLABA, MUMBAI",
@@ -589,6 +548,20 @@
       "confidence": "HIGH",
       "evidence": "SPL REPAIR TO SOLAR WATER SYSTEM AT SUDHAKAR MADHWAN AND OTHER AREA UNDER GE BABINA",
       "found_at": "2026-09-18T03:52:03.517532"
+    },
+    {
+      "title": "One time repairing  periodic cleaning/ Testing of 113kWp rooftop solar at RAKNPA, Ghaziabad U.P.",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzc0NTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTc2NDc1Nw==A13h1MTYvQUUvRS9QRVNELUlWL0RHUE8vTklULzI2LTI3A13h1MjAyNl9ET1BfOTI2ODM1XzE=",
+      "category": "Solar",
+      "closing_date": "2026-09-25",
+      "issued_by": "Department of Posts",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "One time repairing  periodic cleaning/ Testing of 113kWp rooftop solar at RAKNPA, Ghaziabad U.P.",
+      "found_at": "2026-09-18T21:05:10.448313"
     }
   ],
   "source_summary": [
@@ -616,10 +589,10 @@
         "solar"
       ],
       "status": "WARNING",
-      "documents_found": 2,
-      "verified_tenders": 1,
+      "documents_found": 1,
+      "verified_tenders": 0,
       "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzczODQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTc2NDY3OA==A13h1R0FJTC9DblAvSlBSMjZQSzA4NS8yMDI2LTI3A13h1MjAyNl9HQUlMXzI5MDY5NV8x: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMzczODQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTc2NDY3OA==A13h1R0FJTC9DblAvSlBSMjZQSzA4NS8yMDI2LTI3A13h1MjAyNl9HQUlMXzI5MDY5NV8x: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzc0NTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTc4OTQ3NA==A13h1MTYvQUUvRS9QRVNELUlWL0RHUE8vTklULzI2LTI3A13h1MjAyNl9ET1BfOTI2ODM1XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMzc0NTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTc4OTQ3NA==A13h1MTYvQUUvRS9QRVNELUlWL0RHUE8vTklULzI2LTI3A13h1MjAyNl9ET1BfOTI2ODM1XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
       ]
     },
     {

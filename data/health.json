@@ -1,7 +1,7 @@
 {
   "status": "SUCCESS_WITH_WARNINGS",
-  "message": "Scan completed with warnings. 42 verified tender(s) found.",
-  "updated_at": "2026-09-18T21:05:10.452917+00:00",
+  "message": "Scan completed with warnings. 40 verified tender(s) found.",
+  "updated_at": "2026-09-19T03:50:03.567993+00:00",
   "details": [
     {
       "category": "Charging point operations",
@@ -27,10 +27,10 @@
         "solar"
       ],
       "status": "WARNING",
-      "documents_found": 2,
-      "verified_tenders": 1,
+      "documents_found": 1,
+      "verified_tenders": 0,
       "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzczODQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTc2NDY3OA==A13h1R0FJTC9DblAvSlBSMjZQSzA4NS8yMDI2LTI3A13h1MjAyNl9HQUlMXzI5MDY5NV8x: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMzczODQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTc2NDY3OA==A13h1R0FJTC9DblAvSlBSMjZQSzA4NS8yMDI2LTI3A13h1MjAyNl9HQUlMXzI5MDY5NV8x: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzc0NTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTc4OTQ3NA==A13h1MTYvQUUvRS9QRVNELUlWL0RHUE8vTklULzI2LTI3A13h1MjAyNl9ET1BfOTI2ODM1XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMzc0NTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTc4OTQ3NA==A13h1MTYvQUUvRS9QRVNELUlWL0RHUE8vTklULzI2LTI3A13h1MjAyNl9ET1BfOTI2ODM1XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
       ]
     },
     {
