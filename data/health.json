@@ -1,7 +1,7 @@
 {
-  "status": "SUCCESS_WITH_WARNINGS",
-  "message": "Scan completed with warnings. 40 verified tender(s) found.",
-  "updated_at": "2026-09-19T15:43:29.875374+00:00",
+  "status": "SUCCESS",
+  "message": "Scan completed successfully. 41 verified tender(s) found.",
+  "updated_at": "2026-09-19T20:20:49.322918+00:00",
   "details": [
     {
       "category": "Charging point operations",
@@ -26,12 +26,10 @@
       "keywords": [
         "solar"
       ],
-      "status": "WARNING",
+      "status": "SUCCESS",
       "documents_found": 1,
-      "verified_tenders": 0,
-      "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzk0MjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTgzMjI5MA==A13h1MTAwMDQ2NDkwMw==A13h1MjAyNl9CUENMXzI2NzA0: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMzk0MjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTgzMjI5MA==A13h1MTAwMDQ2NDkwMw==A13h1MjAyNl9CUENMXzI2NzA0: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
-      ]
+      "verified_tenders": 1,
+      "errors": []
     },
     {
       "category": "Bus operations (gross cost only)",

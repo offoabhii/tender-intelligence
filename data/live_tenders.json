@@ -1,8 +1,21 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-09-19T15:43:29.874646+00:00",
-  "record_count": 40,
+  "generated_at": "2026-09-19T20:20:49.322042+00:00",
+  "record_count": 41,
   "tenders": [
+    {
+      "title": "DESIGN, ENGINEERING, SUPPLY, INSTALLATION, TESTING & COMMISSIONING OF 1.0 MWP ON-GRID CAPTIVE SOLAR ROOF TOP SYSTEM (DCR TYPE) INCLUDING COMPREHENSIVE",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzk0MjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTg0ODk1MA==A13h1MTAwMDQ2NDkwMw==A13h1MjAyNl9CUENMXzI2NzA0",
+      "category": "Solar",
+      "closing_date": "2026-10-10",
+      "issued_by": "Bharat Petroleum Corporation Limited",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "DESIGN, ENGINEERING, SUPPLY, INSTALLATION, TESTING & COMMISSIONING OF 1.0 MWP ON-GRID CAPTIVE SOLAR ROOF TOP SYSTEM (DCR TYPE) INCLUDING COMPREHENSIVE"
+    },
     {
       "title": "REPAIR/MAINTENANCE OF AIR CONDITIONER AND REFRIGERATION AND HEATING PLANTS AND REPAIR/MAINT OF SOLAR WATER HEATER AND SWIMMING POOL AND LAUNDARY PLANT AND OTHER MISC WORK SERVICES AT HAPPY VALLEY AREA UNDER GE SHILLONG",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQzNTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM0NDQ4Ng==A13h1R0UvU0hML1RPS0VOLTc1IE9GIDIwMjYtMjc=A13h1MjAyNl9NRVNfNzg3NDg0XzE=",
@@ -588,12 +601,10 @@
       "keywords": [
         "solar"
       ],
-      "status": "WARNING",
+      "status": "SUCCESS",
       "documents_found": 1,
-      "verified_tenders": 0,
-      "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzk0MjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTgzMjI5MA==A13h1MTAwMDQ2NDkwMw==A13h1MjAyNl9CUENMXzI2NzA0: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMzk0MjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTgzMjI5MA==A13h1MTAwMDQ2NDkwMw==A13h1MjAyNl9CUENMXzI2NzA0: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
-      ]
+      "verified_tenders": 1,
+      "errors": []
     },
     {
       "category": "Bus operations (gross cost only)",
