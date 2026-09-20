@@ -1,21 +1,8 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-09-20T04:12:00.406480+00:00",
+  "generated_at": "2026-09-20T11:02:15.348443+00:00",
   "record_count": 40,
   "tenders": [
-    {
-      "title": "DESIGN, ENGINEERING, SUPPLY, INSTALLATION, TESTING & COMMISSIONING OF 1.0 MWP ON-GRID CAPTIVE SOLAR ROOF TOP SYSTEM (DCR TYPE) INCLUDING COMPREHENSIVE",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzk0MjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTg3NzA2MA==A13h1MTAwMDQ2NDkwMw==A13h1MjAyNl9CUENMXzI2NzA0",
-      "category": "Solar",
-      "closing_date": "2026-10-10",
-      "issued_by": "Bharat Petroleum Corporation Limited",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 10-Oct-2026 12:00 AM"
-    },
     {
       "title": "REPAIR/MAINTENANCE OF AIR CONDITIONER AND REFRIGERATION AND HEATING PLANTS AND REPAIR/MAINT OF SOLAR WATER HEATER AND SWIMMING POOL AND LAUNDARY PLANT AND OTHER MISC WORK SERVICES AT HAPPY VALLEY AREA UNDER GE SHILLONG",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQzNTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM0NDQ4Ng==A13h1R0UvU0hML1RPS0VOLTc1IE9GIDIwMjYtMjc=A13h1MjAyNl9NRVNfNzg3NDg0XzE=",
@@ -561,6 +548,20 @@
       "confidence": "HIGH",
       "evidence": "One time repairing  periodic cleaning/ Testing of 113kWp rooftop solar at RAKNPA, Ghaziabad U.P.",
       "found_at": "2026-09-18T21:05:10.448313"
+    },
+    {
+      "title": "DESIGN, ENGINEERING, SUPPLY, INSTALLATION, TESTING & COMMISSIONING OF 1.0 MWP ON-GRID CAPTIVE SOLAR ROOF TOP SYSTEM (DCR TYPE) INCLUDING COMPREHENSIVE",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzk0MjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTg0ODk1MA==A13h1MTAwMDQ2NDkwMw==A13h1MjAyNl9CUENMXzI2NzA0",
+      "category": "Solar",
+      "closing_date": "2026-10-10",
+      "issued_by": "Bharat Petroleum Corporation Limited",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "DESIGN, ENGINEERING, SUPPLY, INSTALLATION, TESTING & COMMISSIONING OF 1.0 MWP ON-GRID CAPTIVE SOLAR ROOF TOP SYSTEM (DCR TYPE) INCLUDING COMPREHENSIVE",
+      "found_at": "2026-09-19T20:20:49.318259"
     }
   ],
   "source_summary": [
@@ -587,10 +588,12 @@
       "keywords": [
         "solar"
       ],
-      "status": "SUCCESS",
+      "status": "WARNING",
       "documents_found": 1,
-      "verified_tenders": 1,
-      "errors": []
+      "verified_tenders": 0,
+      "errors": [
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzk0MjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTkwMTgyNw==A13h1MTAwMDQ2NDkwMw==A13h1MjAyNl9CUENMXzI2NzA0: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMzk0MjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTkwMTgyNw==A13h1MTAwMDQ2NDkwMw==A13h1MjAyNl9CUENMXzI2NzA0: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+      ]
     },
     {
       "category": "Bus operations (gross cost only)",
