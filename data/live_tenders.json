@@ -1,11 +1,11 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-09-19T20:20:49.322042+00:00",
-  "record_count": 41,
+  "generated_at": "2026-09-20T04:12:00.406480+00:00",
+  "record_count": 40,
   "tenders": [
     {
       "title": "DESIGN, ENGINEERING, SUPPLY, INSTALLATION, TESTING & COMMISSIONING OF 1.0 MWP ON-GRID CAPTIVE SOLAR ROOF TOP SYSTEM (DCR TYPE) INCLUDING COMPREHENSIVE",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzk0MjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTg0ODk1MA==A13h1MTAwMDQ2NDkwMw==A13h1MjAyNl9CUENMXzI2NzA0",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzk0MjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTg3NzA2MA==A13h1MTAwMDQ2NDkwMw==A13h1MjAyNl9CUENMXzI2NzA0",
       "category": "Solar",
       "closing_date": "2026-10-10",
       "issued_by": "Bharat Petroleum Corporation Limited",
@@ -14,7 +14,7 @@
       "is_net_cost": false,
       "is_open_now": true,
       "confidence": "HIGH",
-      "evidence": "DESIGN, ENGINEERING, SUPPLY, INSTALLATION, TESTING & COMMISSIONING OF 1.0 MWP ON-GRID CAPTIVE SOLAR ROOF TOP SYSTEM (DCR TYPE) INCLUDING COMPREHENSIVE"
+      "evidence": "Bid Submission Closing Date: 10-Oct-2026 12:00 AM"
     },
     {
       "title": "REPAIR/MAINTENANCE OF AIR CONDITIONER AND REFRIGERATION AND HEATING PLANTS AND REPAIR/MAINT OF SOLAR WATER HEATER AND SWIMMING POOL AND LAUNDARY PLANT AND OTHER MISC WORK SERVICES AT HAPPY VALLEY AREA UNDER GE SHILLONG",
@@ -323,20 +323,6 @@
       "confidence": "HIGH",
       "evidence": "PROVN OF 10 X SOLAR STREET LIGHT IN INF BN II LOC",
       "found_at": "2026-09-12T10:29:32.229769"
-    },
-    {
-      "title": "Comprehensive Rectification of the Existing 300 kW Ground Mounted Solar PV Power Plant and associated 100 kW Rooftop Solar PV Plant at Ennore LPG Bottling Plant Ennore Chennai",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjMyNDk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTIwODQzMA==A13h1RUJQL1NvbGFyIFBsYW50IHJlY3RpZmljYXRpb24gL0xULzIwMjYtIDI3A13h1MjAyNl9TUk9UTl8xOTEzOTZfMQ==",
-      "category": "Solar",
-      "closing_date": "2026-09-19",
-      "issued_by": "IndianOil",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 19-Sep-2026 10:15 AM",
-      "found_at": "2026-09-12T10:29:32.231936"
     },
     {
       "title": "Spl rep/repl of old HPSV/HPMV/CFL T5 street light with new LED street light fitting and provn of solar street light for internal road/hostel area and provn of 02xhigh mast light at APS and 2 ASD at Mil Stn Beas under GE Kapurthala",
