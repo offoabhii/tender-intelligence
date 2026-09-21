@@ -1,21 +1,8 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-09-21T04:02:02.876586+00:00",
+  "generated_at": "2026-09-21T12:29:31.824207+00:00",
   "record_count": 41,
   "tenders": [
-    {
-      "title": "Installation of 25 KWp off grid solar power plant at 17 bopS OF 104 119 and 126 Bn SHQ TLM under FTR HA Tripura. SH Provision of separate distribution of power load of solar power plant of 70 Bn 104 Bn  173 Bn under SHQ BSF Teliamura",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzkxOTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTk2Mjg2Mw==A13h1MTIvSUdBL0VFKEUpL05JVC8yMDI2LTI3A13h1MjAyNl9CU0ZfOTI2ODc4XzE=",
-      "category": "Solar",
-      "closing_date": "2026-09-30",
-      "issued_by": "DG,BSF,MHA",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 30-Sep-2026 10:30 AM"
-    },
     {
       "title": "REPAIR/MAINTENANCE OF AIR CONDITIONER AND REFRIGERATION AND HEATING PLANTS AND REPAIR/MAINT OF SOLAR WATER HEATER AND SWIMMING POOL AND LAUNDARY PLANT AND OTHER MISC WORK SERVICES AT HAPPY VALLEY AREA UNDER GE SHILLONG",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQzNTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM0NDQ4Ng==A13h1R0UvU0hML1RPS0VOLTc1IE9GIDIwMjYtMjc=A13h1MjAyNl9NRVNfNzg3NDg0XzE=",
@@ -575,6 +562,20 @@
       "confidence": "HIGH",
       "evidence": "DESIGN, ENGINEERING, SUPPLY, INSTALLATION, TESTING & COMMISSIONING OF 1.0 MWP ON-GRID CAPTIVE SOLAR ROOF TOP SYSTEM (DCR TYPE) INCLUDING COMPREHENSIVE",
       "found_at": "2026-09-19T20:20:49.318259"
+    },
+    {
+      "title": "Installation of 25 KWp off grid solar power plant at 17 bopS OF 104 119 and 126 Bn SHQ TLM under FTR HA Tripura. SH Provision of separate distribution of power load of solar power plant of 70 Bn 104 Bn  173 Bn under SHQ BSF Teliamura",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzkxOTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTk2Mjg2Mw==A13h1MTIvSUdBL0VFKEUpL05JVC8yMDI2LTI3A13h1MjAyNl9CU0ZfOTI2ODc4XzE=",
+      "category": "Solar",
+      "closing_date": "2026-09-30",
+      "issued_by": "DG,BSF,MHA",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Bid Submission Closing Date: 30-Sep-2026 10:30 AM",
+      "found_at": "2026-09-21T04:02:02.871100"
     }
   ],
   "source_summary": [
@@ -601,13 +602,10 @@
       "keywords": [
         "solar"
       ],
-      "status": "WARNING",
-      "documents_found": 3,
-      "verified_tenders": 1,
-      "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzkxOTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTk2Mjg2OA==A13h1MTIvSUdBL0VFKEUpL05JVC8yMDI2LTI3A13h1MjAyNl9CU0ZfOTI2ODc4XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMzkxOTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTk2Mjg2OA==A13h1MTIvSUdBL0VFKEUpL05JVC8yMDI2LTI3A13h1MjAyNl9CU0ZfOTI2ODc4XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzkxOTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTk2Mjg3Mw==A13h1MTIvSUdBL0VFKEUpL05JVC8yMDI2LTI3A13h1MjAyNl9CU0ZfOTI2ODc4XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxMzkxOTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTk2Mjg3Mw==A13h1MTIvSUdBL0VFKEUpL05JVC8yMDI2LTI3A13h1MjAyNl9CU0ZfOTI2ODc4XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
-      ]
+      "status": "NO_RESULTS",
+      "documents_found": 0,
+      "verified_tenders": 0,
+      "errors": []
     },
     {
       "category": "Bus operations (gross cost only)",
