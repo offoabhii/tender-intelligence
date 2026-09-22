@@ -1,34 +1,8 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-09-22T03:59:44.434317+00:00",
+  "generated_at": "2026-09-22T11:21:34.650402+00:00",
   "record_count": 39,
   "tenders": [
-    {
-      "title": "Providing and Fixing Solar Operated Electric Fencing at Animal Farm and Modern Shed at ICAR-CIRB, Hisar",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDI5OTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDA0OTIxMQ==A13h1MS00NjMvQ1BTLzIwMjYtMjc=A13h1MjAyNl9EQVJFXzkyNzA3MV8x",
-      "category": "Solar",
-      "closing_date": "2026-10-12",
-      "issued_by": "Department of Agricultural Research and Education",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Providing and Fixing Solar Operated Electric Fencing at Animal Farm and Modern Shed at ICAR-CIRB, Hisar"
-    },
-    {
-      "title": "REPLACEMENT OF SOLAR MODULES, SOLAR WATER HEATER AND ELECTRICAL PANELS, CONNECTED ACCESSORIES DAMEGED/DEFECTED DURING CYCLON ASNA AT ICGS JAKHAU AND CGRA NALIYA UNDER GE (I) (CG) GANDHINAGAR",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDI4Mjg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDA0OTIzMw==A13h1ODIzMy9FOA==A13h1MjAyNl9NRVNfNzkwMzc2XzE=",
-      "category": "Solar",
-      "closing_date": "2026-10-14",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 14-Oct-2026 06:00 PM"
-    },
     {
       "title": "REPAIR/MAINTENANCE OF AIR CONDITIONER AND REFRIGERATION AND HEATING PLANTS AND REPAIR/MAINT OF SOLAR WATER HEATER AND SWIMMING POOL AND LAUNDARY PLANT AND OTHER MISC WORK SERVICES AT HAPPY VALLEY AREA UNDER GE SHILLONG",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQzNTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM0NDQ4Ng==A13h1R0UvU0hML1RPS0VOLTc1IE9GIDIwMjYtMjc=A13h1MjAyNl9NRVNfNzg3NDg0XzE=",
@@ -546,6 +520,34 @@
       "confidence": "HIGH",
       "evidence": "Bid Submission Closing Date: 30-Sep-2026 10:30 AM",
       "found_at": "2026-09-21T04:02:02.871100"
+    },
+    {
+      "title": "REPLACEMENT OF SOLAR MODULES, SOLAR WATER HEATER AND ELECTRICAL PANELS, CONNECTED ACCESSORIES DAMEGED/DEFECTED DURING CYCLON ASNA AT ICGS JAKHAU AND CGRA NALIYA UNDER GE (I) (CG) GANDHINAGAR",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDI4Mjg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDAyNzQ1MA==A13h1ODIzMy9FOA==A13h1MjAyNl9NRVNfNzkwMzc2XzE=",
+      "category": "Solar",
+      "closing_date": "2026-10-14",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Bid Submission Closing Date: 14-Oct-2026 06:00 PM",
+      "found_at": "2026-09-21T21:56:50.955160"
+    },
+    {
+      "title": "Providing and Fixing Solar Operated Electric Fencing at Animal Farm and Modern Shed at ICAR-CIRB, Hisar",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDI5OTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDA0OTIxMQ==A13h1MS00NjMvQ1BTLzIwMjYtMjc=A13h1MjAyNl9EQVJFXzkyNzA3MV8x",
+      "category": "Solar",
+      "closing_date": "2026-10-12",
+      "issued_by": "Department of Agricultural Research and Education",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Providing and Fixing Solar Operated Electric Fencing at Animal Farm and Modern Shed at ICAR-CIRB, Hisar",
+      "found_at": "2026-09-22T03:59:44.429415"
     }
   ],
   "source_summary": [
@@ -573,11 +575,14 @@
         "solar"
       ],
       "status": "WARNING",
-      "documents_found": 4,
-      "verified_tenders": 2,
+      "documents_found": 5,
+      "verified_tenders": 0,
       "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDMzMzc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDA0OTE2Mg==A13h1ODE2OS9FOA==A13h1MjAyNl9NRVNfNzUwODk0XzM=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNDMzMzc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDA0OTE2Mg==A13h1ODE2OS9FOA==A13h1MjAyNl9NRVNfNzUwODk0XzM=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDI4Mjg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDA0OTE5MQ==A13h1ODIzMy9FOA==A13h1MjAyNl9NRVNfNzkwMzc2XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNDI4Mjg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDA0OTE5MQ==A13h1ODIzMy9FOA==A13h1MjAyNl9NRVNfNzkwMzc2XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDQxODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDA3NTU2MA==A13h1Qy0yKGIpL0VvSS8wNjAyLzAzOTgvMjAyNg==A13h1MjAyNl9DRUxfMjkxNzMxXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNDQxODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDA3NTU2MA==A13h1Qy0yKGIpL0VvSS8wNjAyLzAzOTgvMjAyNg==A13h1MjAyNl9DRUxfMjkxNzMxXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDQxMjk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDA3NTU3Nw==A13h1SVBQTF9BTERTX1NvbGFyX1BpbG90XzAxA13h1MjAyNl9JUFBMXzI4OTYyN18y: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNDQxMjk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDA3NTU3Nw==A13h1SVBQTF9BTERTX1NvbGFyX1BpbG90XzAxA13h1MjAyNl9JUFBMXzI4OTYyN18y: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDM2OTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDA3NTY4MQ==A13h1REVPUENfU09MQVJfMDAzA13h1MjAyNl9ER0RFXzkyNzEwMV8x: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNDM2OTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDA3NTY4MQ==A13h1REVPUENfU09MQVJfMDAzA13h1MjAyNl9ER0RFXzkyNzEwMV8x: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDMzOTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDA3NTY4OA==A13h1REVPUENfU09MQVJfMDAxA13h1MjAyNl9ER0RFXzkyNzA1Nl8x: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNDMzOTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDA3NTY4OA==A13h1REVPUENfU09MQVJfMDAxA13h1MjAyNl9ER0RFXzkyNzA1Nl8x: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDMzOTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDA3NTcwMQ==A13h1REVPUENfU09MQVJfMDAyA13h1MjAyNl9ER0RFXzkyNzA5OV8x: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNDMzOTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDA3NTcwMQ==A13h1REVPUENfU09MQVJfMDAyA13h1MjAyNl9ER0RFXzkyNzA5OV8x: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
       ]
     },
     {
