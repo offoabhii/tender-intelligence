@@ -1,22 +1,8 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-09-23T21:15:14.243620+00:00",
-  "record_count": 35,
+  "generated_at": "2026-09-24T03:39:40.515576+00:00",
+  "record_count": 33,
   "tenders": [
-    {
-      "title": "REPAIR/MAINTENANCE OF AIR CONDITIONER AND REFRIGERATION AND HEATING PLANTS AND REPAIR/MAINT OF SOLAR WATER HEATER AND SWIMMING POOL AND LAUNDARY PLANT AND OTHER MISC WORK SERVICES AT HAPPY VALLEY AREA UNDER GE SHILLONG",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDQzNTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODM0NDQ4Ng==A13h1R0UvU0hML1RPS0VOLTc1IE9GIDIwMjYtMjc=A13h1MjAyNl9NRVNfNzg3NDg0XzE=",
-      "category": "Solar",
-      "closing_date": "2026-09-23",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "REPAIR/MAINT OF SOLAR WATER HEATER",
-      "found_at": "2026-09-02T10:42:31.873203"
-    },
     {
       "title": "REPAIR  MAINTENANCE OF ELECTRIC GEYSER  SOLAR WATER HEATER FOR OTM  MD ACCN AND OLD UNSERVICEABLE SUB MAIN WIRING  DBS  MCBS AND ALUMINIUM WIRING FOR OFFRS  JCOS MD ACCN UNDER AGE EM OF GE BENGDUBI",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDU5NTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODQzMjkzMw==A13h1ODg5OS9FOA==A13h1MjAyNl9NRVNfNzg3NjA4XzE=",
@@ -156,20 +142,6 @@
       "confidence": "HIGH",
       "evidence": "SOLAR STREET LIGHTS",
       "found_at": "2026-09-09T20:48:27.180172"
-    },
-    {
-      "title": "ROOF TOP MOUNTED SOLAR POWER SYSTEM",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTYyMjc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODk4NjU1Mw==A13h1TUtLL0IzMDItMDAwLVhaLU1SLTA3MTAvMTE1A13h1MjAyNl9FSUxfOTI0MDIzXzE=",
-      "category": "Solar",
-      "closing_date": "2026-09-23",
-      "issued_by": "Engineers India Limited,MoPNG",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 23-Sep-2026 12:00 PM",
-      "found_at": "2026-09-09T20:48:27.182303"
     },
     {
       "title": "REPAIR MAINT OF GEYSER AND SOLAR WATER HEATERS AT DOMESTIC AND TECHNICAL AREA AT AF STN NALIYA",
@@ -518,12 +490,10 @@
       "keywords": [
         "solar"
       ],
-      "status": "FAILED",
+      "status": "NO_RESULTS",
       "documents_found": 0,
       "verified_tenders": 0,
-      "errors": [
-        "RuntimeError: eprocure.gov.in returned HTTP 500 on page 1 (category Solar)"
-      ]
+      "errors": []
     },
     {
       "category": "Bus operations (gross cost only)",
@@ -564,12 +534,10 @@
         "manufacture and supply of bus body",
         "bus body manufacturing"
       ],
-      "status": "FAILED",
+      "status": "NO_RESULTS",
       "documents_found": 0,
       "verified_tenders": 0,
-      "errors": [
-        "RuntimeError: eprocure.gov.in returned HTTP 500 on page 1 (category Bus body building)"
-      ]
+      "errors": []
     }
   ]
 }
