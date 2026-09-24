@@ -1,7 +1,7 @@
 {
-  "status": "SUCCESS_WITH_WARNINGS",
-  "message": "Scan completed with warnings. 33 verified tender(s) found.",
-  "updated_at": "2026-09-24T16:41:33.662569+00:00",
+  "status": "SUCCESS",
+  "message": "Scan completed successfully. 33 verified tender(s) found.",
+  "updated_at": "2026-09-24T21:16:41.670855+00:00",
   "details": [
     {
       "category": "Charging point operations",
@@ -16,12 +16,10 @@
         "battery charging station",
         "charging kiosk"
       ],
-      "status": "FAILED",
+      "status": "NO_RESULTS",
       "documents_found": 0,
       "verified_tenders": 0,
-      "errors": [
-        "RuntimeError: eprocure.gov.in returned HTTP 500 on page 1 (category Charging point operations)"
-      ]
+      "errors": []
     },
     {
       "category": "Solar",
@@ -70,12 +68,10 @@
         "manufacture and supply of bus body",
         "bus body manufacturing"
       ],
-      "status": "FAILED",
+      "status": "NO_RESULTS",
       "documents_found": 0,
       "verified_tenders": 0,
-      "errors": [
-        "RuntimeError: eprocure.gov.in returned HTTP 500 on page 1 (category Bus body building)"
-      ]
+      "errors": []
     }
   ]
 }
