@@ -1,8 +1,21 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-09-25T03:56:04.654944+00:00",
-  "record_count": 29,
+  "generated_at": "2026-09-25T11:34:34.818613+00:00",
+  "record_count": 30,
   "tenders": [
+    {
+      "title": "Setting up of Grid Connected  solar Rooftop Power plant of 1243 KWpunder BOOT mode at BHEL TRICHY and RANIPET",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTA3NDM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDMzNTYxNA==A13h1OTQ3MjYwMDA1Ng==A13h1MjAyNl9CSEVMXzY1NDUxXzE=",
+      "category": "Solar",
+      "closing_date": "2026-10-09",
+      "issued_by": "Bharat Heavy Electricals Limited",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Tender Title: Setting up of Grid Connected  solar Rooftop Power plant of 1243 KWpunder BOOT mode at BHEL TRICHY and RANIPET"
+    },
     {
       "title": "SPECIAL REPAIR/ REPLACEMENT OF DEFECTIVE INVERTER, DCDB, ACDB, CABLES AND CONNECTED ITEMS OF SOLAR PLANTS AT CERTAIN LOCATIONS AT INS GARUDA, NAVAL BASE KOCHI",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk0MTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODYwMzI2Mw==A13h1ODcyMC9FOA==A13h1MjAyNl9NRVNfNzg3OTEwXzE=",
@@ -434,11 +447,11 @@
       "keywords": [
         "solar"
       ],
-      "status": "FAILED",
-      "documents_found": 0,
-      "verified_tenders": 0,
+      "status": "WARNING",
+      "documents_found": 2,
+      "verified_tenders": 1,
       "errors": [
-        "RuntimeError: eprocure.gov.in returned HTTP 500 on page 1 (category Solar)"
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTA4NzY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDMzNTU3NQ==A13h1UEVEL05EL05JVC0zMi8yNi0yNw==A13h1MjAyNl9ET1BfOTI3NzYxXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNTA4NzY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDMzNTU3NQ==A13h1UEVEL05EL05JVC0zMi8yNi0yNw==A13h1MjAyNl9ET1BfOTI3NzYxXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
       ]
     },
     {
@@ -462,12 +475,10 @@
         "electric bus operation",
         "e-bus operation"
       ],
-      "status": "FAILED",
+      "status": "NO_RESULTS",
       "documents_found": 0,
       "verified_tenders": 0,
-      "errors": [
-        "RuntimeError: eprocure.gov.in returned HTTP 500 on page 1 (category Bus operations (gross cost only))"
-      ]
+      "errors": []
     },
     {
       "category": "Bus body building",
@@ -480,12 +491,10 @@
         "manufacture and supply of bus body",
         "bus body manufacturing"
       ],
-      "status": "FAILED",
+      "status": "NO_RESULTS",
       "documents_found": 0,
       "verified_tenders": 0,
-      "errors": [
-        "RuntimeError: eprocure.gov.in returned HTTP 500 on page 1 (category Bus body building)"
-      ]
+      "errors": []
     }
   ]
 }

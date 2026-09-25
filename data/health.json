@@ -1,7 +1,7 @@
 {
   "status": "SUCCESS_WITH_WARNINGS",
-  "message": "Scan completed with warnings. 29 verified tender(s) found.",
-  "updated_at": "2026-09-25T03:56:04.655658+00:00",
+  "message": "Scan completed with warnings. 30 verified tender(s) found.",
+  "updated_at": "2026-09-25T11:34:34.819354+00:00",
   "details": [
     {
       "category": "Charging point operations",
@@ -26,11 +26,11 @@
       "keywords": [
         "solar"
       ],
-      "status": "FAILED",
-      "documents_found": 0,
-      "verified_tenders": 0,
+      "status": "WARNING",
+      "documents_found": 2,
+      "verified_tenders": 1,
       "errors": [
-        "RuntimeError: eprocure.gov.in returned HTTP 500 on page 1 (category Solar)"
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTA4NzY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDMzNTU3NQ==A13h1UEVEL05EL05JVC0zMi8yNi0yNw==A13h1MjAyNl9ET1BfOTI3NzYxXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNTA4NzY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDMzNTU3NQ==A13h1UEVEL05EL05JVC0zMi8yNi0yNw==A13h1MjAyNl9ET1BfOTI3NzYxXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
       ]
     },
     {
@@ -54,12 +54,10 @@
         "electric bus operation",
         "e-bus operation"
       ],
-      "status": "FAILED",
+      "status": "NO_RESULTS",
       "documents_found": 0,
       "verified_tenders": 0,
-      "errors": [
-        "RuntimeError: eprocure.gov.in returned HTTP 500 on page 1 (category Bus operations (gross cost only))"
-      ]
+      "errors": []
     },
     {
       "category": "Bus body building",
@@ -72,12 +70,10 @@
         "manufacture and supply of bus body",
         "bus body manufacturing"
       ],
-      "status": "FAILED",
+      "status": "NO_RESULTS",
       "documents_found": 0,
       "verified_tenders": 0,
-      "errors": [
-        "RuntimeError: eprocure.gov.in returned HTTP 500 on page 1 (category Bus body building)"
-      ]
+      "errors": []
     }
   ]
 }
