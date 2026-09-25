@@ -1,64 +1,8 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-09-24T21:16:41.669948+00:00",
-  "record_count": 33,
+  "generated_at": "2026-09-25T03:56:04.654944+00:00",
+  "record_count": 29,
   "tenders": [
-    {
-      "title": "REPAIR  MAINTENANCE OF ELECTRIC GEYSER  SOLAR WATER HEATER FOR OTM  MD ACCN AND OLD UNSERVICEABLE SUB MAIN WIRING  DBS  MCBS AND ALUMINIUM WIRING FOR OFFRS  JCOS MD ACCN UNDER AGE EM OF GE BENGDUBI",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDU5NTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODQzMjkzMw==A13h1ODg5OS9FOA==A13h1MjAyNl9NRVNfNzg3NjA4XzE=",
-      "category": "Solar",
-      "closing_date": "2026-09-24",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "REPAIR  MAINTENANCE OF ELECTRIC GEYSER  SOLAR WATER HEATER FOR OTM  MD ACCN",
-      "found_at": "2026-09-03T11:04:59.105869"
-    },
-    {
-      "title": "PROVISION OF ELECTRIC VEHICLE CHARGING STATION AT MIC AND S, AHILYANAGAR",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDU3ODg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODQ1MTIyNA==A13h1ODc0MjEvRTg=A13h1MjAyNl9NRVNfNzg3NjAzXzE=",
-      "category": "Charging point operations",
-      "closing_date": "2026-09-24",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "PROVISION OF ELECTRIC VEHICLE CHARGING STATION AT MIC AND S, AHILYANAGAR",
-      "found_at": "2026-09-03T16:10:24.293962"
-    },
-    {
-      "title": "SPECIAL REPAIR REPLACEMENT OF EXISTING UNSV BOLLARDS,GATE PILLAR LIGHTS AND CONNECTED MISC ITEMS  OF VARIOUS UNIT LOCATIONS AT BORARUPAK-I AND SPECIAL REPAIR/REPLACEMENT OF EXISTING UNSV SOLAR SECURITY LIGHTS  OF VARIOUS UNIT LOCATIONS  AT BORARUPAK-",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDgwNTI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODUxOTE0MA==A13h1ODg5MS9FOA==A13h1MjAyNl9NRVNfNzg3ODcwXzE=",
-      "category": "Solar",
-      "closing_date": "2026-09-24",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "SPECIAL REPAIR/REPLACEMENT OF EXISTING UNSV SOLAR SECURITY LIGHTS",
-      "found_at": "2026-09-04T11:00:18.673138"
-    },
-    {
-      "title": "SPECIAL REPAIR REPLACEMENT OF EXISTING UNSV SOLAR SECURITY LIGHTS OF VARIOUS UNIT LOCATIONS AND SPECIAL REPAIR REPLACEMENT OF EXISTING UNSV HPSV MV MH CFL SECURITY LIGHT FITTINGS INTO LED FITTINGS ALONGWITH CONNECTED MISC ITEMS OF VARIOUS UNIT LOCATI",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDgxNTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODUzNzU4OQ==A13h1ODg4OS9FOA==A13h1MjAyNl9NRVNfNzg3ODg2XzE=",
-      "category": "Solar",
-      "closing_date": "2026-09-24",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "SPECIAL REPAIR REPLACEMENT OF EXISTING UNSV SOLAR SECURITY LIGHTS OF VARIOUS UNIT LOCATIONS",
-      "found_at": "2026-09-04T16:06:47.336676"
-    },
     {
       "title": "SPECIAL REPAIR/ REPLACEMENT OF DEFECTIVE INVERTER, DCDB, ACDB, CABLES AND CONNECTED ITEMS OF SOLAR PLANTS AT CERTAIN LOCATIONS AT INS GARUDA, NAVAL BASE KOCHI",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk0MTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODYwMzI2Mw==A13h1ODcyMC9FOA==A13h1MjAyNl9NRVNfNzg3OTEwXzE=",
@@ -490,10 +434,12 @@
       "keywords": [
         "solar"
       ],
-      "status": "NO_RESULTS",
+      "status": "FAILED",
       "documents_found": 0,
       "verified_tenders": 0,
-      "errors": []
+      "errors": [
+        "RuntimeError: eprocure.gov.in returned HTTP 500 on page 1 (category Solar)"
+      ]
     },
     {
       "category": "Bus operations (gross cost only)",
@@ -516,10 +462,12 @@
         "electric bus operation",
         "e-bus operation"
       ],
-      "status": "NO_RESULTS",
+      "status": "FAILED",
       "documents_found": 0,
       "verified_tenders": 0,
-      "errors": []
+      "errors": [
+        "RuntimeError: eprocure.gov.in returned HTTP 500 on page 1 (category Bus operations (gross cost only))"
+      ]
     },
     {
       "category": "Bus body building",
@@ -532,10 +480,12 @@
         "manufacture and supply of bus body",
         "bus body manufacturing"
       ],
-      "status": "NO_RESULTS",
+      "status": "FAILED",
       "documents_found": 0,
       "verified_tenders": 0,
-      "errors": []
+      "errors": [
+        "RuntimeError: eprocure.gov.in returned HTTP 500 on page 1 (category Bus body building)"
+      ]
     }
   ]
 }
