@@ -1,21 +1,8 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-09-25T11:34:34.818613+00:00",
+  "generated_at": "2026-09-25T17:08:01.073002+00:00",
   "record_count": 30,
   "tenders": [
-    {
-      "title": "Setting up of Grid Connected  solar Rooftop Power plant of 1243 KWpunder BOOT mode at BHEL TRICHY and RANIPET",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTA3NDM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDMzNTYxNA==A13h1OTQ3MjYwMDA1Ng==A13h1MjAyNl9CSEVMXzY1NDUxXzE=",
-      "category": "Solar",
-      "closing_date": "2026-10-09",
-      "issued_by": "Bharat Heavy Electricals Limited",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Tender Title: Setting up of Grid Connected  solar Rooftop Power plant of 1243 KWpunder BOOT mode at BHEL TRICHY and RANIPET"
-    },
     {
       "title": "SPECIAL REPAIR/ REPLACEMENT OF DEFECTIVE INVERTER, DCDB, ACDB, CABLES AND CONNECTED ITEMS OF SOLAR PLANTS AT CERTAIN LOCATIONS AT INS GARUDA, NAVAL BASE KOCHI",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk0MTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODYwMzI2Mw==A13h1ODcyMC9FOA==A13h1MjAyNl9NRVNfNzg3OTEwXzE=",
@@ -421,6 +408,20 @@
       "confidence": "HIGH",
       "evidence": "Bid Submission Closing Date: 22-Oct-2026 02:00 PM",
       "found_at": "2026-09-23T03:58:07.095703"
+    },
+    {
+      "title": "Setting up of Grid Connected  solar Rooftop Power plant of 1243 KWpunder BOOT mode at BHEL TRICHY and RANIPET",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTA3NDM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDMzNTYxNA==A13h1OTQ3MjYwMDA1Ng==A13h1MjAyNl9CSEVMXzY1NDUxXzE=",
+      "category": "Solar",
+      "closing_date": "2026-10-09",
+      "issued_by": "Bharat Heavy Electricals Limited",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Tender Title: Setting up of Grid Connected  solar Rooftop Power plant of 1243 KWpunder BOOT mode at BHEL TRICHY and RANIPET",
+      "found_at": "2026-09-25T11:34:34.815130"
     }
   ],
   "source_summary": [
@@ -447,12 +448,10 @@
       "keywords": [
         "solar"
       ],
-      "status": "WARNING",
-      "documents_found": 2,
-      "verified_tenders": 1,
-      "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTA4NzY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDMzNTU3NQ==A13h1UEVEL05EL05JVC0zMi8yNi0yNw==A13h1MjAyNl9ET1BfOTI3NzYxXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNTA4NzY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDMzNTU3NQ==A13h1UEVEL05EL05JVC0zMi8yNi0yNw==A13h1MjAyNl9ET1BfOTI3NzYxXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
-      ]
+      "status": "NO_RESULTS",
+      "documents_found": 0,
+      "verified_tenders": 0,
+      "errors": []
     },
     {
       "category": "Bus operations (gross cost only)",
@@ -475,10 +474,12 @@
         "electric bus operation",
         "e-bus operation"
       ],
-      "status": "NO_RESULTS",
+      "status": "FAILED",
       "documents_found": 0,
       "verified_tenders": 0,
-      "errors": []
+      "errors": [
+        "RuntimeError: eprocure.gov.in connection error (page 1, category Bus operations (gross cost only)): HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=30)"
+      ]
     },
     {
       "category": "Bus body building",
@@ -491,10 +492,12 @@
         "manufacture and supply of bus body",
         "bus body manufacturing"
       ],
-      "status": "NO_RESULTS",
+      "status": "FAILED",
       "documents_found": 0,
       "verified_tenders": 0,
-      "errors": []
+      "errors": [
+        "RuntimeError: eprocure.gov.in connection error (page 1, category Bus body building): HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=30)"
+      ]
     }
   ]
 }
