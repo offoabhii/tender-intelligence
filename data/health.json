@@ -1,7 +1,7 @@
 {
-  "status": "SUCCESS_WITH_WARNINGS",
-  "message": "Scan completed with warnings. 30 verified tender(s) found.",
-  "updated_at": "2026-09-25T17:08:01.073762+00:00",
+  "status": "SUCCESS",
+  "message": "Scan completed successfully. 31 verified tender(s) found.",
+  "updated_at": "2026-09-25T21:23:54.745700+00:00",
   "details": [
     {
       "category": "Charging point operations",
@@ -26,9 +26,9 @@
       "keywords": [
         "solar"
       ],
-      "status": "NO_RESULTS",
-      "documents_found": 0,
-      "verified_tenders": 0,
+      "status": "SUCCESS",
+      "documents_found": 1,
+      "verified_tenders": 1,
       "errors": []
     },
     {
@@ -52,12 +52,10 @@
         "electric bus operation",
         "e-bus operation"
       ],
-      "status": "FAILED",
+      "status": "NO_RESULTS",
       "documents_found": 0,
       "verified_tenders": 0,
-      "errors": [
-        "RuntimeError: eprocure.gov.in connection error (page 1, category Bus operations (gross cost only)): HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=30)"
-      ]
+      "errors": []
     },
     {
       "category": "Bus body building",
@@ -70,12 +68,10 @@
         "manufacture and supply of bus body",
         "bus body manufacturing"
       ],
-      "status": "FAILED",
+      "status": "NO_RESULTS",
       "documents_found": 0,
       "verified_tenders": 0,
-      "errors": [
-        "RuntimeError: eprocure.gov.in connection error (page 1, category Bus body building): HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=30)"
-      ]
+      "errors": []
     }
   ]
 }
