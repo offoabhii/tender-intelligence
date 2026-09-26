@@ -1,34 +1,33 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-09-25T21:23:54.744862+00:00",
+  "generated_at": "2026-09-26T04:11:58.730484+00:00",
   "record_count": 31,
   "tenders": [
     {
-      "title": "ARM of Solar Street Lights at NSG Campus Manesar for the year 2026-27",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTA5NDA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDM3MTExOQ==A13h1NDIvQ1MvMjAyNi0yNy9OU0c=A13h1MjAyNl9OU0dfOTI3Nzc4XzE=",
+      "title": "REPAIR / MAINT OF GEYSERS / SOLAR WATER HEATER, REWIRING AT SEC-III ALONG WITH FITTING FIXTURE UNDER THE AOR OF GE DEOLALI",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTA2MDE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDM5NTQ3Nw==A13h1ODIzNy9FOA==A13h1MjAyNl9NRVNfNzkxMTM3XzE=",
       "category": "Solar",
-      "closing_date": "2026-10-05",
-      "issued_by": "DG,National Security Guard,MHA",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 05-Oct-2026 04:00 PM"
-    },
-    {
-      "title": "SPECIAL REPAIR/ REPLACEMENT OF DEFECTIVE INVERTER, DCDB, ACDB, CABLES AND CONNECTED ITEMS OF SOLAR PLANTS AT CERTAIN LOCATIONS AT INS GARUDA, NAVAL BASE KOCHI",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMDk0MTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODYwMzI2Mw==A13h1ODcyMC9FOA==A13h1MjAyNl9NRVNfNzg3OTEwXzE=",
-      "category": "Solar",
-      "closing_date": "2026-09-25",
+      "closing_date": "2026-10-16",
       "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
       "qualification_criteria": "NOT SURE",
       "eligibility_status": "NOT SURE",
       "is_net_cost": false,
       "is_open_now": true,
       "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 25-Sep-2026 06:00 PM",
-      "found_at": "2026-09-05T10:21:58.259149"
+      "evidence": "REPAIR / MAINT OF GEYSERS / SOLAR WATER HEATER, REWIRING AT SEC-III ALONG WITH FITTING FIXTURE  UNDER THE AOR OF GE DEOLALI"
+    },
+    {
+      "title": "REPAIR / MAINT OF GEYSERS / SOLAR WATER HEATER, REWIRING AT SEC-III ALONG WITH FITTING FIXTURE  UNDER THE AOR OF GE DEOLALI",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTA2MDE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDM5NTU0NA==A13h1ODIzNy9FOA==A13h1MjAyNl9NRVNfNzkxMTM3XzE=",
+      "category": "Solar",
+      "closing_date": "2026-10-16",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Bid Submission Closing Date: 16-Oct-2026 06:00 PM"
     },
     {
       "title": "REPAIRS / MAINT OF GEYSERS, SOLAR WATER HEATERS AND CONNECTED ITEMS AT AF STN NAL UNDER GE (AF) NAL",
@@ -325,20 +324,6 @@
       "found_at": "2026-09-18T03:52:03.517532"
     },
     {
-      "title": "One time repairing  periodic cleaning/ Testing of 113kWp rooftop solar at RAKNPA, Ghaziabad U.P.",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzc0NTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTc2NDc1Nw==A13h1MTYvQUUvRS9QRVNELUlWL0RHUE8vTklULzI2LTI3A13h1MjAyNl9ET1BfOTI2ODM1XzE=",
-      "category": "Solar",
-      "closing_date": "2026-09-25",
-      "issued_by": "Department of Posts",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "One time repairing  periodic cleaning/ Testing of 113kWp rooftop solar at RAKNPA, Ghaziabad U.P.",
-      "found_at": "2026-09-18T21:05:10.448313"
-    },
-    {
       "title": "DESIGN, ENGINEERING, SUPPLY, INSTALLATION, TESTING & COMMISSIONING OF 1.0 MWP ON-GRID CAPTIVE SOLAR ROOF TOP SYSTEM (DCR TYPE) INCLUDING COMPREHENSIVE",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzk0MjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTg0ODk1MA==A13h1MTAwMDQ2NDkwMw==A13h1MjAyNl9CUENMXzI2NzA0",
       "category": "Solar",
@@ -435,6 +420,20 @@
       "confidence": "HIGH",
       "evidence": "Tender Title: Setting up of Grid Connected  solar Rooftop Power plant of 1243 KWpunder BOOT mode at BHEL TRICHY and RANIPET",
       "found_at": "2026-09-25T11:34:34.815130"
+    },
+    {
+      "title": "ARM of Solar Street Lights at NSG Campus Manesar for the year 2026-27",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTA5NDA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDM3MTExOQ==A13h1NDIvQ1MvMjAyNi0yNy9OU0c=A13h1MjAyNl9OU0dfOTI3Nzc4XzE=",
+      "category": "Solar",
+      "closing_date": "2026-10-05",
+      "issued_by": "DG,National Security Guard,MHA",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Bid Submission Closing Date: 05-Oct-2026 04:00 PM",
+      "found_at": "2026-09-25T21:23:54.741517"
     }
   ],
   "source_summary": [
@@ -461,10 +460,13 @@
       "keywords": [
         "solar"
       ],
-      "status": "SUCCESS",
-      "documents_found": 1,
-      "verified_tenders": 1,
-      "errors": []
+      "status": "WARNING",
+      "documents_found": 4,
+      "verified_tenders": 2,
+      "errors": [
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTI5NTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDM5NTQ0Mw==A13h1ODQ1ODggQ0EgTk8gQ0UgQlRaL0xHSi9UT0tFTi0xNCBPRiAyMDI2LTI3A13h1MjAyNl9NRVNfNzkxMjM2XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNTI5NTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDM5NTQ0Mw==A13h1ODQ1ODggQ0EgTk8gQ0UgQlRaL0xHSi9UT0tFTi0xNCBPRiAyMDI2LTI3A13h1MjAyNl9NRVNfNzkxMjM2XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTI5NTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDM5NTQ1MA==A13h1ODQ1ODggQ0EgTk8gQ0UgQlRaL0xHSi9UT0tFTi0xNCBPRiAyMDI2LTI3A13h1MjAyNl9NRVNfNzkxMjM2XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNTI5NTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDM5NTQ1MA==A13h1ODQ1ODggQ0EgTk8gQ0UgQlRaL0xHSi9UT0tFTi0xNCBPRiAyMDI2LTI3A13h1MjAyNl9NRVNfNzkxMjM2XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+      ]
     },
     {
       "category": "Bus operations (gross cost only)",
