@@ -1,6 +1,6 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-09-27T17:06:18.837180+00:00",
+  "generated_at": "2026-09-27T21:12:26.977241+00:00",
   "record_count": 32,
   "tenders": [
     {
@@ -476,8 +476,8 @@
       "keywords": [
         "solar"
       ],
-      "status": "SUCCESS",
-      "documents_found": 1,
+      "status": "NO_RESULTS",
+      "documents_found": 0,
       "verified_tenders": 0,
       "errors": []
     },
