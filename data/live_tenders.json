@@ -1,21 +1,8 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-09-27T11:47:52.318954+00:00",
+  "generated_at": "2026-09-27T17:06:18.837180+00:00",
   "record_count": 32,
   "tenders": [
-    {
-      "title": "REPAIR/ COMPREHENSIVE MAINTENANCE OF 1.7 MW ROOF TOP SOLAR POWER PLANT AT 13 BRD AND 16 BRD DOMESTIC AND TECH AREA UNDER GE (AF) GURGAON NO. 1",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTMyMzI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDUwOTMxNg==A13h1Q1dFL1RLRC9HVVIvVE9LRU4tNjIgT0YgMjAyNi0yMDI3A13h1MjAyNl9NRVNfNzkxMzMxXzE=",
-      "category": "Solar",
-      "closing_date": "2026-10-17",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "REPAIR/ COMPREHENSIVE MAINTENANCE OF 1.7 MW ROOF TOP SOLAR POWER PLANT AT 13 BRD AND 16 BRD DOMESTIC AND TECH AREA UNDER GE (AF) GURGAON NO. 1"
-    },
     {
       "title": "REPAIR/REPLACEMENT OF EXTERNAL ELECTRIC SUPPLY SYSTEM LT PANEL CABLE TIMER SWITCH POLES STREET LIGHT SOLAR STREET LIGHTS CSS DG SETS EARTHING AND OTHER CONNECTED WORKS AT MIL STN BARBANKI UNDER GE (EAST) LUCKNOW",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTI3Nzk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODgxNTkwNA==A13h1R0UvRS9MS08vVC02NCBPRiAyMDI2LTI3A13h1MjAyNl9NRVNfNzg4MjE5XzE=",
@@ -449,6 +436,20 @@
       "confidence": "HIGH",
       "evidence": "PROVN OF ROOF TOP 20 KW SOLAR POWER PLANT OFF GRID WITH BATTERY BACKUP FOR MDC AGRA UNDER GE (EAST) AGRA",
       "found_at": "2026-09-26T16:09:23.760680"
+    },
+    {
+      "title": "REPAIR/ COMPREHENSIVE MAINTENANCE OF 1.7 MW ROOF TOP SOLAR POWER PLANT AT 13 BRD AND 16 BRD DOMESTIC AND TECH AREA UNDER GE (AF) GURGAON NO. 1",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTMyMzI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDQ1NTg2Nw==A13h1Q1dFL1RLRC9HVVIvVE9LRU4tNjIgT0YgMjAyNi0yMDI3A13h1MjAyNl9NRVNfNzkxMzMxXzE=",
+      "category": "Solar",
+      "closing_date": "2026-10-17",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "REPAIR/ COMPREHENSIVE MAINTENANCE OF 1.7 MW ROOF TOP SOLAR POWER PLANT AT 13 BRD AND 16 BRD DOMESTIC AND TECH AREA UNDER GE (AF) GURGAON NO. 1",
+      "found_at": "2026-09-26T20:57:42.618314"
     }
   ],
   "source_summary": [
@@ -475,15 +476,10 @@
       "keywords": [
         "solar"
       ],
-      "status": "WARNING",
-      "documents_found": 5,
-      "verified_tenders": 1,
-      "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTM0NzY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDUwOTIzMQ==A13h1R00vU0JBL0VuTS9UZW5kZXIvMjYtMjcvMzA=A13h1MjAyNl9FQ0xfMzY2MjExXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNTM0NzY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDUwOTIzMQ==A13h1R00vU0JBL0VuTS9UZW5kZXIvMjYtMjcvMzA=A13h1MjAyNl9FQ0xfMzY2MjExXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTM0NzY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDUwOTI0Mg==A13h1R00vU0JBL0VuTS9UZW5kZXIvMjYtMjcvMzA=A13h1MjAyNl9FQ0xfMzY2MjExXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNTM0NzY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDUwOTI0Mg==A13h1R00vU0JBL0VuTS9UZW5kZXIvMjYtMjcvMzA=A13h1MjAyNl9FQ0xfMzY2MjExXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTM0NzY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDUwOTI0OA==A13h1R00vU0JBL0VuTS9UZW5kZXIvMjYtMjcvMzA=A13h1MjAyNl9FQ0xfMzY2MjExXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNTM0NzY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDUwOTI0OA==A13h1R00vU0JBL0VuTS9UZW5kZXIvMjYtMjcvMzA=A13h1MjAyNl9FQ0xfMzY2MjExXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTM0MzI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDUwOTI3MA==A13h1ODQ0NDAvRTg=A13h1MjAyNl9NRVNfNzkxMzczXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNTM0MzI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDUwOTI3MA==A13h1ODQ0NDAvRTg=A13h1MjAyNl9NRVNfNzkxMzczXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
-      ]
+      "status": "SUCCESS",
+      "documents_found": 1,
+      "verified_tenders": 0,
+      "errors": []
     },
     {
       "category": "Bus operations (gross cost only)",
