@@ -1,6 +1,6 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-09-27T21:12:26.977241+00:00",
+  "generated_at": "2026-09-28T04:27:41.632208+00:00",
   "record_count": 32,
   "tenders": [
     {
@@ -476,10 +476,13 @@
       "keywords": [
         "solar"
       ],
-      "status": "NO_RESULTS",
-      "documents_found": 0,
+      "status": "WARNING",
+      "documents_found": 4,
       "verified_tenders": 0,
-      "errors": []
+      "errors": [
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTM0NzY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDU2OTMwNg==A13h1R00vU0JBL0VuTS9UZW5kZXIvMjYtMjcvMzA=A13h1MjAyNl9FQ0xfMzY2MjExXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNTM0NzY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDU2OTMwNg==A13h1R00vU0JBL0VuTS9UZW5kZXIvMjYtMjcvMzA=A13h1MjAyNl9FQ0xfMzY2MjExXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTM0NzY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDU2OTMxOA==A13h1R00vU0JBL0VuTS9UZW5kZXIvMjYtMjcvMzA=A13h1MjAyNl9FQ0xfMzY2MjExXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNTM0NzY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDU2OTMxOA==A13h1R00vU0JBL0VuTS9UZW5kZXIvMjYtMjcvMzA=A13h1MjAyNl9FQ0xfMzY2MjExXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+      ]
     },
     {
       "category": "Bus operations (gross cost only)",
