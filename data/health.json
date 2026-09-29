@@ -1,7 +1,7 @@
 {
   "status": "SUCCESS_WITH_WARNINGS",
-  "message": "Scan completed with warnings. 32 verified tender(s) found.",
-  "updated_at": "2026-09-28T23:12:30.231357+00:00",
+  "message": "Scan completed with warnings. 31 verified tender(s) found.",
+  "updated_at": "2026-09-29T04:59:18.199422+00:00",
   "details": [
     {
       "category": "Charging point operations",
@@ -27,10 +27,10 @@
         "solar"
       ],
       "status": "WARNING",
-      "documents_found": 1,
-      "verified_tenders": 0,
+      "documents_found": 2,
+      "verified_tenders": 1,
       "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTc2MDg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDYzNjY1MQ==A13h1R0UvUE5ILTY2LzIwMjYtMjc=A13h1MjAyNl9NRVNfNzkxNDM5XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNTc2MDg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDYzNjY1MQ==A13h1R0UvUE5ILTY2LzIwMjYtMjc=A13h1MjAyNl9NRVNfNzkxNDM5XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTc2MDg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDY1NzQwMQ==A13h1R0UvUE5ILTY2LzIwMjYtMjc=A13h1MjAyNl9NRVNfNzkxNDM5XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNTc2MDg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDY1NzQwMQ==A13h1R0UvUE5ILTY2LzIwMjYtMjc=A13h1MjAyNl9NRVNfNzkxNDM5XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
       ]
     },
     {
