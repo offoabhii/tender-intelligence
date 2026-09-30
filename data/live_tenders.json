@@ -1,11 +1,11 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-09-29T22:09:57.815838+00:00",
-  "record_count": 32,
+  "generated_at": "2026-09-30T04:44:11.837606+00:00",
+  "record_count": 30,
   "tenders": [
     {
       "title": "CERTAIN REPAIR, MAINTENANCE OF  STREET LIGHTS HIGH MAST LIGHTS, SOLAR LIGHTS AND CONNECTED WORKS AT MIL STN BIKANER UNDER GE (N) BIKANER.",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjA2MzA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDcxOTMzMw==A13h1R0UgKE4pIEJLTi1UT0tFTi0zNCBPRiAyMDI2LTI3A13h1MjAyNl9NRVNfNzkxNzIyXzE=",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjA2MzA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDc0MjkyMw==A13h1R0UgKE4pIEJLTi1UT0tFTi0zNCBPRiAyMDI2LTI3A13h1MjAyNl9NRVNfNzkxNzIyXzE=",
       "category": "Solar",
       "closing_date": "2026-10-19",
       "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
@@ -14,21 +14,7 @@
       "is_net_cost": false,
       "is_open_now": true,
       "confidence": "HIGH",
-      "evidence": "Tender Title: CERTAIN REPAIR, MAINTENANCE OF  STREET LIGHTS HIGH MAST LIGHTS, SOLAR LIGHTS AND CONNECTED WORKS AT MIL STN BIKANER UNDER GE (N) BIKANER."
-    },
-    {
-      "title": "REPAIR MAINTENANCE OF SOLAR PANEL LT FEEDER PILLARS LT PANELS EARTHINGS LT CABLE  ALONGWITH CONNECTED ITEMS AT AFSSR UNDER GE (AF) GURGAON",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTM2OTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODkwMDg3OA==A13h1R0UvR1VSLS9OSVQtODIvMjAyNi0yNw==A13h1MjAyNl9NRVNfNzg4MzQ2XzE=",
-      "category": "Solar",
-      "closing_date": "2026-09-29",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 29-Sep-2026 06:00 PM",
-      "found_at": "2026-09-08T21:02:29.913859"
+      "evidence": "Bid Submission Closing Date: 19-Oct-2026 06:00 PM"
     },
     {
       "title": "REPAIR, MAINTENANCE AND REPLACEMENT OF STEEL TUBULAR POLES, LIGHT BRACKETS, SOLAR STREET LIGHTS, JUNCTION BOXES, FEEDER PILLAR BOXES, AND OTHER ALLIED WORKS AT OLD AND NEW NAVY NAGAR UNDER GE(NW) NAVY NAGAR, COLABA, MUMBAI",
@@ -325,20 +311,6 @@
       "found_at": "2026-09-22T03:59:44.429415"
     },
     {
-      "title": "Annual Maintenance Contract of grid connected solar Power Sytem of vatious Post offices in Utterakhand Postal circle Dehradun.",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDQ0NTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDExMDk2OA==A13h1QUUvUEVTRC9ERE4vTklULTkvMjYtMjc=A13h1MjAyNl9ET1BfOTI3MjU2XzE=",
-      "category": "Solar",
-      "closing_date": "2026-09-29",
-      "issued_by": "Department of Posts",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Tender Title: Annual Maintenance Contract of grid connected solar Power Sytem of vatious Post offices in Utterakhand Postal circle Dehradun.",
-      "found_at": "2026-09-22T21:09:30.778355"
-    },
-    {
       "title": "development of a Solar Power Plant at Bobbili Airfield, Village - Mugada, Peddapalli, Badangi, Koduru, Palteru, Ramchandrapuram, Mallampeta, State-Andhra Pradesh",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDU5NjM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDEzNTQwMQ==A13h1QVAvMi82MDcvVklaL1NvbGFyIFBvd2VyIFBsYW50A13h1MjAyNl9ER0RFXzkyNzI0OF8x",
       "category": "Solar",
@@ -479,8 +451,8 @@
       "documents_found": 3,
       "verified_tenders": 1,
       "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTk3MTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDcxOTM5Mg==A13h1ODYyOS9LSC9FOA==A13h1MjAyNl9NRVNfNzgyNjYzXzI=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNTk3MTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDcxOTM5Mg==A13h1ODYyOS9LSC9FOA==A13h1MjAyNl9NRVNfNzgyNjYzXzI=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTk3Mjc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDcxOTQxNQ==A13h1R0UgTkFNUy04NS8yMDI1LTI2A13h1MjAyNl9NRVNfNzkxNzE1XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNTk3Mjc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDcxOTQxNQ==A13h1R0UgTkFNUy04NS8yMDI1LTI2A13h1MjAyNl9NRVNfNzkxNzE1XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjA2MzA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDc0MjkxNg==A13h1R0UgKE4pIEJLTi1UT0tFTi0zNCBPRiAyMDI2LTI3A13h1MjAyNl9NRVNfNzkxNzIyXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNjA2MzA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDc0MjkxNg==A13h1R0UgKE4pIEJLTi1UT0tFTi0zNCBPRiAyMDI2LTI3A13h1MjAyNl9NRVNfNzkxNzIyXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTk1MTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDc0MjkzOA==A13h1ODQ1MzItSy9FOA==A13h1MjAyNl9NRVNfNzcxNDI5XzI=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNTk1MTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDc0MjkzOA==A13h1ODQ1MzItSy9FOA==A13h1MjAyNl9NRVNfNzcxNDI5XzI=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
       ]
     },
     {
