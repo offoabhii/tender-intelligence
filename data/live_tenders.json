@@ -1,36 +1,8 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-09-30T22:09:58.702731+00:00",
-  "record_count": 31,
+  "generated_at": "2026-10-01T04:53:48.667077+00:00",
+  "record_count": 27,
   "tenders": [
-    {
-      "title": "REPAIR, MAINTENANCE AND REPLACEMENT OF STEEL TUBULAR POLES, LIGHT BRACKETS, SOLAR STREET LIGHTS, JUNCTION BOXES, FEEDER PILLAR BOXES, AND OTHER ALLIED WORKS AT OLD AND NEW NAVY NAGAR UNDER GE(NW) NAVY NAGAR, COLABA, MUMBAI",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTcyOTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4ODk4NjQxMQ==A13h1ODY3NS9FOA==A13h1MjAyNl9NRVNfNzg4NjQxXzE=",
-      "category": "Solar",
-      "closing_date": "2026-09-30",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "SOLAR STREET LIGHTS",
-      "found_at": "2026-09-09T20:48:27.180172"
-    },
-    {
-      "title": "REPAIR MAINT OF GEYSER AND SOLAR WATER HEATERS AT DOMESTIC AND TECHNICAL AREA AT AF STN NALIYA",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMTg0MzM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTA5NzY5Ng==A13h1ODIzOS9FOA==A13h1MjAyNl9NRVNfNzg4ODExXzE=",
-      "category": "Solar",
-      "closing_date": "2026-09-30",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "REPAIR MAINT OF GEYSER AND SOLAR WATER HEATERS AT DOMESTIC AND TECHNICAL AREA AT AF STN NALIYA",
-      "found_at": "2026-09-11T03:42:39.159850"
-    },
     {
       "title": "REPAIR/ REPLACEMENT OF LT ELECTRIC SUPPLY, DISTRIBUTION NETWORK OF VARIOUS OTM BLDGS AND REPLACEMENT OF VARIOUS UNDER WATER LIGHTS INCLUDING COMPREHENSIVE MAINTENANCE OF EV CHARGING STATION AT NAVY NAGAR, COLABA, MUMBAI",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjE4MjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTE0MjY3Mw==A13h1ODY5OC9FOA==A13h1MjAyNl9NRVNfNzg4OTUwXzE=",
@@ -172,20 +144,6 @@
       "found_at": "2026-09-15T16:44:52.909569"
     },
     {
-      "title": "PROVN OF INFRA OF INSTALLATION OF 240 KW ELECTRIC FAST CHARGING STATION ALONGWITH CONNECTED FITTINGS FOR ELECTRIC VEHS AT SELECTION CENTRE EAST UNDER GE (WEST) PRAYAGRAJ.",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjk5NTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTU1NjYzNA==A13h1ODIwOTMvVy9FOA==A13h1MjAyNl9NRVNfNzYyNTAwXzI=",
-      "category": "Charging point operations",
-      "closing_date": "2026-09-30",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "PROVN OF INFRA OF INSTALLATION OF 240 KW ELECTRIC FAST CHARGING STATION ALONGWITH CONNECTED FITTINGS FOR ELECTRIC VEHS AT SELECTION CENTRE EAST UNDER GE (WEST) PRAYAGRAJ.",
-      "found_at": "2026-09-16T11:15:03.129070"
-    },
-    {
       "title": "REPAIR/REPLACEMENT OF  SOLAR HEATERS, GEYSERS, EARTHING, SUMMER APPLIANCES, METERS INCL OTHER FITMENTS/ACCESSORIES IN MD ACCNS, MH, OFFRS AND OTM ACCNS AT PMS UNDER GE (ARMY) TRIVANDRUM",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjk5Njc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTU1Njg3Ng==A13h1ODQwOS9FOA==A13h1MjAyNl9NRVNfNzg5NjQ3XzE=",
       "category": "Solar",
@@ -254,20 +212,6 @@
       "confidence": "HIGH",
       "evidence": "DESIGN, ENGINEERING, SUPPLY, INSTALLATION, TESTING & COMMISSIONING OF 1.0 MWP ON-GRID CAPTIVE SOLAR ROOF TOP SYSTEM (DCR TYPE) INCLUDING COMPREHENSIVE",
       "found_at": "2026-09-19T20:20:49.318259"
-    },
-    {
-      "title": "Installation of 25 KWp off grid solar power plant at 17 bopS OF 104 119 and 126 Bn SHQ TLM under FTR HA Tripura. SH Provision of separate distribution of power load of solar power plant of 70 Bn 104 Bn  173 Bn under SHQ BSF Teliamura",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzkxOTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTk2Mjg2Mw==A13h1MTIvSUdBL0VFKEUpL05JVC8yMDI2LTI3A13h1MjAyNl9CU0ZfOTI2ODc4XzE=",
-      "category": "Solar",
-      "closing_date": "2026-09-30",
-      "issued_by": "DG,BSF,MHA",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 30-Sep-2026 10:30 AM",
-      "found_at": "2026-09-21T04:02:02.871100"
     },
     {
       "title": "REPLACEMENT OF SOLAR MODULES, SOLAR WATER HEATER AND ELECTRICAL PANELS, CONNECTED ACCESSORIES DAMEGED/DEFECTED DURING CYCLON ASNA AT ICGS JAKHAU AND CGRA NALIYA UNDER GE (I) (CG) GANDHINAGAR",
