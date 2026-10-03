@@ -1,21 +1,8 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-10-03T16:04:50.678516+00:00",
+  "generated_at": "2026-10-03T20:53:31.596217+00:00",
   "record_count": 29,
   "tenders": [
-    {
-      "title": "REPAIR/MAINT OF HOT WATER APPARATUS (GEYSER) INCLUDING SOLAR WATER HEATER UNDER GE DINJAN",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzI3NDk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTA0MzA5MQ==A13h1Qy84MTkwL0U4A13h1MjAyNl9NRVNfNzc5MTMxXzI=",
-      "category": "Solar",
-      "closing_date": "2026-10-15",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "MEDIUM",
-      "evidence": "REPAIR/MAINT OF HOT WATER APPARATUS (GEYSER) INCLUDING SOLAR WATER HEATER UNDER GE DINJAN"
-    },
     {
       "title": "REPAIR/MAINTENANCE OF HOT WATER APPLIANCES, SOLAR WATER HEATER, PANEL PIPES, SOLAR TANKS, ALLIED ACCESSORIES AND INTERNAL ELECTRIC WORKS AT DRC AREA OF AYODHYA CANTT UNDER AGE (I) AYODHYA.",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjIzODE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTE0MjgxMQ==A13h1ODQwMC8yMTAvRTg=A13h1MjAyNl9NRVNfNzgzNDQ5XzE=",
@@ -407,6 +394,20 @@
       "confidence": "HIGH",
       "evidence": "Bid Submission Closing Date: 22-Oct-2026 06:00 PM",
       "found_at": "2026-10-01T22:36:38.620578"
+    },
+    {
+      "title": "REPAIR/MAINT OF HOT WATER APPARATUS (GEYSER) INCLUDING SOLAR WATER HEATER UNDER GE DINJAN",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzI3NDk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTA0MzA5MQ==A13h1Qy84MTkwL0U4A13h1MjAyNl9NRVNfNzc5MTMxXzI=",
+      "category": "Solar",
+      "closing_date": "2026-10-15",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "MEDIUM",
+      "evidence": "REPAIR/MAINT OF HOT WATER APPARATUS (GEYSER) INCLUDING SOLAR WATER HEATER UNDER GE DINJAN",
+      "found_at": "2026-10-03T16:04:50.673850"
     }
   ],
   "source_summary": [
@@ -433,9 +434,9 @@
       "keywords": [
         "solar"
       ],
-      "status": "SUCCESS",
-      "documents_found": 1,
-      "verified_tenders": 1,
+      "status": "NO_RESULTS",
+      "documents_found": 0,
+      "verified_tenders": 0,
       "errors": []
     },
     {

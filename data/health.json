@@ -1,7 +1,7 @@
 {
   "status": "SUCCESS",
   "message": "Scan completed successfully. 29 verified tender(s) found.",
-  "updated_at": "2026-10-03T16:04:50.679273+00:00",
+  "updated_at": "2026-10-03T20:53:31.597046+00:00",
   "details": [
     {
       "category": "Charging point operations",
@@ -26,9 +26,9 @@
       "keywords": [
         "solar"
       ],
-      "status": "SUCCESS",
-      "documents_found": 1,
-      "verified_tenders": 1,
+      "status": "NO_RESULTS",
+      "documents_found": 0,
+      "verified_tenders": 0,
       "errors": []
     },
     {
