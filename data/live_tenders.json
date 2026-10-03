@@ -1,22 +1,8 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-10-02T22:09:43.757869+00:00",
-  "record_count": 29,
+  "generated_at": "2026-10-03T04:28:53.040200+00:00",
+  "record_count": 28,
   "tenders": [
-    {
-      "title": "REPAIR/ REPLACEMENT OF LT ELECTRIC SUPPLY, DISTRIBUTION NETWORK OF VARIOUS OTM BLDGS AND REPLACEMENT OF VARIOUS UNDER WATER LIGHTS INCLUDING COMPREHENSIVE MAINTENANCE OF EV CHARGING STATION AT NAVY NAGAR, COLABA, MUMBAI",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjE4MjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTE0MjY3Mw==A13h1ODY5OC9FOA==A13h1MjAyNl9NRVNfNzg4OTUwXzE=",
-      "category": "Charging point operations",
-      "closing_date": "2026-10-02",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "COMPREHENSIVE MAINTENANCE OF EV CHARGING STATION AT NAVY NAGAR, COLABA, MUMBAI",
-      "found_at": "2026-09-11T16:13:36.346199"
-    },
     {
       "title": "REPAIR/MAINTENANCE OF HOT WATER APPLIANCES, SOLAR WATER HEATER, PANEL PIPES, SOLAR TANKS, ALLIED ACCESSORIES AND INTERNAL ELECTRIC WORKS AT DRC AREA OF AYODHYA CANTT UNDER AGE (I) AYODHYA.",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjIzODE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTE0MjgxMQ==A13h1ODQwMC8yMTAvRTg=A13h1MjAyNl9NRVNfNzgzNDQ5XzE=",
