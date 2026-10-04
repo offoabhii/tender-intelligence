@@ -1,22 +1,8 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-10-03T20:53:31.596217+00:00",
-  "record_count": 29,
+  "generated_at": "2026-10-04T04:59:55.069303+00:00",
+  "record_count": 25,
   "tenders": [
-    {
-      "title": "REPAIR/MAINTENANCE OF HOT WATER APPLIANCES, SOLAR WATER HEATER, PANEL PIPES, SOLAR TANKS, ALLIED ACCESSORIES AND INTERNAL ELECTRIC WORKS AT DRC AREA OF AYODHYA CANTT UNDER AGE (I) AYODHYA.",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjIzODE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTE0MjgxMQ==A13h1ODQwMC8yMTAvRTg=A13h1MjAyNl9NRVNfNzgzNDQ5XzE=",
-      "category": "Solar",
-      "closing_date": "2026-10-03",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 03-Oct-2026 06:00 PM",
-      "found_at": "2026-09-11T16:13:36.348334"
-    },
     {
       "title": "PROVN OF INDUSTRIAL SIZE DEHUMIDIFIER AT BLDG NO 349, PROVN OF 10 X SOLAR STREET LIGHT IN INF BN II LOC AND PROVN OF SECURITY, BOLLARD LIGHT, GATE LIGHT AND ALLIED WORKS FOR WATER SUPPLY INSTALLATION AT UMROI MIL STN UNDER GE UMROI",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjM0NTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTIwODM4Mg==A13h1ODUwMS9FOA==A13h1MjAyNl9NRVNfNzg5MTc4XzE=",
@@ -32,34 +18,6 @@
       "found_at": "2026-09-12T10:29:32.229769"
     },
     {
-      "title": "Spl rep/repl of old HPSV/HPMV/CFL T5 street light with new LED street light fitting and provn of solar street light for internal road/hostel area and provn of 02xhigh mast light at APS and 2 ASD at Mil Stn Beas under GE Kapurthala",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjM2NTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTIyNjAzOQ==A13h1ODE5NC9FOA==A13h1MjAyNl9NRVNfNzg5MjQ1XzE=",
-      "category": "Solar",
-      "closing_date": "2026-10-03",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "provn of solar street light for internal road/hostel area",
-      "found_at": "2026-09-12T15:21:11.124439"
-    },
-    {
-      "title": "REPAIR / MAINT OF STREET LIGHTS, HIGH/MEDIUM MAST LIGHTS, SOLAR LIGHTS, HIGH/LOW BAY FLOOD LIGHTS, BLDG SECURITY, AREA LIGHTING INCLUDING ITS ASTRONOMICAL TIMER SWITCH AND CONNECTED WORKS AT TECH AREA UNDER AFS PHALODI",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjMzMTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTMxNDU4OA==A13h1ODc5OC9BL0U4A13h1MjAyNl9NRVNfNzg5MTM0XzE=",
-      "category": "Solar",
-      "closing_date": "2026-10-03",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "MEDIUM",
-      "evidence": "Bid Submission Closing Date: 03-Oct-2026 06:00 PM",
-      "found_at": "2026-09-13T15:56:25.649679"
-    },
-    {
       "title": "Fabrication, Furnishing & Installation / Mounting of bus body on the Road Mobile Relief Vehicle GVW-28T",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjUxNDE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTMxNDkwNQ==A13h1RExTLUtaSi1lLVQtMTEtMjYtMjc=A13h1OTIwNTE5OTA=",
       "category": "Bus body building",
@@ -72,20 +30,6 @@
       "confidence": "HIGH",
       "evidence": "Fabrication, Furnishing & Installation / Mounting of bus body on the Road Mobile Relief Vehicle GVW-28T",
       "found_at": "2026-09-13T15:56:25.651861"
-    },
-    {
-      "title": "REPAIR / MAINT OF STREET LIGHTS, HIGH/MEDIUM MAST  LIGHTS, SOLAR LIGHTS, HIGH/LOW BAY FLOOD LIGHTS,  BLDG SECURITY, AREA LIGHTING INCLUDING ITS  ASTRONOMICAL TIMER SWITCH AND CONNECTED WORKS  AT TECH AREA UNDER AFS PHALODI",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjMzMTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTMzMTUwMw==A13h1ODc5OC9BL0U4A13h1MjAyNl9NRVNfNzg5MTM0XzE=",
-      "category": "Solar",
-      "closing_date": "2026-10-03",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 03-Oct-2026 06:00 PM",
-      "found_at": "2026-09-13T20:38:48.069901"
     },
     {
       "title": "Providing Single,Double Arm Solar Highway Lightings as short term measures at sixteen locations on NH 12 to expedite the rectification of accident spots, duly identified, recommended by the Raiganj Police District Authority in the State of WB.",
@@ -434,10 +378,12 @@
       "keywords": [
         "solar"
       ],
-      "status": "NO_RESULTS",
-      "documents_found": 0,
+      "status": "WARNING",
+      "documents_found": 1,
       "verified_tenders": 0,
-      "errors": []
+      "errors": [
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzI3NDk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTA4OTU3Ng==A13h1Qy84MTkwL0U4A13h1MjAyNl9NRVNfNzc5MTMxXzI=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNzI3NDk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTA4OTU3Ng==A13h1Qy84MTkwL0U4A13h1MjAyNl9NRVNfNzc5MTMxXzI=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+      ]
     },
     {
       "category": "Bus operations (gross cost only)",
