@@ -1,8 +1,21 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-10-06T00:02:32.439351+00:00",
-  "record_count": 22,
+  "generated_at": "2026-10-06T05:38:02.051964+00:00",
+  "record_count": 23,
   "tenders": [
+    {
+      "title": "Design and SITC of 10kWP (Each) Grid connected roof top Solar Power Plant at Uditnagar HPO, Rourkela and Angul HPO under Odisha Circle. (2nd call)",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzQ3ODU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTI2NDU4MA==A13h1MTA1L0VFL1BFRC9LT0wvTklULzIwMjYtMjc=A13h1MjAyNl9ET1BfOTI4ODk3XzE=",
+      "category": "Solar",
+      "closing_date": "2026-10-13",
+      "issued_by": "Department of Posts",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Design and SITC of 10kWP (Each) Grid connected roof top Solar Power Plant at Uditnagar HPO, Rourkela and Angul HPO under Odisha Circle. (2nd call)"
+    },
     {
       "title": "PROVN OF INDUSTRIAL SIZE DEHUMIDIFIER AT BLDG NO 349, PROVN OF 10 X SOLAR STREET LIGHT IN INF BN II LOC AND PROVN OF SECURITY, BOLLARD LIGHT, GATE LIGHT AND ALLIED WORKS FOR WATER SUPPLY INSTALLATION AT UMROI MIL STN UNDER GE UMROI",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjM0NTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTIwODM4Mg==A13h1ODUwMS9FOA==A13h1MjAyNl9NRVNfNzg5MTc4XzE=",
@@ -337,10 +350,11 @@
         "solar"
       ],
       "status": "WARNING",
-      "documents_found": 1,
-      "verified_tenders": 0,
+      "documents_found": 3,
+      "verified_tenders": 1,
       "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzQ0MzQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTI0NDUxNA==A13h1R00oSkEpL0VuTS9lLVRlbmRlci8gMjYtMjcvRS04NzEvMDI5IERURC4gMDUvMTAvMjAyNg==A13h1MjAyNl9NQ0xfMzY2NTg1XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNzQ0MzQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTI0NDUxNA==A13h1R00oSkEpL0VuTS9lLVRlbmRlci8gMjYtMjcvRS04NzEvMDI5IERURC4gMDUvMTAvMjAyNg==A13h1MjAyNl9NQ0xfMzY2NTg1XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzUzMTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTI2NDQ0OA==A13h1R0UvSkhBL1RPSy82MyBPRiAyMDI2LTI3A13h1MjAyNl9NRVNfNzkyNDc3XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNzUzMTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTI2NDQ0OA==A13h1R0UvSkhBL1RPSy82MyBPRiAyMDI2LTI3A13h1MjAyNl9NRVNfNzkyNDc3XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzUzMTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTI2NDQ1Nw==A13h1R0UvSkhBL1RPSy82MyBPRiAyMDI2LTI3A13h1MjAyNl9NRVNfNzkyNDc3XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNzUzMTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTI2NDQ1Nw==A13h1R0UvSkhBL1RPSy82MyBPRiAyMDI2LTI3A13h1MjAyNl9NRVNfNzkyNDc3XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
       ]
     },
     {
