@@ -1,8 +1,34 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-10-07T13:04:56.091129+00:00",
-  "record_count": 23,
+  "generated_at": "2026-10-07T23:03:50.242577+00:00",
+  "record_count": 25,
   "tenders": [
+    {
+      "title": "REP/MAINT OF SOLAR HEATER AND IMPROVEMENT TO EXTERNAL WATER SUPPLY LINES, VALVES INCL MAINTENANCE OF PUMPSETS AND ALLIED ITEMS IN DOMESTIC AND TECHNICAL AREA AT AFS YELAHANKA",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzg4MzE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQxMzc1Ng==A13h1ODYyNzgvRTg=A13h1MjAyNl9NRVNfNzkyNzEwXzE=",
+      "category": "Solar",
+      "closing_date": "2026-10-27",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Bid Submission Closing Date: 27-Oct-2026 06:00 PM"
+    },
+    {
+      "title": "Providing, Installing and commissioning of 1000 LPH Solar Operated RO Plant including Chiller and SS Water Tank under CSR 2026-27 at Kendriya Vidhyalaya, Chhindwara under Pench Area WCL.",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzg3MjE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQxMzc1Ng==A13h1cGUzMzUwLWNpdi1zLWUwNDctMjAyNi0yNw==A13h1MjAyNl9XQ0xfMzY2NzQxXzE=",
+      "category": "Solar",
+      "closing_date": "2026-10-19",
+      "issued_by": "Western Coalfields Limited",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Bid Submission Closing Date: 19-Oct-2026 06:00 PM"
+    },
     {
       "title": "PROVN OF INDUSTRIAL SIZE DEHUMIDIFIER AT BLDG NO 349, PROVN OF 10 X SOLAR STREET LIGHT IN INF BN II LOC AND PROVN OF SECURITY, BOLLARD LIGHT, GATE LIGHT AND ALLIED WORKS FOR WATER SUPPLY INSTALLATION AT UMROI MIL STN UNDER GE UMROI",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjM0NTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTIwODM4Mg==A13h1ODUwMS9FOA==A13h1MjAyNl9NRVNfNzg5MTc4XzE=",
@@ -351,11 +377,11 @@
         "solar"
       ],
       "status": "WARNING",
-      "documents_found": 2,
-      "verified_tenders": 0,
+      "documents_found": 4,
+      "verified_tenders": 2,
       "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzg3MjE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTM3NzczMQ==A13h1cGUzMzUwLWNpdi1zLWUwNDctMjAyNi0yNw==A13h1MjAyNl9XQ0xfMzY2NzQxXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNzg3MjE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTM3NzczMQ==A13h1cGUzMzUwLWNpdi1zLWUwNDctMjAyNi0yNw==A13h1MjAyNl9XQ0xfMzY2NzQxXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzg4MzE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTM3Nzc1Mg==A13h1ODYyNzgvRTg=A13h1MjAyNl9NRVNfNzkyNzEwXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNzg4MzE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTM3Nzc1Mg==A13h1ODYyNzgvRTg=A13h1MjAyNl9NRVNfNzkyNzEwXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzg3MjE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQxMzczNg==A13h1cGUzMzUwLWNpdi1zLWUwNDctMjAyNi0yNw==A13h1MjAyNl9XQ0xfMzY2NzQxXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNzg3MjE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQxMzczNg==A13h1cGUzMzUwLWNpdi1zLWUwNDctMjAyNi0yNw==A13h1MjAyNl9XQ0xfMzY2NzQxXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzg4MTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQxMzc1MA==A13h1ODcwMSAvIDY0IC8gMjAyNi0yNyAvIDA3IC8gRTg=A13h1MjAyNl9NRVNfNzkyNzAyXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNzg4MTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQxMzc1MA==A13h1ODcwMSAvIDY0IC8gMjAyNi0yNyAvIDA3IC8gRTg=A13h1MjAyNl9NRVNfNzkyNzAyXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
       ]
     },
     {
@@ -379,12 +405,10 @@
         "electric bus operation",
         "e-bus operation"
       ],
-      "status": "WARNING",
-      "documents_found": 1,
+      "status": "NO_RESULTS",
+      "documents_found": 0,
       "verified_tenders": 0,
-      "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzg1NDA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTM3ODEwNg==A13h1TW5DL1NSL1JTUi9MVC8xNTMvVEFQU08vMjAyNjI3A13h1MjAyNl9TUk9UTl8xOTE2NDJfMQ==: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNzg1NDA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTM3ODEwNg==A13h1TW5DL1NSL1JTUi9MVC8xNTMvVEFQU08vMjAyNjI3A13h1MjAyNl9TUk9UTl8xOTE2NDJfMQ==: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
-      ]
+      "errors": []
     },
     {
       "category": "Bus body building",
