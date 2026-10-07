@@ -1,21 +1,8 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-10-06T22:38:29.520792+00:00",
-  "record_count": 24,
+  "generated_at": "2026-10-07T05:04:18.010129+00:00",
+  "record_count": 23,
   "tenders": [
-    {
-      "title": "SPL REPAIR OF SOLAR WATER HEATING SYSTEM AT AHRR AND PROVN OF 10 KW HYBRID SOLAR POWER PLANT AT CWE NEW DELHI OFFICE COMPLEX UNDER GE EM RR HOSP DELHI CANTT-10",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzU3MTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTMyNTg4Mw==A13h1Q1dFLU5EL1QtMzUvMjAyNi0yNw==A13h1MjAyNl9NRVNfNzkyNTQ3XzE=",
-      "category": "Solar",
-      "closing_date": "2026-11-03",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "SPL REPAIR OF SOLAR WATER HEATING SYSTEM AT AHRR AND PROVN OF 10 KW HYBRID SOLAR POWER PLANT AT CWE NEW DELHI OFFICE COMPLEX UNDER GE EM RR HOSP DELHI CANTT-10"
-    },
     {
       "title": "PROVN OF INDUSTRIAL SIZE DEHUMIDIFIER AT BLDG NO 349, PROVN OF 10 X SOLAR STREET LIGHT IN INF BN II LOC AND PROVN OF SECURITY, BOLLARD LIGHT, GATE LIGHT AND ALLIED WORKS FOR WATER SUPPLY INSTALLATION AT UMROI MIL STN UNDER GE UMROI",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjM0NTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTIwODM4Mg==A13h1ODUwMS9FOA==A13h1MjAyNl9NRVNfNzg5MTc4XzE=",
@@ -43,20 +30,6 @@
       "confidence": "HIGH",
       "evidence": "Bid Submission Closing Date: 07-Oct-2026 11:00 AM",
       "found_at": "2026-09-15T16:44:52.906896"
-    },
-    {
-      "title": "REPAIR/MAINTENANCE OF GEYSERS/SOLAR WATER HEATER AND DAY TO DAY COMPLAINTS AND MISC/FITTINGS FIXTURE AT AMRITSAR CANTT",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMjc3MTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTQ5MDA1NQ==A13h1R0UvQVNSLTc1LzIwMjYtMjc=A13h1MjAyNl9NRVNfNzg5NDc0XzE=",
-      "category": "Solar",
-      "closing_date": "2026-10-06",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 06-Oct-2026 06:00 PM",
-      "found_at": "2026-09-15T16:44:52.909569"
     },
     {
       "title": "REPAIR/ REPLACEMAINT OF SECURITY LIGHTS, STRRET LIGHT, PERIMETER LIGHTS,HIGHMAST LIGHTS, SOLAR LIGHTS AND THEIR CONNECTED ITEMS AT MP GOLAI AND BURDONG UNDER GE GANGTOK",
@@ -337,6 +310,20 @@
       "confidence": "HIGH",
       "evidence": "Design and SITC of 10kWP (Each) Grid connected roof top Solar Power Plant at Uditnagar HPO, Rourkela and Angul HPO under Odisha Circle. (2nd call)",
       "found_at": "2026-10-06T05:38:02.049191"
+    },
+    {
+      "title": "SPL REPAIR OF SOLAR WATER HEATING SYSTEM AT AHRR AND PROVN OF 10 KW HYBRID SOLAR POWER PLANT AT CWE NEW DELHI OFFICE COMPLEX UNDER GE EM RR HOSP DELHI CANTT-10",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzU3MTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTMyNTg4Mw==A13h1Q1dFLU5EL1QtMzUvMjAyNi0yNw==A13h1MjAyNl9NRVNfNzkyNTQ3XzE=",
+      "category": "Solar",
+      "closing_date": "2026-11-03",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "SPL REPAIR OF SOLAR WATER HEATING SYSTEM AT AHRR AND PROVN OF 10 KW HYBRID SOLAR POWER PLANT AT CWE NEW DELHI OFFICE COMPLEX UNDER GE EM RR HOSP DELHI CANTT-10",
+      "found_at": "2026-10-06T22:38:29.516601"
     }
   ],
   "source_summary": [
@@ -364,13 +351,12 @@
         "solar"
       ],
       "status": "WARNING",
-      "documents_found": 5,
-      "verified_tenders": 1,
+      "documents_found": 3,
+      "verified_tenders": 0,
       "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzU3MTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTMyNTgzNQ==A13h1Q1dFLU5EL1QtMzUvMjAyNi0yNw==A13h1MjAyNl9NRVNfNzkyNTQ3XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNzU3MTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTMyNTgzNQ==A13h1Q1dFLU5EL1QtMzUvMjAyNi0yNw==A13h1MjAyNl9NRVNfNzkyNTQ3XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzU1Mjk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTMyNTg0MQ==A13h1ODcwMS8yNS8yMDI2LTIwMjcvRTg=A13h1MjAyNl9NRVNfNzkyNTA4XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNzU1Mjk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTMyNTg0MQ==A13h1ODcwMS8yNS8yMDI2LTIwMjcvRTg=A13h1MjAyNl9NRVNfNzkyNTA4XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzYwNjI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTMyNTg0MQ==A13h1ODQzMi9FOF9HRV9GT1JUX0tPQ0hJA13h1MjAyNl9NRVNfNzkyNTgwXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNzYwNjI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTMyNTg0MQ==A13h1ODQzMi9FOF9HRV9GT1JUX0tPQ0hJA13h1MjAyNl9NRVNfNzkyNTgwXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzY0ODQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTMyNTg4Mw==A13h1ODYwNS9FOA==A13h1MjAyNl9NRVNfNzkyNjQyXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNzY0ODQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTMyNTg4Mw==A13h1ODYwNS9FOA==A13h1MjAyNl9NRVNfNzkyNjQyXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzU3MTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTM0ODk0OQ==A13h1Q1dFLU5EL1QtMzUvMjAyNi0yNw==A13h1MjAyNl9NRVNfNzkyNTQ3XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNzU3MTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTM0ODk0OQ==A13h1Q1dFLU5EL1QtMzUvMjAyNi0yNw==A13h1MjAyNl9NRVNfNzkyNTQ3XzE=: The read operation timed out",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzU1Mjk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTM0ODk2Mw==A13h1ODcwMS8yNS8yMDI2LTIwMjcvRTg=A13h1MjAyNl9NRVNfNzkyNTA4XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNzU1Mjk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTM0ODk2Mw==A13h1ODcwMS8yNS8yMDI2LTIwMjcvRTg=A13h1MjAyNl9NRVNfNzkyNTA4XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzU3MTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTM0ODk3OA==A13h1Q1dFLU5EL1QtMzUvMjAyNi0yNw==A13h1MjAyNl9NRVNfNzkyNTQ3XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNzU3MTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTM0ODk3OA==A13h1Q1dFLU5EL1QtMzUvMjAyNi0yNw==A13h1MjAyNl9NRVNfNzkyNTQ3XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
       ]
     },
     {
