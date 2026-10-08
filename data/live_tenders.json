@@ -1,8 +1,21 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-10-08T13:11:50.329981+00:00",
-  "record_count": 24,
+  "generated_at": "2026-10-08T23:16:23.469342+00:00",
+  "record_count": 25,
   "tenders": [
+    {
+      "title": "Land Development for EV Charging and Parking at BKC and SAHAR Road Metro Station of Mumbai Metro Line-3.",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxODI4NTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTUwMDc0MA==A13h1TU1SQy9QbG5nL05JVC9DaXZpbC9FVi8yMDI2LzI=A13h1MjAyNl9NTVJDTF8yOTM4NDZfMQ==",
+      "category": "Charging point operations",
+      "closing_date": "2026-10-29",
+      "issued_by": "Mumbai Metro Rail Corporation Limited",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "MEDIUM",
+      "evidence": "Tender Title: Land Development for EV Charging and Parking at BKC and SAHAR Road Metro Station of Mumbai Metro Line-3."
+    },
     {
       "title": "PROVN OF ROOFTOP SOLAR PLANTS (600KW) AT CERTAIN BUILDINGS UNDER GE (N) AHILYANAGAR",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzAwNzE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTU5Mjc0MQ==A13h1ODQ2NDc=A13h1MjAyNl9NRVNfNzg5NjE4XzE=",
@@ -354,9 +367,9 @@
         "battery charging station",
         "charging kiosk"
       ],
-      "status": "NO_RESULTS",
-      "documents_found": 0,
-      "verified_tenders": 0,
+      "status": "SUCCESS",
+      "documents_found": 1,
+      "verified_tenders": 1,
       "errors": []
     },
     {
@@ -365,11 +378,12 @@
         "solar"
       ],
       "status": "WARNING",
-      "documents_found": 2,
+      "documents_found": 3,
       "verified_tenders": 0,
       "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxODI5MzI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQ2NDY0Ng==A13h1ODgvRUVFL1BFRC9CR0wvMjAyNi0yNy9WSkE=A13h1MjAyNl9ET1BfOTI5NDY4XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxODI5MzI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQ2NDY0Ng==A13h1ODgvRUVFL1BFRC9CR0wvMjAyNi0yNy9WSkE=A13h1MjAyNl9ET1BfOTI5NDY4XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxODI0NDc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQ2NDY4OA==A13h1MzYtNjE2NQ==A13h1MjAyNl9JUkVMXzI4OTc2Nl8y: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxODI0NDc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQ2NDY4OA==A13h1MzYtNjE2NQ==A13h1MjAyNl9JUkVMXzI4OTc2Nl8y: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}"
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxODYwMjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTUwMDgwOQ==A13h1TklUIDA3LzIwMjYtMjcvSGlnaE1hc3QgSW5zdGFsbGF0aW9uIG9uIE5ILTMxRA==A13h1MjAyNl9OSEFJXzI5MzkwM18x: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxODYwMjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTUwMDgwOQ==A13h1TklUIDA3LzIwMjYtMjcvSGlnaE1hc3QgSW5zdGFsbGF0aW9uIG9uIE5ILTMxRA==A13h1MjAyNl9OSEFJXzI5MzkwM18x: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxODI5ODE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTUwMDgzMA==A13h1Q0NFKEVOKS9DSEQgL09NLTExLzIxNiBLV1AvMjYtMjcvOTMxMA==A13h1MjAyNl9EUkRPXzkyOTM2NF8x: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxODI5ODE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTUwMDgzMA==A13h1Q0NFKEVOKS9DSEQgL09NLTExLzIxNiBLV1AvMjYtMjcvOTMxMA==A13h1MjAyNl9EUkRPXzkyOTM2NF8x: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxODI5MzI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTUwMDkzNQ==A13h1ODgvRUVFL1BFRC9CR0wvMjAyNi0yNy9WSkE=A13h1MjAyNl9ET1BfOTI5NDY4XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxODI5MzI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTUwMDkzNQ==A13h1ODgvRUVFL1BFRC9CR0wvMjAyNi0yNy9WSkE=A13h1MjAyNl9ET1BfOTI5NDY4XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
       ]
     },
     {
