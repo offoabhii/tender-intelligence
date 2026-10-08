@@ -1,47 +1,8 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-10-08T05:14:03.362703+00:00",
+  "generated_at": "2026-10-08T13:11:50.329981+00:00",
   "record_count": 24,
   "tenders": [
-    {
-      "title": "SPL REPAIR/ REPLACEMENT OF STREET LIGHT TO SENSOR BASED SOLAR STREET LIGHT IN NORTH ZONE AND MISC WORK UNDER GE(N) BINNAGURI",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzg4MTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQzNjAwNQ==A13h1ODcwMSAvIDY0IC8gMjAyNi0yNyAvIDA3IC8gRTg=A13h1MjAyNl9NRVNfNzkyNzAyXzE=",
-      "category": "Solar",
-      "closing_date": "2026-10-31",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "SPL REPAIR/ REPLACEMENT OF STREET LIGHT TO SENSOR BASED SOLAR STREET LIGHT IN NORTH ZONE AND MISC WORK UNDER GE(N) BINNAGURI"
-    },
-    {
-      "title": "Providing, Installing and commissioning of 1000 LPH Solar Operated RO Plant including Chiller and SS Water Tank under CSR 2026-27 at Kendriya Vidhyalaya, Chhindwara under Pench Area WCL.",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzg3MjE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQzNjAyNw==A13h1cGUzMzUwLWNpdi1zLWUwNDctMjAyNi0yNw==A13h1MjAyNl9XQ0xfMzY2NzQxXzE=",
-      "category": "Solar",
-      "closing_date": "2026-10-19",
-      "issued_by": "Western Coalfields Limited",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Providing, Installing and commissioning of 1000 LPH Solar Operated RO Plant including Chiller and SS Water Tank under CSR 2026-27 at Kendriya Vidhyalaya, Chhindwara under Pench Area WCL."
-    },
-    {
-      "title": "REPAIR/ MAINT OF DAY-TO-DAY COMPLAINTS OF PERIMETER STREET LIGHTS, AREA LIGHTS, HIGH MAST LIGHTS, SOLAR LIGHTS AND CERTAIN E/M WORKS",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzg4MjI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQzNjA1OQ==A13h1ODkyNS9FOA==A13h1MjAyNl9NRVNfNzkyNzA1XzE=",
-      "category": "Solar",
-      "closing_date": "2026-10-29",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 29-Oct-2026 06:00 PM"
-    },
     {
       "title": "PROVN OF ROOFTOP SOLAR PLANTS (600KW) AT CERTAIN BUILDINGS UNDER GE (N) AHILYANAGAR",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzAwNzE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTU5Mjc0MQ==A13h1ODQ2NDc=A13h1MjAyNl9NRVNfNzg5NjE4XzE=",
@@ -335,6 +296,48 @@
       "confidence": "HIGH",
       "evidence": "Bid Submission Closing Date: 27-Oct-2026 06:00 PM",
       "found_at": "2026-10-07T23:03:50.237293"
+    },
+    {
+      "title": "Providing, Installing and commissioning of 1000 LPH Solar Operated RO Plant including Chiller and SS Water Tank under CSR 2026-27 at Kendriya Vidhyalaya, Chhindwara under Pench Area WCL.",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzg3MjE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQxMzc1Ng==A13h1cGUzMzUwLWNpdi1zLWUwNDctMjAyNi0yNw==A13h1MjAyNl9XQ0xfMzY2NzQxXzE=",
+      "category": "Solar",
+      "closing_date": "2026-10-19",
+      "issued_by": "Western Coalfields Limited",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Bid Submission Closing Date: 19-Oct-2026 06:00 PM",
+      "found_at": "2026-10-07T23:03:50.239450"
+    },
+    {
+      "title": "SPL REPAIR/ REPLACEMENT OF STREET LIGHT TO SENSOR BASED SOLAR STREET LIGHT IN NORTH ZONE AND MISC WORK UNDER GE(N) BINNAGURI",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzg4MTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQzNjAwNQ==A13h1ODcwMSAvIDY0IC8gMjAyNi0yNyAvIDA3IC8gRTg=A13h1MjAyNl9NRVNfNzkyNzAyXzE=",
+      "category": "Solar",
+      "closing_date": "2026-10-31",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "SPL REPAIR/ REPLACEMENT OF STREET LIGHT TO SENSOR BASED SOLAR STREET LIGHT IN NORTH ZONE AND MISC WORK UNDER GE(N) BINNAGURI",
+      "found_at": "2026-10-08T05:14:03.356988"
+    },
+    {
+      "title": "REPAIR/ MAINT OF DAY-TO-DAY COMPLAINTS OF PERIMETER STREET LIGHTS, AREA LIGHTS, HIGH MAST LIGHTS, SOLAR LIGHTS AND CERTAIN E/M WORKS",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzg4MjI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQzNjA1OQ==A13h1ODkyNS9FOA==A13h1MjAyNl9NRVNfNzkyNzA1XzE=",
+      "category": "Solar",
+      "closing_date": "2026-10-29",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Bid Submission Closing Date: 29-Oct-2026 06:00 PM",
+      "found_at": "2026-10-08T05:14:03.360615"
     }
   ],
   "source_summary": [
@@ -362,13 +365,11 @@
         "solar"
       ],
       "status": "WARNING",
-      "documents_found": 8,
-      "verified_tenders": 4,
+      "documents_found": 2,
+      "verified_tenders": 0,
       "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzg4MjI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQzNjAyMA==A13h1ODkyNS9FOA==A13h1MjAyNl9NRVNfNzkyNzA1XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNzg4MjI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQzNjAyMA==A13h1ODkyNS9FOA==A13h1MjAyNl9NRVNfNzkyNzA1XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzg4MTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQzNjA0OQ==A13h1ODcwMSAvIDY0IC8gMjAyNi0yNyAvIDA3IC8gRTg=A13h1MjAyNl9NRVNfNzkyNzAyXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNzg4MTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQzNjA0OQ==A13h1ODcwMSAvIDY0IC8gMjAyNi0yNyAvIDA3IC8gRTg=A13h1MjAyNl9NRVNfNzkyNzAyXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzg3MjE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQzNjA2NA==A13h1cGUzMzUwLWNpdi1zLWUwNDctMjAyNi0yNw==A13h1MjAyNl9XQ0xfMzY2NzQxXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNzg3MjE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQzNjA2NA==A13h1cGUzMzUwLWNpdi1zLWUwNDctMjAyNi0yNw==A13h1MjAyNl9XQ0xfMzY2NzQxXzE=: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-3.6-flash\\nPlease retry in 29.359495495s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.6-flash', 'location': 'global'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '29s'}]}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzg3MjE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQzNjA3MA==A13h1cGUzMzUwLWNpdi1zLWUwNDctMjAyNi0yNw==A13h1MjAyNl9XQ0xfMzY2NzQxXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxNzg3MjE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQzNjA3MA==A13h1cGUzMzUwLWNpdi1zLWUwNDctMjAyNi0yNw==A13h1MjAyNl9XQ0xfMzY2NzQxXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxODI5MzI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQ2NDY0Ng==A13h1ODgvRUVFL1BFRC9CR0wvMjAyNi0yNy9WSkE=A13h1MjAyNl9ET1BfOTI5NDY4XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxODI5MzI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQ2NDY0Ng==A13h1ODgvRUVFL1BFRC9CR0wvMjAyNi0yNy9WSkE=A13h1MjAyNl9ET1BfOTI5NDY4XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxODI0NDc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQ2NDY4OA==A13h1MzYtNjE2NQ==A13h1MjAyNl9JUkVMXzI4OTc2Nl8y: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxODI0NDc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQ2NDY4OA==A13h1MzYtNjE2NQ==A13h1MjAyNl9JUkVMXzI4OTc2Nl8y: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}"
       ]
     },
     {
