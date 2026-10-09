@@ -1,8 +1,21 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-10-09T12:59:32.320366+00:00",
-  "record_count": 26,
+  "generated_at": "2026-10-09T22:39:43.530693+00:00",
+  "record_count": 27,
   "tenders": [
+    {
+      "title": "Supply,installation and commissioning of 02 sets of 1KW Solar Panel with all accessories for TOPA Magzine and Pundi Magzine under Kuju Area.",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxODY1Nzg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTU4NDg3Mg==A13h1R00gKEspL0VuTS9lVGVuZGVyLzI2LTI3LzEwOQ==A13h1MjAyNl9DQ0xfMzY2ODU4XzE=",
+      "category": "Solar",
+      "closing_date": "2026-10-20",
+      "issued_by": "Central Coalfields Limited",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Supply,installation and commissioning of 02 sets of 1KW Solar Panel with all accessories for TOPA Magzine and Pundi Magzine under Kuju Area."
+    },
     {
       "title": "PROVN OF ROOFTOP SOLAR PLANTS (600KW) AT CERTAIN BUILDINGS UNDER GE (N) AHILYANAGAR",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzAwNzE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTU5Mjc0MQ==A13h1ODQ2NDc=A13h1MjAyNl9NRVNfNzg5NjE4XzE=",
@@ -382,22 +395,24 @@
         "battery charging station",
         "charging kiosk"
       ],
-      "status": "WARNING",
-      "documents_found": 1,
+      "status": "NO_RESULTS",
+      "documents_found": 0,
       "verified_tenders": 0,
-      "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxODY5NDY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTU1MDE2Mg==A13h1TU1SQy9QbG5nL05JVC9DaXZpbC9FVi8yMDI2LzI=A13h1MjAyNl9NTVJDTF8yOTM4NDZfMg==: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxODY5NDY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTU1MDE2Mg==A13h1TU1SQy9QbG5nL05JVC9DaXZpbC9FVi8yMDI2LzI=A13h1MjAyNl9NTVJDTF8yOTM4NDZfMg==: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
-      ]
+      "errors": []
     },
     {
       "category": "Solar",
       "keywords": [
         "solar"
       ],
-      "status": "NO_RESULTS",
-      "documents_found": 0,
-      "verified_tenders": 0,
-      "errors": []
+      "status": "WARNING",
+      "documents_found": 5,
+      "verified_tenders": 2,
+      "errors": [
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxODY1Nzg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTU4NDg1OA==A13h1R00gKEspL0VuTS9lVGVuZGVyLzI2LTI3LzEwOQ==A13h1MjAyNl9DQ0xfMzY2ODU4XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxODY1Nzg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTU4NDg1OA==A13h1R00gKEspL0VuTS9lVGVuZGVyLzI2LTI3LzEwOQ==A13h1MjAyNl9DQ0xfMzY2ODU4XzE=: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxODY1Nzg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTU4NDg2NQ==A13h1R00gKEspL0VuTS9lVGVuZGVyLzI2LTI3LzEwOQ==A13h1MjAyNl9DQ0xfMzY2ODU4XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxODY1Nzg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTU4NDg2NQ==A13h1R00gKEspL0VuTS9lVGVuZGVyLzI2LTI3LzEwOQ==A13h1MjAyNl9DQ0xfMzY2ODU4XzE=: The read operation timed out",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxODcxMzU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTU4NDkwMg==A13h1Q0NFKEVOKS9DSEQvT00tMTUvV0FURVIgU1VQUExZIFJNRy8yNi0yNy85MzE0A13h1MjAyNl9EUkRPXzkyOTcwMF8x: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxODcxMzU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTU4NDkwMg==A13h1Q0NFKEVOKS9DSEQvT00tMTUvV0FURVIgU1VQUExZIFJNRy8yNi0yNy85MzE0A13h1MjAyNl9EUkRPXzkyOTcwMF8x: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}"
+      ]
     },
     {
       "category": "Bus operations (gross cost only)",
