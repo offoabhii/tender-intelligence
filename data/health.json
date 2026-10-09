@@ -1,7 +1,7 @@
 {
   "status": "SUCCESS_WITH_WARNINGS",
   "message": "Scan completed with warnings. 26 verified tender(s) found.",
-  "updated_at": "2026-10-09T05:16:32.322034+00:00",
+  "updated_at": "2026-10-09T12:59:32.321384+00:00",
   "details": [
     {
       "category": "Charging point operations",
@@ -16,22 +16,22 @@
         "battery charging station",
         "charging kiosk"
       ],
-      "status": "NO_RESULTS",
-      "documents_found": 0,
+      "status": "WARNING",
+      "documents_found": 1,
       "verified_tenders": 0,
-      "errors": []
+      "errors": [
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxODY5NDY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTU1MDE2Mg==A13h1TU1SQy9QbG5nL05JVC9DaXZpbC9FVi8yMDI2LzI=A13h1MjAyNl9NTVJDTF8yOTM4NDZfMg==: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxODY5NDY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTU1MDE2Mg==A13h1TU1SQy9QbG5nL05JVC9DaXZpbC9FVi8yMDI2LzI=A13h1MjAyNl9NTVJDTF8yOTM4NDZfMg==: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+      ]
     },
     {
       "category": "Solar",
       "keywords": [
         "solar"
       ],
-      "status": "WARNING",
-      "documents_found": 3,
-      "verified_tenders": 2,
-      "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxODI5ODE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTUyMjU1Mg==A13h1Q0NFKEVOKS9DSEQgL09NLTExLzIxNiBLV1AvMjYtMjcvOTMxMA==A13h1MjAyNl9EUkRPXzkyOTM2NF8x: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxODI5ODE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTUyMjU1Mg==A13h1Q0NFKEVOKS9DSEQgL09NLTExLzIxNiBLV1AvMjYtMjcvOTMxMA==A13h1MjAyNl9EUkRPXzkyOTM2NF8x: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
-      ]
+      "status": "NO_RESULTS",
+      "documents_found": 0,
+      "verified_tenders": 0,
+      "errors": []
     },
     {
       "category": "Bus operations (gross cost only)",
