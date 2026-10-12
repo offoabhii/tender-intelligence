@@ -1,8 +1,21 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-10-11T21:53:44.983010+00:00",
+  "generated_at": "2026-10-12T05:04:04.671944+00:00",
   "record_count": 31,
   "tenders": [
+    {
+      "title": "PROVISION OF SOLAR STREET LIGHTS AT PREMISES OF CGDHQ-4 AND CGRA RAMESHWARAM, KOCHI",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTA2NDM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTc4MDk2OA==A13h1ODMzNS9FOA==A13h1MjAyNl9NRVNfNzkzMjM5XzE=",
+      "category": "Solar",
+      "closing_date": "2026-10-31",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "PROVISION OF SOLAR STREET LIGHTS AT PREMISES OF CGDHQ-4 AND CGRA RAMESHWARAM, KOCHI"
+    },
     {
       "title": "PROVN OF ROOFTOP SOLAR PLANTS (600KW) AT CERTAIN BUILDINGS UNDER GE (N) AHILYANAGAR",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzAwNzE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTU5Mjc0MQ==A13h1ODQ2NDc=A13h1MjAyNl9NRVNfNzg5NjE4XzE=",
@@ -410,20 +423,6 @@
       "found_at": "2026-10-10T21:33:45.241717"
     },
     {
-      "title": "PROVISION OF SOLAR STREET LIGHTS AT PREMISES OF CGDHQ-4 AND CGRA RAMESHWARAM, KOCHI",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTA2NDM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTY2NzM3MQ==A13h1ODMzNS9FOA==A13h1MjAyNl9NRVNfNzkzMjM5XzE=",
-      "category": "Solar",
-      "closing_date": "2026-10-31",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "PROVISION OF SOLAR STREET LIGHTS AT PREMISES OF CGDHQ-4 AND CGRA RAMESHWARAM, KOCHI",
-      "found_at": "2026-10-10T21:33:45.243815"
-    },
-    {
       "title": "MAINT AND REPAIRS TO WINTER APPLIANCES SOLAR WATER HEATER, GEYSERS AND CONNECTED WORKS UNDER AGE E/M NO 1 OF GE (NORTH) MEERUT CANTT",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTA5NDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTY2NzM3MQ==A13h1ODcwMi9FOA==A13h1MjAyNl9NRVNfNzkzMjQ2XzE=",
       "category": "Solar",
@@ -462,16 +461,10 @@
       "keywords": [
         "solar"
       ],
-      "status": "WARNING",
-      "documents_found": 5,
-      "verified_tenders": 0,
-      "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTQzNDc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTc1NDkwOQ==A13h1TkdFTC1DUy05OTAwMzM0NzcxA13h1MjAyNl9OR0VMXzExMjYwM18x: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxOTQzNDc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTc1NDkwOQ==A13h1TkdFTC1DUy05OTAwMzM0NzcxA13h1MjAyNl9OR0VMXzExMjYwM18x: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTQzNDc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTc1NDkxNg==A13h1TkdFTC1DUy05OTAwMzM0NzcxA13h1MjAyNl9OR0VMXzExMjYwM18x: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxOTQzNDc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTc1NDkxNg==A13h1TkdFTC1DUy05OTAwMzM0NzcxA13h1MjAyNl9OR0VMXzExMjYwM18x: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTA5NDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTc1NDk3MA==A13h1ODcwMi9FOA==A13h1MjAyNl9NRVNfNzkzMjQ2XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxOTA5NDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTc1NDk3MA==A13h1ODcwMi9FOA==A13h1MjAyNl9NRVNfNzkzMjQ2XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTA5MDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTc1NTA4NQ==A13h1ODI4OC9FOA==A13h1MjAyNl9NRVNfNzkzMjc5XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxOTA5MDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTc1NTA4NQ==A13h1ODI4OC9FOA==A13h1MjAyNl9NRVNfNzkzMjc5XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTA5MTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTc1NTA4NQ==A13h1ODI4Ni9FOA==A13h1MjAyNl9NRVNfNzkzMjQzXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxOTA5MTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTc1NTA4NQ==A13h1ODI4Ni9FOA==A13h1MjAyNl9NRVNfNzkzMjQzXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
-      ]
+      "status": "SUCCESS",
+      "documents_found": 2,
+      "verified_tenders": 2,
+      "errors": []
     },
     {
       "category": "Bus operations (gross cost only)",
@@ -494,12 +487,10 @@
         "electric bus operation",
         "e-bus operation"
       ],
-      "status": "WARNING",
+      "status": "SUCCESS",
       "documents_found": 1,
       "verified_tenders": 0,
-      "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTQzNDY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTc1NTE4Mg==A13h1TW5DL1NSL1JTUi9MVC8xNjEvVEFQU08vMjAyNjI3A13h1MjAyNl9TUk9UTl8xOTE3MTJfMQ==: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxOTQzNDY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTc1NTE4Mg==A13h1TW5DL1NSL1JTUi9MVC8xNjEvVEFQU08vMjAyNjI3A13h1MjAyNl9TUk9UTl8xOTE3MTJfMQ==: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}"
-      ]
+      "errors": []
     },
     {
       "category": "Bus body building",
