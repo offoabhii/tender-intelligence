@@ -1,7 +1,7 @@
 {
   "status": "SUCCESS_WITH_WARNINGS",
   "message": "Scan completed with warnings. 31 verified tender(s) found.",
-  "updated_at": "2026-10-13T00:27:44.398465+00:00",
+  "updated_at": "2026-10-13T13:58:04.960628+00:00",
   "details": [
     {
       "category": "Charging point operations",
@@ -27,12 +27,11 @@
         "solar"
       ],
       "status": "WARNING",
-      "documents_found": 5,
-      "verified_tenders": 2,
+      "documents_found": 2,
+      "verified_tenders": 0,
       "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTUzMTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTg1MDc1OA==A13h1TUNML0dNIEJBL0VuTS9lVGVuZGVyLzIwMjYtMjcvMjYyNzI3IGR0ZCAxMi8xMC8yMDI2A13h1MjAyNl9NQ0xfMzY2OTY4XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxOTUzMTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTg1MDc1OA==A13h1TUNML0dNIEJBL0VuTS9lVGVuZGVyLzIwMjYtMjcvMjYyNzI3IGR0ZCAxMi8xMC8yMDI2A13h1MjAyNl9NQ0xfMzY2OTY4XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTUzMTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTg1MDc2OQ==A13h1TUNML0dNIEJBL0VuTS9lVGVuZGVyLzIwMjYtMjcvMjYyNzI3IGR0ZCAxMi8xMC8yMDI2A13h1MjAyNl9NQ0xfMzY2OTY4XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxOTUzMTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTg1MDc2OQ==A13h1TUNML0dNIEJBL0VuTS9lVGVuZGVyLzIwMjYtMjcvMjYyNzI3IGR0ZCAxMi8xMC8yMDI2A13h1MjAyNl9NQ0xfMzY2OTY4XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTUzMTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTg1MDc3Ng==A13h1TUNML0dNIEJBL0VuTS9lVGVuZGVyLzIwMjYtMjcvMjYyNzI3IGR0ZCAxMi8xMC8yMDI2A13h1MjAyNl9NQ0xfMzY2OTY4XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxOTUzMTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTg1MDc3Ng==A13h1TUNML0dNIEJBL0VuTS9lVGVuZGVyLzIwMjYtMjcvMjYyNzI3IGR0ZCAxMi8xMC8yMDI2A13h1MjAyNl9NQ0xfMzY2OTY4XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTczMDc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTg5OTQ2Mg==A13h1TlZWTi9DYW5kTS8yMDI2LTI3L1JFLTU0Mg==A13h1MjAyNl9OVlZOXzExMjY4OV8x: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxOTczMDc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTg5OTQ2Mg==A13h1TlZWTi9DYW5kTS8yMDI2LTI3L1JFLTU0Mg==A13h1MjAyNl9OVlZOXzExMjY4OV8x: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTcxNzk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTg5OTUwOA==A13h1OTU1NDMvUy9FOA==A13h1MjAyNl9NRVNfNzkzMTQ2XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxOTcxNzk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTg5OTUwOA==A13h1OTU1NDMvUy9FOA==A13h1MjAyNl9NRVNfNzkzMTQ2XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
       ]
     },
     {
