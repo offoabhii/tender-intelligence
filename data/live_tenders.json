@@ -1,8 +1,60 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-10-14T11:34:53.981956+00:00",
-  "record_count": 32,
+  "generated_at": "2026-10-14T16:56:21.446681+00:00",
+  "record_count": 36,
   "tenders": [
+    {
+      "title": "COMPREHENSIVE REPAIR AND MAINTENANCE OF STREET/ SECURITY LIGHT FITTINGS, HIGH MAST LIGHTS, SOLAR STREET LIGHT, TOWER LIGHTS AND CONNECTED WORKS IN NSRY OF NAVAL BASE AREA KARWAR",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTg5OTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTk5NjQ0MQ==A13h1ODU3Ni9FOA==A13h1MjAyNl9NRVNfNzkxNjg5XzE=",
+      "category": "Solar",
+      "closing_date": "2026-11-04",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Bid Submission Closing Date: 04-Nov-2026 06:00 PM"
+    },
+    {
+      "title": "REPAIR/MAINT TO GEYSER, SOLAR WATER HEATER AND MISC E/M ITEMS AT BADDOWAL, MOGA, DHOLEWAL, CG COMPLEX AND DORAHA UNDER GE LUDHIANA",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTk3NTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTk5NjU3Mw==A13h1R0UvTERIL1QtMjcvMjAyNi0yNw==A13h1MjAyNl9NRVNfNzkzODkzXzE=",
+      "category": "Solar",
+      "closing_date": "2026-11-04",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Bid Submission Closing Date: 04-Nov-2026 06:00 PM"
+    },
+    {
+      "title": "COMPREHENSIVE MAINTENANCE OF SOLAR POWER PLANT 800KW AT OTA AND 600KW AT MH UNDER GE STM",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTk3OTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTk5NjU3OQ==A13h1ODY2MzYvRTg=A13h1MjAyNl9NRVNfNzkzOTA3XzE=",
+      "category": "Solar",
+      "closing_date": "2026-11-04",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Bid Submission Closing Date: 04-Nov-2026 06:00 PM"
+    },
+    {
+      "title": "Dismantling and reinstallation of existing Solar panels and accessories at C.O. Building, BBSR (CCA Part).",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTk1MzI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTk5NjU4NQ==A13h1MTQvQUUvUEVTRC9CQlNSL05JVC8yMDI2LTI3A13h1MjAyNl9ET1BfOTMwMzQwXzE=",
+      "category": "Solar",
+      "closing_date": "2026-10-26",
+      "issued_by": "Department of Posts",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Bid Submission Closing Date: 26-Oct-2026 11:00 AM"
+    },
     {
       "title": "PROVN OF ROOFTOP SOLAR PLANTS (600KW) AT CERTAIN BUILDINGS UNDER GE (N) AHILYANAGAR",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzAwNzE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTU5Mjc0MQ==A13h1ODQ2NDc=A13h1MjAyNl9NRVNfNzg5NjE4XzE=",
@@ -476,13 +528,10 @@
       "keywords": [
         "solar"
       ],
-      "status": "WARNING",
-      "documents_found": 2,
-      "verified_tenders": 0,
-      "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTkzMjA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTk3NzMwOQ==A13h1UklJXzc3L0JsZGcvMjY=A13h1MjAyNl9BTVVfOTMwMzExXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxOTkzMjA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTk3NzMwOQ==A13h1UklJXzc3L0JsZGcvMjY=A13h1MjAyNl9BTVVfOTMwMzExXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTkzMDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTk3NzMxOQ==A13h1RkFHTUlMLTMoMTk1KS9Tb2xhciBQb3dlciBQbGFudDAyLzIwMjY=A13h1MjAyNl9ERkVSVF85MzAyODhfMQ==: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxOTkzMDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTk3NzMxOQ==A13h1RkFHTUlMLTMoMTk1KS9Tb2xhciBQb3dlciBQbGFudDAyLzIwMjY=A13h1MjAyNl9ERkVSVF85MzAyODhfMQ==: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
-      ]
+      "status": "SUCCESS",
+      "documents_found": 6,
+      "verified_tenders": 6,
+      "errors": []
     },
     {
       "category": "Bus operations (gross cost only)",

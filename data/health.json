@@ -1,7 +1,7 @@
 {
-  "status": "SUCCESS_WITH_WARNINGS",
-  "message": "Scan completed with warnings. 32 verified tender(s) found.",
-  "updated_at": "2026-10-14T11:34:53.982710+00:00",
+  "status": "SUCCESS",
+  "message": "Scan completed successfully. 36 verified tender(s) found.",
+  "updated_at": "2026-10-14T16:56:21.447479+00:00",
   "details": [
     {
       "category": "Charging point operations",
@@ -26,13 +26,10 @@
       "keywords": [
         "solar"
       ],
-      "status": "WARNING",
-      "documents_found": 2,
-      "verified_tenders": 0,
-      "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTkzMjA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTk3NzMwOQ==A13h1UklJXzc3L0JsZGcvMjY=A13h1MjAyNl9BTVVfOTMwMzExXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxOTkzMjA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTk3NzMwOQ==A13h1UklJXzc3L0JsZGcvMjY=A13h1MjAyNl9BTVVfOTMwMzExXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTkzMDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTk3NzMxOQ==A13h1RkFHTUlMLTMoMTk1KS9Tb2xhciBQb3dlciBQbGFudDAyLzIwMjY=A13h1MjAyNl9ERkVSVF85MzAyODhfMQ==: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxOTkzMDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTk3NzMxOQ==A13h1RkFHTUlMLTMoMTk1KS9Tb2xhciBQb3dlciBQbGFudDAyLzIwMjY=A13h1MjAyNl9ERkVSVF85MzAyODhfMQ==: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
-      ]
+      "status": "SUCCESS",
+      "documents_found": 6,
+      "verified_tenders": 6,
+      "errors": []
     },
     {
       "category": "Bus operations (gross cost only)",
