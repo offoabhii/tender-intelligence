@@ -1,11 +1,11 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-10-14T21:39:41.411259+00:00",
-  "record_count": 38,
+  "generated_at": "2026-10-15T03:54:26.230127+00:00",
+  "record_count": 35,
   "tenders": [
     {
       "title": "COMPREHENSIVE REPAIR AND MAINTENANCE OF STREET/ SECURITY LIGHT FITTINGS, HIGH MAST LIGHTS, SOLAR STREET LIGHT, TOWER LIGHTS AND CONNECTED WORKS IN NSRY OF NAVAL BASE AREA KARWAR",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTg5OTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjAxMzE4OQ==A13h1ODU3Ni9FOA==A13h1MjAyNl9NRVNfNzkxNjg5XzE=",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTg5OTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjAzNTg4OA==A13h1ODU3Ni9FOA==A13h1MjAyNl9NRVNfNzkxNjg5XzE=",
       "category": "Solar",
       "closing_date": "2026-11-04",
       "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
@@ -13,12 +13,12 @@
       "eligibility_status": "NOT SURE",
       "is_net_cost": false,
       "is_open_now": true,
-      "confidence": "HIGH",
+      "confidence": "MEDIUM",
       "evidence": "Bid Submission Closing Date: 04-Nov-2026 06:00 PM"
     },
     {
       "title": "REPAIR/REPLACEMENT AND ROUTINE MAINTENANCE OF SOLAR WATER HEATING SYSTEM AND OTHER RELATED ACCESSORIES AT AF STN GWALIOR",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTk5Nzg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjAxMzE5Nw==A13h1ODYwMy9FOA==A13h1MjAyNl9NRVNfNzkzOTM3XzE=",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTk5Nzg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjAzNTg4OA==A13h1ODYwMy9FOA==A13h1MjAyNl9NRVNfNzkzOTM3XzE=",
       "category": "Solar",
       "closing_date": "2026-11-04",
       "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
@@ -27,74 +27,7 @@
       "is_net_cost": false,
       "is_open_now": true,
       "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 04-Nov-2026 06:00 PM"
-    },
-    {
-      "title": "Painting with Solar Reflective paint on the Roofing sheets of the Old Gallery Classroom Building of NIT Silchar.",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTk4NTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjAxMzI4Ng==A13h1TklUL0VzdGF0ZS9MaW1pdGVkLzIwMjYtMjcvMTAgU2wuIE5vLiAwMQ==A13h1MjAyNl9OU185Mjk5OTFfMQ==",
-      "category": "Solar",
-      "closing_date": "2026-10-20",
-      "issued_by": "National Institute of Technology Silchar",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 20-Oct-2026 10:00 AM"
-    },
-    {
-      "title": "Dismantling and reinstallation of existing Solar panels and accessories at C.O. Building, BBSR (CCA Part).",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTk1MzI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjAxMzM4OQ==A13h1MTQvQUUvUEVTRC9CQlNSL05JVC8yMDI2LTI3A13h1MjAyNl9ET1BfOTMwMzQwXzE=",
-      "category": "Solar",
-      "closing_date": "2026-10-26",
-      "issued_by": "Department of Posts",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 26-Oct-2026 11:00 AM"
-    },
-    {
-      "title": "REPAIR/MAINT TO GEYSER, SOLAR WATER HEATER AND MISC E/M ITEMS AT BADDOWAL, MOGA, DHOLEWAL, CG COMPLEX AND DORAHA UNDER GE LUDHIANA",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTk3NTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjAxMzM4OQ==A13h1R0UvTERIL1QtMjcvMjAyNi0yNw==A13h1MjAyNl9NRVNfNzkzODkzXzE=",
-      "category": "Solar",
-      "closing_date": "2026-11-04",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 04-Nov-2026 06:00 PM"
-    },
-    {
-      "title": "PROVN OF ROOFTOP SOLAR PLANTS (600KW) AT CERTAIN BUILDINGS UNDER GE (N) AHILYANAGAR",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxMzAwNzE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc4OTU5Mjc0MQ==A13h1ODQ2NDc=A13h1MjAyNl9NRVNfNzg5NjE4XzE=",
-      "category": "Solar",
-      "closing_date": "2026-10-14",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Tender Title: PROVN OF ROOFTOP SOLAR PLANTS (600KW) AT CERTAIN BUILDINGS UNDER GE (N) AHILYANAGAR",
-      "found_at": "2026-09-16T21:12:46.342789"
-    },
-    {
-      "title": "REPLACEMENT OF SOLAR MODULES, SOLAR WATER HEATER AND ELECTRICAL PANELS, CONNECTED ACCESSORIES DAMEGED/DEFECTED DURING CYCLON ASNA AT ICGS JAKHAU AND CGRA NALIYA UNDER GE (I) (CG) GANDHINAGAR",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDI4Mjg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDAyNzQ1MA==A13h1ODIzMy9FOA==A13h1MjAyNl9NRVNfNzkwMzc2XzE=",
-      "category": "Solar",
-      "closing_date": "2026-10-14",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 14-Oct-2026 06:00 PM",
-      "found_at": "2026-09-21T21:56:50.955160"
+      "evidence": "REPAIR/REPLACEMENT AND ROUTINE MAINTENANCE OF SOLAR WATER HEATING SYSTEM AND OTHER RELATED ACCESSORIES AT AF STN GWALIOR"
     },
     {
       "title": "development of a Solar Power Plant at Bobbili Airfield, Village - Mugada, Peddapalli, Badangi, Koduru, Palteru, Ramchandrapuram, Mallampeta, State-Andhra Pradesh",
@@ -433,20 +366,6 @@
       "found_at": "2026-10-10T12:18:26.484672"
     },
     {
-      "title": "Procurement of Spare inverter (3125 kW), Sineng Electric Make for NGEL Nokhra Solar Station",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTQzNDc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTY2NzM0MQ==A13h1TkdFTC1DUy05OTAwMzM0NzcxA13h1MjAyNl9OR0VMXzExMjYwM18x",
-      "category": "Solar",
-      "closing_date": "2026-10-14",
-      "issued_by": "NTPC Green Energy Limited",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Procurement of Spare inverter (3125 kW), Sineng Electric Make for NGEL Nokhra Solar Station",
-      "found_at": "2026-10-10T21:33:45.241717"
-    },
-    {
       "title": "PROVISION OF SOLAR STREET LIGHTS AT PREMISES OF CGDHQ-4 AND CGRA RAMESHWARAM, KOCHI",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTA2NDM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTY2NzM3MQ==A13h1ODMzNS9FOA==A13h1MjAyNl9NRVNfNzkzMjM5XzE=",
       "category": "Solar",
@@ -517,6 +436,20 @@
       "found_at": "2026-10-13T22:39:19.321069"
     },
     {
+      "title": "REPAIR/MAINT TO GEYSER, SOLAR WATER HEATER AND MISC E/M ITEMS AT BADDOWAL, MOGA, DHOLEWAL, CG COMPLEX AND DORAHA UNDER GE LUDHIANA",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTk3NTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTk5NjU3Mw==A13h1R0UvTERIL1QtMjcvMjAyNi0yNw==A13h1MjAyNl9NRVNfNzkzODkzXzE=",
+      "category": "Solar",
+      "closing_date": "2026-11-04",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Bid Submission Closing Date: 04-Nov-2026 06:00 PM",
+      "found_at": "2026-10-14T16:56:21.441034"
+    },
+    {
       "title": "COMPREHENSIVE MAINTENANCE OF SOLAR POWER PLANT 800KW AT OTA AND 600KW AT MH UNDER GE STM",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTk3OTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTk5NjU3OQ==A13h1ODY2MzYvRTg=A13h1MjAyNl9NRVNfNzkzOTA3XzE=",
       "category": "Solar",
@@ -529,6 +462,34 @@
       "confidence": "HIGH",
       "evidence": "Bid Submission Closing Date: 04-Nov-2026 06:00 PM",
       "found_at": "2026-10-14T16:56:21.442948"
+    },
+    {
+      "title": "Dismantling and reinstallation of existing Solar panels and accessories at C.O. Building, BBSR (CCA Part).",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTk1MzI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTk5NjU4NQ==A13h1MTQvQUUvUEVTRC9CQlNSL05JVC8yMDI2LTI3A13h1MjAyNl9ET1BfOTMwMzQwXzE=",
+      "category": "Solar",
+      "closing_date": "2026-10-26",
+      "issued_by": "Department of Posts",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Bid Submission Closing Date: 26-Oct-2026 11:00 AM",
+      "found_at": "2026-10-14T16:56:21.444230"
+    },
+    {
+      "title": "Painting with Solar Reflective paint on the Roofing sheets of the Old Gallery Classroom Building of NIT Silchar.",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTk4NTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjAxMzI4Ng==A13h1TklUL0VzdGF0ZS9MaW1pdGVkLzIwMjYtMjcvMTAgU2wuIE5vLiAwMQ==A13h1MjAyNl9OU185Mjk5OTFfMQ==",
+      "category": "Solar",
+      "closing_date": "2026-10-20",
+      "issued_by": "National Institute of Technology Silchar",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Bid Submission Closing Date: 20-Oct-2026 10:00 AM",
+      "found_at": "2026-10-14T21:39:41.405346"
     }
   ],
   "source_summary": [
@@ -555,12 +516,10 @@
       "keywords": [
         "solar"
       ],
-      "status": "WARNING",
-      "documents_found": 10,
-      "verified_tenders": 9,
-      "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTk4NTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjAxMzI3Nw==A13h1TklUL0VzdGF0ZS9MaW1pdGVkLzIwMjYtMjcvMTAgU2wuIE5vLiAwMQ==A13h1MjAyNl9OU185Mjk5OTFfMQ==: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQxOTk4NTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjAxMzI3Nw==A13h1TklUL0VzdGF0ZS9MaW1pdGVkLzIwMjYtMjcvMTAgU2wuIE5vLiAwMQ==A13h1MjAyNl9OU185Mjk5OTFfMQ==: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
-      ]
+      "status": "SUCCESS",
+      "documents_found": 2,
+      "verified_tenders": 2,
+      "errors": []
     },
     {
       "category": "Bus operations (gross cost only)",
