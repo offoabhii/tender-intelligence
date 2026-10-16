@@ -1,21 +1,8 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-10-16T11:07:59.546440+00:00",
+  "generated_at": "2026-10-16T16:28:03.348026+00:00",
   "record_count": 36,
   "tenders": [
-    {
-      "title": "Contract for upgrading the existing Emerson make SCADA system at 5MW Andaman Solar project",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMDY0NzE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjE0ODQ4NA==A13h1TlRQQy9VU1NDLUNQRzMvOTkwMDMzNDM1MA==A13h1MjAyNl9OVFBDXzExMjgyMF8x",
-      "category": "Solar",
-      "closing_date": "2026-10-19",
-      "issued_by": "NTPC Limited",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Contract for upgrading the existing Emerson make SCADA system at 5MW Andaman Solar project"
-    },
     {
       "title": "development of a Solar Power Plant at Bobbili Airfield, Village - Mugada, Peddapalli, Badangi, Koduru, Palteru, Ramchandrapuram, Mallampeta, State-Andhra Pradesh",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDU5NjM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDEzNTQwMQ==A13h1QVAvMi82MDcvVklaL1NvbGFyIFBvd2VyIFBsYW50A13h1MjAyNl9ER0RFXzkyNzI0OF8x",
@@ -505,6 +492,20 @@
       "confidence": "HIGH",
       "evidence": "Construction of RCC foundation for Solar panel Invertor and Repair of Security Room entrance gallery for IOCL Tikrikalan LPG Bottling Plant New Delhi",
       "found_at": "2026-10-15T11:13:33.237702"
+    },
+    {
+      "title": "Contract for upgrading the existing Emerson make SCADA system at 5MW Andaman Solar project",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMDY0NzE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjE0ODQ4NA==A13h1TlRQQy9VU1NDLUNQRzMvOTkwMDMzNDM1MA==A13h1MjAyNl9OVFBDXzExMjgyMF8x",
+      "category": "Solar",
+      "closing_date": "2026-10-19",
+      "issued_by": "NTPC Limited",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Contract for upgrading the existing Emerson make SCADA system at 5MW Andaman Solar project",
+      "found_at": "2026-10-16T11:07:59.543076"
     }
   ],
   "source_summary": [
@@ -521,20 +522,26 @@
         "battery charging station",
         "charging kiosk"
       ],
-      "status": "NO_RESULTS",
+      "status": "FAILED",
       "documents_found": 0,
       "verified_tenders": 0,
-      "errors": []
+      "errors": [
+        "RuntimeError: eprocure.gov.in connection error (page 1, category Charging point operations): HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=30)"
+      ]
     },
     {
       "category": "Solar",
       "keywords": [
         "solar"
       ],
-      "status": "SUCCESS",
-      "documents_found": 1,
-      "verified_tenders": 1,
-      "errors": []
+      "status": "WARNING",
+      "documents_found": 3,
+      "verified_tenders": 0,
+      "errors": [
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQyMDcwMTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjE2NzYyNg==A13h1ODQxMy9DL0U4A13h1MjAyNl9NRVNfNzk0NDE4XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQyMDcwMTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjE2NzYyNg==A13h1ODQxMy9DL0U4A13h1MjAyNl9NRVNfNzk0NDE4XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQyMDcwMTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjE2NzYzMg==A13h1ODQxMy9DL0U4A13h1MjAyNl9NRVNfNzk0NDE4XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQyMDcwMTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjE2NzYzMg==A13h1ODQxMy9DL0U4A13h1MjAyNl9NRVNfNzk0NDE4XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQyMDY2MjY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjE2NzY2MQ==A13h1R0UvUE5ILTYzLzIwMjYtMjc=A13h1MjAyNl9NRVNfNzg5NTY4XzI=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQyMDY2MjY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjE2NzY2MQ==A13h1R0UvUE5ILTYzLzIwMjYtMjc=A13h1MjAyNl9NRVNfNzg5NTY4XzI=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+      ]
     },
     {
       "category": "Bus operations (gross cost only)",
