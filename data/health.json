@@ -1,7 +1,7 @@
 {
-  "status": "SUCCESS_WITH_WARNINGS",
-  "message": "Scan completed with warnings. 35 verified tender(s) found.",
-  "updated_at": "2026-10-16T03:57:03.577887+00:00",
+  "status": "SUCCESS",
+  "message": "Scan completed successfully. 36 verified tender(s) found.",
+  "updated_at": "2026-10-16T11:07:59.547285+00:00",
   "details": [
     {
       "category": "Charging point operations",
@@ -26,12 +26,10 @@
       "keywords": [
         "solar"
       ],
-      "status": "WARNING",
+      "status": "SUCCESS",
       "documents_found": 1,
-      "verified_tenders": 0,
-      "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQyMDU5ODA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjEyMjE2MA==A13h1ODcwNi9FOA==A13h1MjAyNl9NRVNfNzk0MjA5XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQyMDU5ODA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjEyMjE2MA==A13h1ODcwNi9FOA==A13h1MjAyNl9NRVNfNzk0MjA5XzE=: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}"
-      ]
+      "verified_tenders": 1,
+      "errors": []
     },
     {
       "category": "Bus operations (gross cost only)",

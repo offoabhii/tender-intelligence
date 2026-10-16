@@ -1,8 +1,21 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-10-16T03:57:03.577021+00:00",
-  "record_count": 35,
+  "generated_at": "2026-10-16T11:07:59.546440+00:00",
+  "record_count": 36,
   "tenders": [
+    {
+      "title": "Contract for upgrading the existing Emerson make SCADA system at 5MW Andaman Solar project",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMDY0NzE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjE0ODQ4NA==A13h1TlRQQy9VU1NDLUNQRzMvOTkwMDMzNDM1MA==A13h1MjAyNl9OVFBDXzExMjgyMF8x",
+      "category": "Solar",
+      "closing_date": "2026-10-19",
+      "issued_by": "NTPC Limited",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Contract for upgrading the existing Emerson make SCADA system at 5MW Andaman Solar project"
+    },
     {
       "title": "development of a Solar Power Plant at Bobbili Airfield, Village - Mugada, Peddapalli, Badangi, Koduru, Palteru, Ramchandrapuram, Mallampeta, State-Andhra Pradesh",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDU5NjM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDEzNTQwMQ==A13h1QVAvMi82MDcvVklaL1NvbGFyIFBvd2VyIFBsYW50A13h1MjAyNl9ER0RFXzkyNzI0OF8x",
@@ -518,12 +531,10 @@
       "keywords": [
         "solar"
       ],
-      "status": "WARNING",
+      "status": "SUCCESS",
       "documents_found": 1,
-      "verified_tenders": 0,
-      "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQyMDU5ODA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjEyMjE2MA==A13h1ODcwNi9FOA==A13h1MjAyNl9NRVNfNzk0MjA5XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQyMDU5ODA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjEyMjE2MA==A13h1ODcwNi9FOA==A13h1MjAyNl9NRVNfNzk0MjA5XzE=: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}"
-      ]
+      "verified_tenders": 1,
+      "errors": []
     },
     {
       "category": "Bus operations (gross cost only)",
