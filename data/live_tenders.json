@@ -1,11 +1,11 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-10-17T15:21:18.162772+00:00",
+  "generated_at": "2026-10-17T20:29:05.502129+00:00",
   "record_count": 41,
   "tenders": [
     {
       "title": "REPAIRS, DAY TO DAY MAINTENANCE OF STREET LIGHT/ SOLAR STREET LIGHT/ POLE/CABLE JUNCTION BOXES/ TIMER SWITCHES/ SEARCH LIGHTS, RUSTED STEEL POLES AT MAKARPURA AT AFS VADODARA",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTQyMjg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjI0OTkzNw==A13h1ODIzMC9FOA==A13h1MjAyNl9NRVNfNzk0NzE4XzE=",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTQyMjg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjI2ODQwOA==A13h1ODIzMC9FOA==A13h1MjAyNl9NRVNfNzk0NzE4XzE=",
       "category": "Solar",
       "closing_date": "2026-11-07",
       "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
@@ -14,20 +14,7 @@
       "is_net_cost": false,
       "is_open_now": true,
       "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 07-Nov-2026 06:00 PM"
-    },
-    {
-      "title": "REPAIR AND MAINTENANCE OF STREET LIGHTS SECURITY LIGHTS SOLAR LIGHT PERIMETER LIGHTS HIGH MAST LIGHT AT 1TB 2TB 3TB 4TB CHQ 11 ER 4021 FD HOSPITAL 194 FD WKSP AREA AT BAIRAGARH  UNDER GE BHOPAL",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTA4NjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjI1MDAwOQ==A13h1ODcwNy9FOA==A13h1MjAyNl9NRVNfNzk0NjgxXzE=",
-      "category": "Solar",
-      "closing_date": "2026-11-07",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "MEDIUM",
-      "evidence": "Bid Submission Closing Date: 07-Nov-2026 06:00 PM"
+      "evidence": "REPAIRS, DAY TO DAY MAINTENANCE OF STREET LIGHT/ SOLAR STREET LIGHT/ POLE/CABLE JUNCTION BOXES/ TIMER SWITCHES/ SEARCH LIGHTS, RUSTED STEEL POLES AT MAKARPURA AT AFS VADODARA"
     },
     {
       "title": "development of a Solar Power Plant at Bobbili Airfield, Village - Mugada, Peddapalli, Badangi, Koduru, Palteru, Ramchandrapuram, Mallampeta, State-Andhra Pradesh",
@@ -574,6 +561,20 @@
       "confidence": "HIGH",
       "evidence": "Bid Submission Closing Date: 06-Nov-2026 03:00 PM",
       "found_at": "2026-10-17T10:29:34.345547"
+    },
+    {
+      "title": "REPAIR AND MAINTENANCE OF STREET LIGHTS SECURITY LIGHTS SOLAR LIGHT PERIMETER LIGHTS HIGH MAST LIGHT AT 1TB 2TB 3TB 4TB CHQ 11 ER 4021 FD HOSPITAL 194 FD WKSP AREA AT BAIRAGARH  UNDER GE BHOPAL",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTA4NjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjI1MDAwOQ==A13h1ODcwNy9FOA==A13h1MjAyNl9NRVNfNzk0NjgxXzE=",
+      "category": "Solar",
+      "closing_date": "2026-11-07",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "MEDIUM",
+      "evidence": "Bid Submission Closing Date: 07-Nov-2026 06:00 PM",
+      "found_at": "2026-10-17T15:21:18.160156"
     }
   ],
   "source_summary": [
@@ -601,8 +602,8 @@
         "solar"
       ],
       "status": "SUCCESS",
-      "documents_found": 2,
-      "verified_tenders": 2,
+      "documents_found": 1,
+      "verified_tenders": 1,
       "errors": []
     },
     {
