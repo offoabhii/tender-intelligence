@@ -1,11 +1,11 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-10-16T20:49:32.592000+00:00",
-  "record_count": 39,
+  "generated_at": "2026-10-17T03:41:08.623631+00:00",
+  "record_count": 37,
   "tenders": [
     {
       "title": "REPAIR/ MAINTENANCE AND SERVICEING OF DG SETS, PUMP SET AND REPLACEMENT OF ALLIED ACCESSORIES, REPAIR/REPLACEMENT OF SOLAR WATER HEATER, RO, GEYSER INCLUDING ALLIED WORKS, REPAIR/ REPLACEMENT OF OLD UNSV SOLAR/ LED SECURITY LIGHT FITTINGS, UG CABLE",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMDY2MjY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjE4MzMxMg==A13h1R0UvUE5ILTYzLzIwMjYtMjc=A13h1MjAyNl9NRVNfNzg5NTY4XzI=",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMDY2MjY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjIwNzgxNw==A13h1R0UvUE5ILTYzLzIwMjYtMjc=A13h1MjAyNl9NRVNfNzg5NTY4XzI=",
       "category": "Solar",
       "closing_date": "2026-11-02",
       "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
@@ -13,34 +13,8 @@
       "eligibility_status": "NOT SURE",
       "is_net_cost": false,
       "is_open_now": true,
-      "confidence": "HIGH",
+      "confidence": "MEDIUM",
       "evidence": "Bid Submission Closing Date: 02-Nov-2026 06:00 PM"
-    },
-    {
-      "title": "REPAIR/MAINTENANCE OF GEYSER, SOLAR WATER HEATER AND ALLIED WORK UNDER GE (WEST) BAREILLY.",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMDcwMTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjE4MzM1OQ==A13h1ODQxMy9DL0U4A13h1MjAyNl9NRVNfNzk0NDE4XzE=",
-      "category": "Solar",
-      "closing_date": "2026-11-07",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "REPAIR/MAINTENANCE OF GEYSER, SOLAR WATER HEATER AND ALLIED WORK UNDER GE (WEST) BAREILLY."
-    },
-    {
-      "title": "REPAIR/MAINT OF DG SETS , AMF PANELS, SOLAR PLANTS , SOLAR STREET LIGHTS, LT PANEL EARTHING AND OTHER CONNECTED ITEMS AT VARIOUS LOCATIONS UNDER AGE E/M -II OF GE DEHRADUN",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMDcyNTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjE4MzM5Ng==A13h1ODMzMC9BL0U4A13h1MjAyNl9NRVNfNzk0NDY0XzE=",
-      "category": "Solar",
-      "closing_date": "2026-11-07",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 07-Nov-2026 06:00 PM"
     },
     {
       "title": "development of a Solar Power Plant at Bobbili Airfield, Village - Mugada, Peddapalli, Badangi, Koduru, Palteru, Ramchandrapuram, Mallampeta, State-Andhra Pradesh",
@@ -55,34 +29,6 @@
       "confidence": "HIGH",
       "evidence": "Bid Submission Closing Date: 22-Oct-2026 02:00 PM",
       "found_at": "2026-09-23T03:58:07.095703"
-    },
-    {
-      "title": "REPAIR / MAINT OF GEYSERS / SOLAR WATER HEATER, REWIRING AT SEC-III ALONG WITH FITTING FIXTURE UNDER THE AOR OF GE DEOLALI",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTA2MDE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDM5NTQ3Nw==A13h1ODIzNy9FOA==A13h1MjAyNl9NRVNfNzkxMTM3XzE=",
-      "category": "Solar",
-      "closing_date": "2026-10-16",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "REPAIR / MAINT OF GEYSERS / SOLAR WATER HEATER, REWIRING AT SEC-III ALONG WITH FITTING FIXTURE  UNDER THE AOR OF GE DEOLALI",
-      "found_at": "2026-09-26T04:11:58.725400"
-    },
-    {
-      "title": "REPAIR / MAINT OF GEYSERS / SOLAR WATER HEATER, REWIRING AT SEC-III ALONG WITH FITTING FIXTURE  UNDER THE AOR OF GE DEOLALI",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNTA2MDE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDM5NTU0NA==A13h1ODIzNy9FOA==A13h1MjAyNl9NRVNfNzkxMTM3XzE=",
-      "category": "Solar",
-      "closing_date": "2026-10-16",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 16-Oct-2026 06:00 PM",
-      "found_at": "2026-09-26T04:11:58.727819"
     },
     {
       "title": "PROVN OF ROOF TOP 20 KW SOLAR POWER PLANT OFF GRID WITH BATTERY BACKUP FOR MDC AGRA UNDER GE (EAST) AGRA",
@@ -545,6 +491,34 @@
       "confidence": "HIGH",
       "evidence": "Contract for upgrading the existing Emerson make SCADA system at 5MW Andaman Solar project",
       "found_at": "2026-10-16T11:07:59.543076"
+    },
+    {
+      "title": "REPAIR/MAINTENANCE OF GEYSER, SOLAR WATER HEATER AND ALLIED WORK UNDER GE (WEST) BAREILLY.",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMDcwMTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjE4MzM1OQ==A13h1ODQxMy9DL0U4A13h1MjAyNl9NRVNfNzk0NDE4XzE=",
+      "category": "Solar",
+      "closing_date": "2026-11-07",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "REPAIR/MAINTENANCE OF GEYSER, SOLAR WATER HEATER AND ALLIED WORK UNDER GE (WEST) BAREILLY.",
+      "found_at": "2026-10-16T20:49:32.587232"
+    },
+    {
+      "title": "REPAIR/MAINT OF DG SETS , AMF PANELS, SOLAR PLANTS , SOLAR STREET LIGHTS, LT PANEL EARTHING AND OTHER CONNECTED ITEMS AT VARIOUS LOCATIONS UNDER AGE E/M -II OF GE DEHRADUN",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMDcyNTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjE4MzM5Ng==A13h1ODMzMC9BL0U4A13h1MjAyNl9NRVNfNzk0NDY0XzE=",
+      "category": "Solar",
+      "closing_date": "2026-11-07",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Bid Submission Closing Date: 07-Nov-2026 06:00 PM",
+      "found_at": "2026-10-16T20:49:32.589059"
     }
   ],
   "source_summary": [
@@ -571,10 +545,14 @@
       "keywords": [
         "solar"
       ],
-      "status": "SUCCESS",
-      "documents_found": 5,
-      "verified_tenders": 5,
-      "errors": []
+      "status": "WARNING",
+      "documents_found": 4,
+      "verified_tenders": 1,
+      "errors": [
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQyMDcwMTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjIwNzc3MA==A13h1ODQxMy9DL0U4A13h1MjAyNl9NRVNfNzk0NDE4XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQyMDcwMTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjIwNzc3MA==A13h1ODQxMy9DL0U4A13h1MjAyNl9NRVNfNzk0NDE4XzE=: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQyMDcwMTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjIwNzc3NQ==A13h1ODQxMy9DL0U4A13h1MjAyNl9NRVNfNzk0NDE4XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQyMDcwMTU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjIwNzc3NQ==A13h1ODQxMy9DL0U4A13h1MjAyNl9NRVNfNzk0NDE4XzE=: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQyMDY2MjY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjIwNzc5Mg==A13h1R0UvUE5ILTYzLzIwMjYtMjc=A13h1MjAyNl9NRVNfNzg5NTY4XzI=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQyMDY2MjY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjIwNzc5Mg==A13h1R0UvUE5ILTYzLzIwMjYtMjc=A13h1MjAyNl9NRVNfNzg5NTY4XzI=: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}"
+      ]
     },
     {
       "category": "Bus operations (gross cost only)",
