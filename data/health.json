@@ -1,7 +1,7 @@
 {
-  "status": "SUCCESS_WITH_WARNINGS",
-  "message": "Scan completed with warnings. 39 verified tender(s) found.",
-  "updated_at": "2026-10-17T10:29:34.349324+00:00",
+  "status": "SUCCESS",
+  "message": "Scan completed successfully. 41 verified tender(s) found.",
+  "updated_at": "2026-10-17T15:21:18.163601+00:00",
   "details": [
     {
       "category": "Charging point operations",
@@ -26,12 +26,10 @@
       "keywords": [
         "solar"
       ],
-      "status": "WARNING",
-      "documents_found": 6,
-      "verified_tenders": 5,
-      "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQyMDYxMzg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjIzMjUzMg==A13h1Q0UgKFApIFNFV0FLLzA5LzIwMjYtMjcgKFNlY29uZCBDYWxsKQ==A13h1MjAyNl9CUk9fNzk0MTQ4XzE=: RuntimeError: Gemini did not return valid JSON."
-      ]
+      "status": "SUCCESS",
+      "documents_found": 2,
+      "verified_tenders": 2,
+      "errors": []
     },
     {
       "category": "Bus operations (gross cost only)",
