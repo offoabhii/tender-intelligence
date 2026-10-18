@@ -1,7 +1,7 @@
 {
-  "status": "SUCCESS",
-  "message": "Scan completed successfully. 39 verified tender(s) found.",
-  "updated_at": "2026-10-18T15:42:13.924818+00:00",
+  "status": "FAILED",
+  "message": "All live tender searches failed. The dashboard must not treat this as a normal empty result.",
+  "updated_at": "2026-10-18T20:18:14.841313+00:00",
   "details": [
     {
       "category": "Charging point operations",
@@ -16,20 +16,24 @@
         "battery charging station",
         "charging kiosk"
       ],
-      "status": "NO_RESULTS",
+      "status": "FAILED",
       "documents_found": 0,
       "verified_tenders": 0,
-      "errors": []
+      "errors": [
+        "RuntimeError: eprocure.gov.in returned HTTP 500 on page 1 (category Charging point operations)"
+      ]
     },
     {
       "category": "Solar",
       "keywords": [
         "solar"
       ],
-      "status": "SUCCESS",
-      "documents_found": 2,
-      "verified_tenders": 2,
-      "errors": []
+      "status": "FAILED",
+      "documents_found": 0,
+      "verified_tenders": 0,
+      "errors": [
+        "RuntimeError: eprocure.gov.in connection error (page 1, category Solar): HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=30)"
+      ]
     },
     {
       "category": "Bus operations (gross cost only)",
@@ -52,10 +56,12 @@
         "electric bus operation",
         "e-bus operation"
       ],
-      "status": "NO_RESULTS",
+      "status": "FAILED",
       "documents_found": 0,
       "verified_tenders": 0,
-      "errors": []
+      "errors": [
+        "RuntimeError: eprocure.gov.in returned HTTP 500 on page 1 (category Bus operations (gross cost only))"
+      ]
     },
     {
       "category": "Bus body building",
@@ -68,10 +74,12 @@
         "manufacture and supply of bus body",
         "bus body manufacturing"
       ],
-      "status": "NO_RESULTS",
+      "status": "FAILED",
       "documents_found": 0,
       "verified_tenders": 0,
-      "errors": []
+      "errors": [
+        "RuntimeError: eprocure.gov.in returned HTTP 500 on page 1 (category Bus body building)"
+      ]
     }
   ]
 }
