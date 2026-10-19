@@ -1,11 +1,11 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-10-19T12:46:45.036943+00:00",
+  "generated_at": "2026-10-19T22:26:17.660615+00:00",
   "record_count": 44,
   "tenders": [
     {
       "title": "REPAIR/REPLACEMENT AND MAINTENANCE OF GEYSER, FANS, SOLAR WATER HEATER AND CONNECTED ITEMS AT VSN CHILODA",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTUzMjM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjQxMzE2NA==A13h1ODUxNS8yNi0yNy9FOA==A13h1MjAyNl9NRVNfNzk0ODIyXzE=",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTUzMjM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjQ0Nzk1Nw==A13h1ODUxNS8yNi0yNy9FOA==A13h1MjAyNl9NRVNfNzk0ODIyXzE=",
       "category": "Solar",
       "closing_date": "2026-11-09",
       "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
@@ -14,11 +14,11 @@
       "is_net_cost": false,
       "is_open_now": true,
       "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 09-Nov-2026 06:00 PM"
+      "evidence": "Tender Title: REPAIR/REPLACEMENT AND MAINTENANCE OF GEYSER, FANS, SOLAR WATER HEATER AND CONNECTED ITEMS AT VSN CHILODA"
     },
     {
       "title": "Supply,Installation,Testing and Commissioning of 5 Kwp Grid Connected Roof Top Solar PV System at Post Office Bldg at ( Hiranagar under Jammu Division Ramnagar under Udhampur Division (JandK) (2nd Call)",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTUzNTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjQxMzM4Mw==A13h1UEVEL05EL05JVC00My8yNi0yNw==A13h1MjAyNl9ET1BfOTMwOTkyXzE=",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTUzNTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjQ0ODE5Ng==A13h1UEVEL05EL05JVC00My8yNi0yNw==A13h1MjAyNl9ET1BfOTMwOTkyXzE=",
       "category": "Solar",
       "closing_date": "2026-10-26",
       "issued_by": "Department of Posts",
@@ -27,20 +27,7 @@
       "is_net_cost": false,
       "is_open_now": true,
       "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 26-Oct-2026 03:00 PM"
-    },
-    {
-      "title": "PROVN OF 01X 50 KWP SOLAR POWER PLANT ALONGWITH SOLAR SECURITY LIGHTS (30 X 60 WATTS ALONGWITH ACCESSORIES) AT SAMNABANJ UNDER GE (ARMY) DHAR ROAD UDHAMPUR",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTUyNzU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjQxMzQyOQ==A13h1Q1dFL1UoRFIpLTcyLzIwMjYtMjc=A13h1MjAyNl9NRVNfNzk0ODEwXzE=",
-      "category": "Solar",
-      "closing_date": "2026-11-16",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 16-Nov-2026 06:00 PM"
+      "evidence": "Supply,Installation,Testing and Commissioning of 5 Kwp Grid Connected Roof Top Solar PV System at Post Office Bldg at ( Hiranagar under Jammu Division Ramnagar under Udhampur Division (JandK) (2nd Call)"
     },
     {
       "title": "development of a Solar Power Plant at Bobbili Airfield, Village - Mugada, Peddapalli, Badangi, Koduru, Palteru, Ramchandrapuram, Mallampeta, State-Andhra Pradesh",
@@ -615,6 +602,20 @@
       "confidence": "HIGH",
       "evidence": "REPAIR AND MAINTENANCE OF STREET LIGHTS SECURITY LIGHTS SOLAR LIGHT PERIMETER LIGHTS HIGH MAST LIGHT AT 1TB 2TB 3TB 4TB CHQ 11 ER 4021 FD HOSPITAL 194 FD WKSP AREA AT BAIRAGARH UNDER GE BHOPAL",
       "found_at": "2026-10-19T04:06:47.849760"
+    },
+    {
+      "title": "PROVN OF 01X 50 KWP SOLAR POWER PLANT ALONGWITH SOLAR SECURITY LIGHTS (30 X 60 WATTS ALONGWITH ACCESSORIES) AT SAMNABANJ UNDER GE (ARMY) DHAR ROAD UDHAMPUR",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTUyNzU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjQxMzQyOQ==A13h1Q1dFL1UoRFIpLTcyLzIwMjYtMjc=A13h1MjAyNl9NRVNfNzk0ODEwXzE=",
+      "category": "Solar",
+      "closing_date": "2026-11-16",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Bid Submission Closing Date: 16-Nov-2026 06:00 PM",
+      "found_at": "2026-10-19T12:46:45.034171"
     }
   ],
   "source_summary": [
@@ -642,8 +643,8 @@
         "solar"
       ],
       "status": "SUCCESS",
-      "documents_found": 3,
-      "verified_tenders": 3,
+      "documents_found": 2,
+      "verified_tenders": 2,
       "errors": []
     },
     {
