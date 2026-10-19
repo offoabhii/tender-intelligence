@@ -1,7 +1,7 @@
 {
-  "status": "FAILED",
-  "message": "All live tender searches failed. The dashboard must not treat this as a normal empty result.",
-  "updated_at": "2026-10-18T20:18:14.841313+00:00",
+  "status": "SUCCESS",
+  "message": "Scan completed successfully. 41 verified tender(s) found.",
+  "updated_at": "2026-10-19T04:06:47.854145+00:00",
   "details": [
     {
       "category": "Charging point operations",
@@ -16,24 +16,20 @@
         "battery charging station",
         "charging kiosk"
       ],
-      "status": "FAILED",
+      "status": "NO_RESULTS",
       "documents_found": 0,
       "verified_tenders": 0,
-      "errors": [
-        "RuntimeError: eprocure.gov.in returned HTTP 500 on page 1 (category Charging point operations)"
-      ]
+      "errors": []
     },
     {
       "category": "Solar",
       "keywords": [
         "solar"
       ],
-      "status": "FAILED",
-      "documents_found": 0,
-      "verified_tenders": 0,
-      "errors": [
-        "RuntimeError: eprocure.gov.in connection error (page 1, category Solar): HTTPSConnectionPool(host='eprocure.gov.in', port=443): Read timed out. (read timeout=30)"
-      ]
+      "status": "SUCCESS",
+      "documents_found": 3,
+      "verified_tenders": 3,
+      "errors": []
     },
     {
       "category": "Bus operations (gross cost only)",
@@ -56,12 +52,10 @@
         "electric bus operation",
         "e-bus operation"
       ],
-      "status": "FAILED",
+      "status": "NO_RESULTS",
       "documents_found": 0,
       "verified_tenders": 0,
-      "errors": [
-        "RuntimeError: eprocure.gov.in returned HTTP 500 on page 1 (category Bus operations (gross cost only))"
-      ]
+      "errors": []
     },
     {
       "category": "Bus body building",
@@ -74,12 +68,10 @@
         "manufacture and supply of bus body",
         "bus body manufacturing"
       ],
-      "status": "FAILED",
+      "status": "NO_RESULTS",
       "documents_found": 0,
       "verified_tenders": 0,
-      "errors": [
-        "RuntimeError: eprocure.gov.in returned HTTP 500 on page 1 (category Bus body building)"
-      ]
+      "errors": []
     }
   ]
 }
