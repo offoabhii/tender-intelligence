@@ -1,21 +1,8 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-10-21T16:59:54.505138+00:00",
+  "generated_at": "2026-10-21T21:38:33.068815+00:00",
   "record_count": 43,
   "tenders": [
-    {
-      "title": "Purchase of 1 no. spare inverter for 200MW Gujarat-I Solar PV Project",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTc2Mjc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjYwMTQ4Mg==A13h1TlJFTC1DUy05OTAwMzMxOTU4A13h1MjAyNl9OVFBDUl8xMTI2NjNfMQ==",
-      "category": "Solar",
-      "closing_date": "2026-10-28",
-      "issued_by": "NTPC Renewable Energy Limited",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Purchase of 1 no. spare inverter for 200MW Gujarat-I Solar PV Project"
-    },
     {
       "title": "development of a Solar Power Plant at Bobbili Airfield, Village - Mugada, Peddapalli, Badangi, Koduru, Palteru, Ramchandrapuram, Mallampeta, State-Andhra Pradesh",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDU5NjM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDEzNTQwMQ==A13h1QVAvMi82MDcvVklaL1NvbGFyIFBvd2VyIFBsYW50A13h1MjAyNl9ER0RFXzkyNzI0OF8x",
@@ -603,6 +590,20 @@
       "confidence": "HIGH",
       "evidence": "Bid Submission Closing Date: 11-Nov-2026 06:00 PM",
       "found_at": "2026-10-21T11:36:51.017436"
+    },
+    {
+      "title": "Purchase of 1 no. spare inverter for 200MW Gujarat-I Solar PV Project",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTc2Mjc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjYwMTQ4Mg==A13h1TlJFTC1DUy05OTAwMzMxOTU4A13h1MjAyNl9OVFBDUl8xMTI2NjNfMQ==",
+      "category": "Solar",
+      "closing_date": "2026-10-28",
+      "issued_by": "NTPC Renewable Energy Limited",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Purchase of 1 no. spare inverter for 200MW Gujarat-I Solar PV Project",
+      "found_at": "2026-10-21T16:59:54.501886"
     }
   ],
   "source_summary": [
@@ -629,10 +630,14 @@
       "keywords": [
         "solar"
       ],
-      "status": "SUCCESS",
-      "documents_found": 2,
-      "verified_tenders": 2,
-      "errors": []
+      "status": "WARNING",
+      "documents_found": 3,
+      "verified_tenders": 0,
+      "errors": [
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTc2Mjc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjYxODA1OQ==A13h1TlJFTC1DUy05OTAwMzMxOTU4A13h1MjAyNl9OVFBDUl8xMTI2NjNfMQ==: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQyMTc2Mjc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjYxODA1OQ==A13h1TlJFTC1DUy05OTAwMzMxOTU4A13h1MjAyNl9OVFBDUl8xMTI2NjNfMQ==: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTc2Mjc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjYxODA3Mg==A13h1TlJFTC1DUy05OTAwMzMxOTU4A13h1MjAyNl9OVFBDUl8xMTI2NjNfMQ==: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQyMTc2Mjc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjYxODA3Mg==A13h1TlJFTC1DUy05OTAwMzMxOTU4A13h1MjAyNl9OVFBDUl8xMTI2NjNfMQ==: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTc2Mjc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjYxODExMA==A13h1TlJFTC1DUy05OTAwMzMxOTU4A13h1MjAyNl9OVFBDUl8xMTI2NjNfMQ==: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQyMTc2Mjc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjYxODExMA==A13h1TlJFTC1DUy05OTAwMzMxOTU4A13h1MjAyNl9OVFBDUl8xMTI2NjNfMQ==: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+      ]
     },
     {
       "category": "Bus operations (gross cost only)",
