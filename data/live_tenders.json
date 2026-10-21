@@ -1,11 +1,37 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-10-21T04:07:05.021920+00:00",
-  "record_count": 40,
+  "generated_at": "2026-10-21T11:36:51.021194+00:00",
+  "record_count": 42,
   "tenders": [
     {
+      "title": "REPAIR/ MAINT OF 33/11 KV HT DISTRIBUTION SYSTEM, SOLAR PLANT AND OTHER ALLIED CONNECTED WORKS AT JALIPA MIL STN UNDER GE (A) BARMER",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTc1OTI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjU4MjAxOQ==A13h1ODQ0OTkvQy9FOA==A13h1MjAyNl9NRVNfNzk0OTQwXzE=",
+      "category": "Solar",
+      "closing_date": "2026-11-18",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "REPAIR/ MAINT OF 33/11 KV HT DISTRIBUTION SYSTEM, SOLAR PLANT AND OTHER ALLIED CONNECTED WORKS AT JALIPA MIL STN UNDER GE (A) BARMER"
+    },
+    {
+      "title": "REPAIR / REPLACEMENT OF SECURITY LIGHTS / SOLAR LIGHT FITTING WITH LED FITTINGS INCL OTHER ALLIED WORKS AT ZONE-II UNDER AGE (I) NYOMA.",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTc2NTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjU4MjAyNw==A13h1ODEwMC9OSVQtMjI=A13h1MjAyNl9NRVNfNzk0NzUwXzE=",
+      "category": "Solar",
+      "closing_date": "2026-11-11",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Bid Submission Closing Date: 11-Nov-2026 06:00 PM"
+    },
+    {
       "title": "Supply and installations of 27 nos of Solar high must light 10 mtr for NTPC Darlipali Plant and Township",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTYxMjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjU1NDc2NA==A13h1TlRQQy9VU1NDLUNQRzIvOTkwMDMzNDk0Nw==A13h1MjAyNl9OVFBDXzExMjg4N18x",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTYxMjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjU4MjEyOA==A13h1TlRQQy9VU1NDLUNQRzIvOTkwMDMzNDk0Nw==A13h1MjAyNl9OVFBDXzExMjg4N18x",
       "category": "Solar",
       "closing_date": "2026-10-26",
       "issued_by": "NTPC Limited",
@@ -14,20 +40,7 @@
       "is_net_cost": false,
       "is_open_now": true,
       "confidence": "HIGH",
-      "evidence": "Supply and installations of 27 nos of Solar high must light 10 mtr for NTPC Darlipali Plant and Township"
-    },
-    {
-      "title": "REPAIR/REPLACEMENT AND MAINTENANCE OF GEYSER, FANS, SOLAR WATER HEATER AND CONNECTED ITEMS AT VSN CHILODA",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTUzMjM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjU1NDkxMg==A13h1ODUxNS8yNi0yNy9FOA==A13h1MjAyNl9NRVNfNzk0ODIyXzE=",
-      "category": "Solar",
-      "closing_date": "2026-11-09",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 09-Nov-2026 06:00 PM"
+      "evidence": "Bid Submission Closing Date: 26-Oct-2026 11:00 AM"
     },
     {
       "title": "development of a Solar Power Plant at Bobbili Airfield, Village - Mugada, Peddapalli, Badangi, Koduru, Palteru, Ramchandrapuram, Mallampeta, State-Andhra Pradesh",
@@ -534,6 +547,20 @@
       "found_at": "2026-10-19T04:06:47.849760"
     },
     {
+      "title": "REPAIR/REPLACEMENT AND MAINTENANCE OF GEYSER, FANS, SOLAR WATER HEATER AND CONNECTED ITEMS AT VSN CHILODA",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTUzMjM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjQxMzE2NA==A13h1ODUxNS8yNi0yNy9FOA==A13h1MjAyNl9NRVNfNzk0ODIyXzE=",
+      "category": "Solar",
+      "closing_date": "2026-11-09",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Bid Submission Closing Date: 09-Nov-2026 06:00 PM",
+      "found_at": "2026-10-19T12:46:45.030510"
+    },
+    {
       "title": "Supply,Installation,Testing and Commissioning of 5 Kwp Grid Connected Roof Top Solar PV System at Post Office Bldg at ( Hiranagar under Jammu Division Ramnagar under Udhampur Division (JandK) (2nd Call)",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTUzNTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjQxMzM4Mw==A13h1UEVEL05EL05JVC00My8yNi0yNw==A13h1MjAyNl9ET1BfOTMwOTkyXzE=",
       "category": "Solar",
@@ -586,14 +613,10 @@
       "keywords": [
         "solar"
       ],
-      "status": "WARNING",
-      "documents_found": 5,
-      "verified_tenders": 2,
-      "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTYxMjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjU1NDc1NA==A13h1TlRQQy9VU1NDLUNQRzIvOTkwMDMzNDk0Nw==A13h1MjAyNl9OVFBDXzExMjg4N18x: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQyMTYxMjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjU1NDc1NA==A13h1TlRQQy9VU1NDLUNQRzIvOTkwMDMzNDk0Nw==A13h1MjAyNl9OVFBDXzExMjg4N18x: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTUzMjM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjU1NDg3Ng==A13h1ODUxNS8yNi0yNy9FOA==A13h1MjAyNl9NRVNfNzk0ODIyXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQyMTUzMjM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjU1NDg3Ng==A13h1ODUxNS8yNi0yNy9FOA==A13h1MjAyNl9NRVNfNzk0ODIyXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTUzMjM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjU1NDk0NQ==A13h1ODUxNS8yNi0yNy9FOA==A13h1MjAyNl9NRVNfNzk0ODIyXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQyMTUzMjM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjU1NDk0NQ==A13h1ODUxNS8yNi0yNy9FOA==A13h1MjAyNl9NRVNfNzk0ODIyXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
-      ]
+      "status": "SUCCESS",
+      "documents_found": 4,
+      "verified_tenders": 3,
+      "errors": []
     },
     {
       "category": "Bus operations (gross cost only)",
