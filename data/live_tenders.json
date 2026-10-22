@@ -1,21 +1,8 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-10-22T03:58:03.355527+00:00",
+  "generated_at": "2026-10-22T11:39:36.822418+00:00",
   "record_count": 42,
   "tenders": [
-    {
-      "title": "Providing Polyethylene Glass Lining PEG lining in existing Solar Evaporation Ponds A and D at Zirconium Complex, Pazhayakayal, Tuticorin.",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTA0NjU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjY0MDgyNw==A13h1Qy8xNDYxLzIwMjY=A13h1MjAyNl9ORkNfOTMwODMyXzE=",
-      "category": "Solar",
-      "closing_date": "2026-11-06",
-      "issued_by": "Nuclear Fuel Complex",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "MEDIUM",
-      "evidence": "Bid Submission Closing Date: 06-Nov-2026 02:00 PM"
-    },
     {
       "title": "development of a Solar Power Plant at Bobbili Airfield, Village - Mugada, Peddapalli, Badangi, Koduru, Palteru, Ramchandrapuram, Mallampeta, State-Andhra Pradesh",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDU5NjM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDEzNTQwMQ==A13h1QVAvMi82MDcvVklaL1NvbGFyIFBvd2VyIFBsYW50A13h1MjAyNl9ER0RFXzkyNzI0OF8x",
@@ -589,6 +576,20 @@
       "confidence": "HIGH",
       "evidence": "Purchase of 1 no. spare inverter for 200MW Gujarat-I Solar PV Project",
       "found_at": "2026-10-21T16:59:54.501886"
+    },
+    {
+      "title": "Providing Polyethylene Glass Lining PEG lining in existing Solar Evaporation Ponds A and D at Zirconium Complex, Pazhayakayal, Tuticorin.",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTA0NjU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjY0MDgyNw==A13h1Qy8xNDYxLzIwMjY=A13h1MjAyNl9ORkNfOTMwODMyXzE=",
+      "category": "Solar",
+      "closing_date": "2026-11-06",
+      "issued_by": "Nuclear Fuel Complex",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "MEDIUM",
+      "evidence": "Bid Submission Closing Date: 06-Nov-2026 02:00 PM",
+      "found_at": "2026-10-22T03:58:03.351981"
     }
   ],
   "source_summary": [
@@ -615,13 +616,10 @@
       "keywords": [
         "solar"
       ],
-      "status": "WARNING",
-      "documents_found": 4,
-      "verified_tenders": 2,
-      "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTA0NjU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjY0MDgyMA==A13h1Qy8xNDYxLzIwMjY=A13h1MjAyNl9ORkNfOTMwODMyXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQyMTA0NjU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjY0MDgyMA==A13h1Qy8xNDYxLzIwMjY=A13h1MjAyNl9ORkNfOTMwODMyXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTc2Mjc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjY0MDkxMw==A13h1TlJFTC1DUy05OTAwMzMxOTU4A13h1MjAyNl9OVFBDUl8xMTI2NjNfMQ==: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQyMTc2Mjc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjY0MDkxMw==A13h1TlJFTC1DUy05OTAwMzMxOTU4A13h1MjAyNl9OVFBDUl8xMTI2NjNfMQ==: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
-      ]
+      "status": "NO_RESULTS",
+      "documents_found": 0,
+      "verified_tenders": 0,
+      "errors": []
     },
     {
       "category": "Bus operations (gross cost only)",
