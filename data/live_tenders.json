@@ -1,6 +1,6 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-10-23T16:46:16.217773+00:00",
+  "generated_at": "2026-10-23T21:14:14.476348+00:00",
   "record_count": 45,
   "tenders": [
     {
@@ -652,7 +652,7 @@
       "documents_found": 0,
       "verified_tenders": 0,
       "errors": [
-        "RuntimeError: eprocure.gov.in connection error (page 1, category Charging point operations): HTTPSConnectionPool(host='eprocure.gov.in', port=443): Max retries exceeded with url: /cppp/latestactivetendersnew/cpppdata (Caused by ConnectTimeoutError(<HTTPSConnection(host='eprocure.gov.in', port=443) at 0x7f146dac6310>, 'Connection to eprocure.gov.in timed out. (connect timeout=30)'))"
+        "RuntimeError: eprocure.gov.in connection error (page 1, category Charging point operations): HTTPSConnectionPool(host='eprocure.gov.in', port=443): Max retries exceeded with url: /cppp/latestactivetendersnew/cpppdata (Caused by ConnectTimeoutError(<HTTPSConnection(host='eprocure.gov.in', port=443) at 0x7fdd9c44dd90>, 'Connection to eprocure.gov.in timed out. (connect timeout=30)'))"
       ]
     },
     {
@@ -664,7 +664,7 @@
       "documents_found": 0,
       "verified_tenders": 0,
       "errors": [
-        "RuntimeError: eprocure.gov.in connection error (page 1, category Solar): HTTPSConnectionPool(host='eprocure.gov.in', port=443): Max retries exceeded with url: /cppp/latestactivetendersnew/cpppdata (Caused by ConnectTimeoutError(<HTTPSConnection(host='eprocure.gov.in', port=443) at 0x7f146dad5b10>, 'Connection to eprocure.gov.in timed out. (connect timeout=30)'))"
+        "RuntimeError: eprocure.gov.in connection error (page 1, category Solar): HTTPSConnectionPool(host='eprocure.gov.in', port=443): Max retries exceeded with url: /cppp/latestactivetendersnew/cpppdata (Caused by ConnectTimeoutError(<HTTPSConnection(host='eprocure.gov.in', port=443) at 0x7fdd9c45d690>, 'Connection to eprocure.gov.in timed out. (connect timeout=30)'))"
       ]
     },
     {
@@ -692,7 +692,7 @@
       "documents_found": 0,
       "verified_tenders": 0,
       "errors": [
-        "RuntimeError: eprocure.gov.in connection error (page 1, category Bus operations (gross cost only)): HTTPSConnectionPool(host='eprocure.gov.in', port=443): Max retries exceeded with url: /cppp/latestactivetendersnew/cpppdata (Caused by ConnectTimeoutError(<HTTPSConnection(host='eprocure.gov.in', port=443) at 0x7f146dae5750>, 'Connection to eprocure.gov.in timed out. (connect timeout=30)'))"
+        "RuntimeError: eprocure.gov.in connection error (page 1, category Bus operations (gross cost only)): HTTPSConnectionPool(host='eprocure.gov.in', port=443): Max retries exceeded with url: /cppp/latestactivetendersnew/cpppdata (Caused by ConnectTimeoutError(<HTTPSConnection(host='eprocure.gov.in', port=443) at 0x7fdd9c469310>, 'Connection to eprocure.gov.in timed out. (connect timeout=30)'))"
       ]
     },
     {
@@ -710,7 +710,7 @@
       "documents_found": 0,
       "verified_tenders": 0,
       "errors": [
-        "RuntimeError: eprocure.gov.in connection error (page 1, category Bus body building): HTTPSConnectionPool(host='eprocure.gov.in', port=443): Max retries exceeded with url: /cppp/latestactivetendersnew/cpppdata (Caused by ConnectTimeoutError(<HTTPSConnection(host='eprocure.gov.in', port=443) at 0x7f146dad5410>, 'Connection to eprocure.gov.in timed out. (connect timeout=30)'))"
+        "RuntimeError: eprocure.gov.in connection error (page 1, category Bus body building): HTTPSConnectionPool(host='eprocure.gov.in', port=443): Max retries exceeded with url: /cppp/latestactivetendersnew/cpppdata (Caused by ConnectTimeoutError(<HTTPSConnection(host='eprocure.gov.in', port=443) at 0x7fdd9c45d910>, 'Connection to eprocure.gov.in timed out. (connect timeout=30)'))"
       ]
     }
   ]
