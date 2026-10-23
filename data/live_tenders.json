@@ -1,20 +1,20 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-10-23T04:04:05.937734+00:00",
-  "record_count": 44,
+  "generated_at": "2026-10-23T11:23:13.836168+00:00",
+  "record_count": 45,
   "tenders": [
     {
-      "title": "Supply, installation, testing and commissioning of EV charging system at IIT Gandhinagar.",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTkzMzk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjcyNzM2Ng==A13h1MTMvSUlUR04vSVdELzIwMjYtMjc=A13h1MjAyNl9JSVRHTl85MzEzNjBfMQ==",
-      "category": "Charging point operations",
-      "closing_date": "2026-11-09",
-      "issued_by": "Indian Institute of Technology Gandhinagar",
+      "title": "DEVELOPMENT OF 580 KW GRID CONNECTED ROOF TOP SOLAR POWER PROJECT  AT NIB NOIDA",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMjE4MjY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5Mjc1NDIzMQ==A13h1TlZWTi9DYW5kTS9SRS01NDMvMjAyNi0yNw==A13h1MjAyNl9OVlZOXzExMjk2NF8x",
+      "category": "Solar",
+      "closing_date": "2026-11-12",
+      "issued_by": "NTPC Vidyut Vyapar Nigam Limited",
       "qualification_criteria": "NOT SURE",
       "eligibility_status": "NOT SURE",
       "is_net_cost": false,
       "is_open_now": true,
       "confidence": "HIGH",
-      "evidence": "Supply, installation, testing and commissioning of EV charging system at IIT Gandhinagar."
+      "evidence": "DEVELOPMENT OF 580 KW GRID CONNECTED ROOF TOP SOLAR POWER PROJECT  AT NIB NOIDA"
     },
     {
       "title": "SUPPLY AND IMPLEMENTATION OF COMMAND AND CONTROL CENTER  AT GAIL NOIDA FOR GAILS WIND AND SOLAR ASSETS",
@@ -617,6 +617,20 @@
       "confidence": "HIGH",
       "evidence": "PROVN OF SOLAR STREET LTS IN VARIOUS PLACES IN NDA  KHADAKWASLA.",
       "found_at": "2026-10-22T21:35:20.049956"
+    },
+    {
+      "title": "Supply, installation, testing and commissioning of EV charging system at IIT Gandhinagar.",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTkzMzk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjcyNzM2Ng==A13h1MTMvSUlUR04vSVdELzIwMjYtMjc=A13h1MjAyNl9JSVRHTl85MzEzNjBfMQ==",
+      "category": "Charging point operations",
+      "closing_date": "2026-11-09",
+      "issued_by": "Indian Institute of Technology Gandhinagar",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Supply, installation, testing and commissioning of EV charging system at IIT Gandhinagar.",
+      "found_at": "2026-10-23T04:04:05.934041"
     }
   ],
   "source_summary": [
@@ -633,29 +647,20 @@
         "battery charging station",
         "charging kiosk"
       ],
-      "status": "WARNING",
-      "documents_found": 2,
-      "verified_tenders": 1,
-      "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTkzMzk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjcyNzM4NQ==A13h1MTMvSUlUR04vSVdELzIwMjYtMjc=A13h1MjAyNl9JSVRHTl85MzEzNjBfMQ==: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQyMTkzMzk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjcyNzM4NQ==A13h1MTMvSUlUR04vSVdELzIwMjYtMjc=A13h1MjAyNl9JSVRHTl85MzEzNjBfMQ==: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}"
-      ]
+      "status": "NO_RESULTS",
+      "documents_found": 0,
+      "verified_tenders": 0,
+      "errors": []
     },
     {
       "category": "Solar",
       "keywords": [
         "solar"
       ],
-      "status": "WARNING",
-      "documents_found": 6,
-      "verified_tenders": 0,
-      "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQyMjE2MTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjcyNzUyNw==A13h1MTEyL0VFL1BFRC9LT0wvTklULzIwMjYtMjc=A13h1MjAyNl9ET1BfOTMxMzY4XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQyMjE2MTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjcyNzUyNw==A13h1MTEyL0VFL1BFRC9LT0wvTklULzIwMjYtMjc=A13h1MjAyNl9ET1BfOTMxMzY4XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTkyODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjcyNzU4OQ==A13h1TlRQQy9VU1NDLUNQRzEvOTkwMDMzNTIwMg==A13h1MjAyNl9OVFBDXzExMjk1N18x: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQyMTkyODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjcyNzU4OQ==A13h1TlRQQy9VU1NDLUNQRzEvOTkwMDMzNTIwMg==A13h1MjAyNl9OVFBDXzExMjk1N18x: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTkyODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjcyNzU5OQ==A13h1TlRQQy9VU1NDLUNQRzEvOTkwMDMzNTIwMg==A13h1MjAyNl9OVFBDXzExMjk1N18x: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQyMTkyODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjcyNzU5OQ==A13h1TlRQQy9VU1NDLUNQRzEvOTkwMDMzNTIwMg==A13h1MjAyNl9OVFBDXzExMjk1N18x: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTkzNDY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjcyNzU5OQ==A13h1ODE0OS9FOA==A13h1MjAyNl9NRVNfNzk1MTc3XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQyMTkzNDY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjcyNzU5OQ==A13h1ODE0OS9FOA==A13h1MjAyNl9NRVNfNzk1MTc3XzE=: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTkyODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjcyNzYzNw==A13h1TlRQQy9VU1NDLUNQRzEvOTkwMDMzNTIwMg==A13h1MjAyNl9OVFBDXzExMjk1N18x: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQyMTkyODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjcyNzYzNw==A13h1TlRQQy9VU1NDLUNQRzEvOTkwMDMzNTIwMg==A13h1MjAyNl9OVFBDXzExMjk1N18x: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}",
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTkyODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjcyNzY0NA==A13h1TlRQQy9VU1NDLUNQRzEvOTkwMDMzNTIwMg==A13h1MjAyNl9OVFBDXzExMjk1N18x: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQyMTkyODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjcyNzY0NA==A13h1TlRQQy9VU1NDLUNQRzEvOTkwMDMzNTIwMg==A13h1MjAyNl9OVFBDXzExMjk1N18x: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
-      ]
+      "status": "SUCCESS",
+      "documents_found": 1,
+      "verified_tenders": 1,
+      "errors": []
     },
     {
       "category": "Bus operations (gross cost only)",
