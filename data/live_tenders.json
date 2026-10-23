@@ -1,21 +1,8 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-10-23T11:23:13.836168+00:00",
+  "generated_at": "2026-10-23T16:46:16.217773+00:00",
   "record_count": 45,
   "tenders": [
-    {
-      "title": "DEVELOPMENT OF 580 KW GRID CONNECTED ROOF TOP SOLAR POWER PROJECT  AT NIB NOIDA",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMjE4MjY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5Mjc1NDIzMQ==A13h1TlZWTi9DYW5kTS9SRS01NDMvMjAyNi0yNw==A13h1MjAyNl9OVlZOXzExMjk2NF8x",
-      "category": "Solar",
-      "closing_date": "2026-11-12",
-      "issued_by": "NTPC Vidyut Vyapar Nigam Limited",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "DEVELOPMENT OF 580 KW GRID CONNECTED ROOF TOP SOLAR POWER PROJECT  AT NIB NOIDA"
-    },
     {
       "title": "SUPPLY AND IMPLEMENTATION OF COMMAND AND CONTROL CENTER  AT GAIL NOIDA FOR GAILS WIND AND SOLAR ASSETS",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjYwMzM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDg1OTI0NA==A13h1R0FJTC9OREEyNjA5My9KQlMvQ25QL1JFA13h1MjAyNl9HQUlMXzI5MzA4MV8x",
@@ -631,6 +618,20 @@
       "confidence": "HIGH",
       "evidence": "Supply, installation, testing and commissioning of EV charging system at IIT Gandhinagar.",
       "found_at": "2026-10-23T04:04:05.934041"
+    },
+    {
+      "title": "DEVELOPMENT OF 580 KW GRID CONNECTED ROOF TOP SOLAR POWER PROJECT  AT NIB NOIDA",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMjE4MjY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5Mjc1NDIzMQ==A13h1TlZWTi9DYW5kTS9SRS01NDMvMjAyNi0yNw==A13h1MjAyNl9OVlZOXzExMjk2NF8x",
+      "category": "Solar",
+      "closing_date": "2026-11-12",
+      "issued_by": "NTPC Vidyut Vyapar Nigam Limited",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "DEVELOPMENT OF 580 KW GRID CONNECTED ROOF TOP SOLAR POWER PROJECT  AT NIB NOIDA",
+      "found_at": "2026-10-23T11:23:13.833370"
     }
   ],
   "source_summary": [
@@ -647,20 +648,24 @@
         "battery charging station",
         "charging kiosk"
       ],
-      "status": "NO_RESULTS",
+      "status": "FAILED",
       "documents_found": 0,
       "verified_tenders": 0,
-      "errors": []
+      "errors": [
+        "RuntimeError: eprocure.gov.in connection error (page 1, category Charging point operations): HTTPSConnectionPool(host='eprocure.gov.in', port=443): Max retries exceeded with url: /cppp/latestactivetendersnew/cpppdata (Caused by ConnectTimeoutError(<HTTPSConnection(host='eprocure.gov.in', port=443) at 0x7f146dac6310>, 'Connection to eprocure.gov.in timed out. (connect timeout=30)'))"
+      ]
     },
     {
       "category": "Solar",
       "keywords": [
         "solar"
       ],
-      "status": "SUCCESS",
-      "documents_found": 1,
-      "verified_tenders": 1,
-      "errors": []
+      "status": "FAILED",
+      "documents_found": 0,
+      "verified_tenders": 0,
+      "errors": [
+        "RuntimeError: eprocure.gov.in connection error (page 1, category Solar): HTTPSConnectionPool(host='eprocure.gov.in', port=443): Max retries exceeded with url: /cppp/latestactivetendersnew/cpppdata (Caused by ConnectTimeoutError(<HTTPSConnection(host='eprocure.gov.in', port=443) at 0x7f146dad5b10>, 'Connection to eprocure.gov.in timed out. (connect timeout=30)'))"
+      ]
     },
     {
       "category": "Bus operations (gross cost only)",
@@ -683,10 +688,12 @@
         "electric bus operation",
         "e-bus operation"
       ],
-      "status": "NO_RESULTS",
+      "status": "FAILED",
       "documents_found": 0,
       "verified_tenders": 0,
-      "errors": []
+      "errors": [
+        "RuntimeError: eprocure.gov.in connection error (page 1, category Bus operations (gross cost only)): HTTPSConnectionPool(host='eprocure.gov.in', port=443): Max retries exceeded with url: /cppp/latestactivetendersnew/cpppdata (Caused by ConnectTimeoutError(<HTTPSConnection(host='eprocure.gov.in', port=443) at 0x7f146dae5750>, 'Connection to eprocure.gov.in timed out. (connect timeout=30)'))"
+      ]
     },
     {
       "category": "Bus body building",
@@ -699,10 +706,12 @@
         "manufacture and supply of bus body",
         "bus body manufacturing"
       ],
-      "status": "NO_RESULTS",
+      "status": "FAILED",
       "documents_found": 0,
       "verified_tenders": 0,
-      "errors": []
+      "errors": [
+        "RuntimeError: eprocure.gov.in connection error (page 1, category Bus body building): HTTPSConnectionPool(host='eprocure.gov.in', port=443): Max retries exceeded with url: /cppp/latestactivetendersnew/cpppdata (Caused by ConnectTimeoutError(<HTTPSConnection(host='eprocure.gov.in', port=443) at 0x7f146dad5410>, 'Connection to eprocure.gov.in timed out. (connect timeout=30)'))"
+      ]
     }
   ]
 }
