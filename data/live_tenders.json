@@ -1,87 +1,20 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-10-22T21:35:20.054632+00:00",
-  "record_count": 47,
+  "generated_at": "2026-10-23T04:04:05.937734+00:00",
+  "record_count": 44,
   "tenders": [
     {
-      "title": "Supply, Installation, Commissioning and AMC of Rooftop Solar System at NTPC Talcher Thermal Township",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTkyODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjcwNDIxMA==A13h1TlRQQy9VU1NDLUNQRzEvOTkwMDMzNTIwMg==A13h1MjAyNl9OVFBDXzExMjk1N18x",
-      "category": "Solar",
-      "closing_date": "2026-11-18",
-      "issued_by": "NTPC Limited",
+      "title": "Supply, installation, testing and commissioning of EV charging system at IIT Gandhinagar.",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTkzMzk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjcyNzM2Ng==A13h1MTMvSUlUR04vSVdELzIwMjYtMjc=A13h1MjAyNl9JSVRHTl85MzEzNjBfMQ==",
+      "category": "Charging point operations",
+      "closing_date": "2026-11-09",
+      "issued_by": "Indian Institute of Technology Gandhinagar",
       "qualification_criteria": "NOT SURE",
       "eligibility_status": "NOT SURE",
       "is_net_cost": false,
       "is_open_now": true,
       "confidence": "HIGH",
-      "evidence": "Supply, Installation, Commissioning and AMC of Rooftop Solar System at NTPC Talcher Thermal Township"
-    },
-    {
-      "title": "REPAIR MAINTENANCE OF BOREWELL REPAIR TO PUMP SETS MOTOR STARTERS PANELS AND ALLIED WORKS AT AF STN GURGAON  REPAIR AND MAINT OF FIRE FIGHTING SYSTEM AND SOLAR WATER HEATING SYSTEM AT AFSSR UNDER GE (AF) GURGAON",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTkxNDI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjcwNDIzMQ==A13h1R0UvR1VSLS9OSVQtMTA0LzIwMjYtMjc=A13h1MjAyNl9NRVNfNzk1MDcyXzE=",
-      "category": "Solar",
-      "closing_date": "2026-11-12",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 12-Nov-2026 06:00 PM"
-    },
-    {
-      "title": "PROVN OF SOLAR STREET LTS IN VARIOUS PLACES IN NDA  KHADAKWASLA.",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTkzNDY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjcwNDI2MQ==A13h1ODE0OS9FOA==A13h1MjAyNl9NRVNfNzk1MTc3XzE=",
-      "category": "Solar",
-      "closing_date": "2026-11-11",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "PROVN OF SOLAR STREET LTS IN VARIOUS PLACES IN NDA  KHADAKWASLA."
-    },
-    {
-      "title": "Short Terms contract for O and M and watch and ward of 15MW Solar",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTkwNDc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjcwNDM4OQ==A13h1TlRQQy9WaW5kaHlhY2hhbCBTVFBTLzk5MDAzMzU2NjQ=A13h1MjAyNl9OVFBDXzExMjk0Nl8x",
-      "category": "Solar",
-      "closing_date": "2026-10-24",
-      "issued_by": "NTPC Limited",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Short Terms contract for O and M and watch and ward of 15MW Solar"
-    },
-    {
-      "title": "development of a Solar Power Plant at Bobbili Airfield, Village - Mugada, Peddapalli, Badangi, Koduru, Palteru, Ramchandrapuram, Mallampeta, State-Andhra Pradesh",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNDU5NjM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDEzNTQwMQ==A13h1QVAvMi82MDcvVklaL1NvbGFyIFBvd2VyIFBsYW50A13h1MjAyNl9ER0RFXzkyNzI0OF8x",
-      "category": "Solar",
-      "closing_date": "2026-10-22",
-      "issued_by": "Dir. Gen. Defence Estates,HQ",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 22-Oct-2026 02:00 PM",
-      "found_at": "2026-09-23T03:58:07.095703"
-    },
-    {
-      "title": "PROVN OF SENTRY POST CHAIN LINK FENCING AND GATE MODULAR KITCHEN REALINEMENT OF RAIN GUTTER EXTENSION OF HARDSTANDING AND SUPPLY AND INSTALLATION OF SOLAR PLANT AT VARIOUS LOCATIONS OF MILIT GIRINAGAR PUNE 25",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjQ3Njg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDg1ODkzOA==A13h1R0UgSSBSIEFORCBEIEdOUiBUT0tFTiA0NyBPRiAyMDI2LTI3KDgwMzYpA13h1MjAyNl9NRVNfNzkxOTU0XzE=",
-      "category": "Solar",
-      "closing_date": "2026-10-22",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "SUPPLY AND INSTALLATION OF SOLAR PLANT AT VARIOUS LOCATIONS OF MILIT GIRINAGAR PUNE 25",
-      "found_at": "2026-10-01T13:01:50.721977"
+      "evidence": "Supply, installation, testing and commissioning of EV charging system at IIT Gandhinagar."
     },
     {
       "title": "SUPPLY AND IMPLEMENTATION OF COMMAND AND CONTROL CENTER  AT GAIL NOIDA FOR GAILS WIND AND SOLAR ASSETS",
@@ -96,20 +29,6 @@
       "confidence": "HIGH",
       "evidence": "Bid Submission Closing Date: 26-Oct-2026 02:00 PM",
       "found_at": "2026-10-01T13:01:50.724138"
-    },
-    {
-      "title": "ARCHITECTURAL AND ENGINEERING CONSULTANCY SERVICE FOR THE PROPOSED WORK OF SUPPLY, INSTALLATION, TESTING, AND COMMISSIONING OF FLOOD LIGHTS, DIESEL GENERATORS AND HYBRID SOLAR SETUP AT 12TH MILE ATHLETIC TRACK AND SPORTS COMPLEX",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjg5Mzg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDg5Mzc4Mw==A13h1RW5nZy9FTVUvSkU0LzAyMS8xMnRoIE1pbGUgRmxvb2QgTGlnaHQvMjAyNi0yNw==A13h1MjAyNl9OSVRDXzkyODY4M18x",
-      "category": "Solar",
-      "closing_date": "2026-10-22",
-      "issued_by": "National Institute of Technology Calicut",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 22-Oct-2026 06:00 PM",
-      "found_at": "2026-10-01T22:36:38.620578"
     },
     {
       "title": "SPL REPAIR OF SOLAR WATER HEATING SYSTEM AT AHRR AND PROVN OF 10 KW HYBRID SOLAR POWER PLANT AT CWE NEW DELHI OFFICE COMPLEX UNDER GE EM RR HOSP DELHI CANTT-10",
@@ -392,20 +311,6 @@
       "found_at": "2026-10-15T11:13:33.235289"
     },
     {
-      "title": "Construction of RCC foundation for Solar panel Invertor and Repair of Security Room entrance gallery for IOCL Tikrikalan LPG Bottling Plant New Delhi",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMDMyMTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjA2MjM4Mg==A13h1SU9DTC9EU08vREJQL0JCLzIwMjYtMjcvTklDLzE1A13h1MjAyNl9ETFNPXzE5MTgwMV8x",
-      "category": "Solar",
-      "closing_date": "2026-10-22",
-      "issued_by": "IndianOil",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Construction of RCC foundation for Solar panel Invertor and Repair of Security Room entrance gallery for IOCL Tikrikalan LPG Bottling Plant New Delhi",
-      "found_at": "2026-10-15T11:13:33.237702"
-    },
-    {
       "title": "REPAIR/ MAINTENANCE AND SERVICEING OF DG SETS, PUMP SET AND REPLACEMENT OF ALLIED ACCESSORIES, REPAIR/REPLACEMENT OF SOLAR WATER HEATER, RO, GEYSER INCLUDING ALLIED WORKS, REPAIR/ REPLACEMENT OF OLD UNSV SOLAR/ LED SECURITY LIGHT FITTINGS, UG CABLE",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMDY2MjY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjE4MzMxMg==A13h1R0UvUE5ILTYzLzIwMjYtMjc=A13h1MjAyNl9NRVNfNzg5NTY4XzI=",
       "category": "Solar",
@@ -656,6 +561,62 @@
       "confidence": "HIGH",
       "evidence": "Supply, installation, testing and commissioning of EV charging system at IIT  Gandhinagar.",
       "found_at": "2026-10-22T17:02:03.631553"
+    },
+    {
+      "title": "REPAIR MAINTENANCE OF BOREWELL REPAIR TO PUMP SETS MOTOR STARTERS PANELS AND ALLIED WORKS AT AF STN GURGAON  REPAIR AND MAINT OF FIRE FIGHTING SYSTEM AND SOLAR WATER HEATING SYSTEM AT AFSSR UNDER GE (AF) GURGAON",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTkxNDI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjY4Nzk0Mw==A13h1R0UvR1VSLS9OSVQtMTA0LzIwMjYtMjc=A13h1MjAyNl9NRVNfNzk1MDcyXzE=",
+      "category": "Solar",
+      "closing_date": "2026-11-12",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "REPAIR AND MAINT OF FIRE FIGHTING SYSTEM AND SOLAR WATER HEATING SYSTEM AT AFSSR UNDER GE (AF) GURGAON",
+      "found_at": "2026-10-22T17:02:03.633961"
+    },
+    {
+      "title": "Short Terms contract for O and M and watch and ward of 15MW Solar",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTkwNDc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjY4ODA0Mw==A13h1TlRQQy9WaW5kaHlhY2hhbCBTVFBTLzk5MDAzMzU2NjQ=A13h1MjAyNl9OVFBDXzExMjk0Nl8x",
+      "category": "Solar",
+      "closing_date": "2026-10-24",
+      "issued_by": "NTPC Limited",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Bid Submission Closing Date: 24-Oct-2026 05:00 PM",
+      "found_at": "2026-10-22T17:02:03.635531"
+    },
+    {
+      "title": "Supply, Installation, Commissioning and AMC of Rooftop Solar System at NTPC Talcher Thermal Township",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTkyODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjcwNDIxMA==A13h1TlRQQy9VU1NDLUNQRzEvOTkwMDMzNTIwMg==A13h1MjAyNl9OVFBDXzExMjk1N18x",
+      "category": "Solar",
+      "closing_date": "2026-11-18",
+      "issued_by": "NTPC Limited",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "Supply, Installation, Commissioning and AMC of Rooftop Solar System at NTPC Talcher Thermal Township",
+      "found_at": "2026-10-22T21:35:20.046043"
+    },
+    {
+      "title": "PROVN OF SOLAR STREET LTS IN VARIOUS PLACES IN NDA  KHADAKWASLA.",
+      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTkzNDY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjcwNDI2MQ==A13h1ODE0OS9FOA==A13h1MjAyNl9NRVNfNzk1MTc3XzE=",
+      "category": "Solar",
+      "closing_date": "2026-11-11",
+      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
+      "qualification_criteria": "NOT SURE",
+      "eligibility_status": "NOT SURE",
+      "is_net_cost": false,
+      "is_open_now": true,
+      "confidence": "HIGH",
+      "evidence": "PROVN OF SOLAR STREET LTS IN VARIOUS PLACES IN NDA  KHADAKWASLA.",
+      "found_at": "2026-10-22T21:35:20.049956"
     }
   ],
   "source_summary": [
@@ -672,10 +633,12 @@
         "battery charging station",
         "charging kiosk"
       ],
-      "status": "NO_RESULTS",
-      "documents_found": 0,
-      "verified_tenders": 0,
-      "errors": []
+      "status": "WARNING",
+      "documents_found": 2,
+      "verified_tenders": 1,
+      "errors": [
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTkzMzk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjcyNzM4NQ==A13h1MTMvSUlUR04vSVdELzIwMjYtMjc=A13h1MjAyNl9JSVRHTl85MzEzNjBfMQ==: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQyMTkzMzk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjcyNzM4NQ==A13h1MTMvSUlUR04vSVdELzIwMjYtMjc=A13h1MjAyNl9JSVRHTl85MzEzNjBfMQ==: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}"
+      ]
     },
     {
       "category": "Solar",
@@ -684,9 +647,14 @@
       ],
       "status": "WARNING",
       "documents_found": 6,
-      "verified_tenders": 5,
+      "verified_tenders": 0,
       "errors": [
-        "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTkxNDI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjcwNDI3Ng==A13h1R0UvR1VSLS9OSVQtMTA0LzIwMjYtMjc=A13h1MjAyNl9NRVNfNzk1MDcyXzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQyMTkxNDI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjcwNDI3Ng==A13h1R0UvR1VSLS9OSVQtMTA0LzIwMjYtMjc=A13h1MjAyNl9NRVNfNzk1MDcyXzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQyMjE2MTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjcyNzUyNw==A13h1MTEyL0VFL1BFRC9LT0wvTklULzIwMjYtMjc=A13h1MjAyNl9ET1BfOTMxMzY4XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQyMjE2MTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjcyNzUyNw==A13h1MTEyL0VFL1BFRC9LT0wvTklULzIwMjYtMjc=A13h1MjAyNl9ET1BfOTMxMzY4XzE=: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTkyODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjcyNzU4OQ==A13h1TlRQQy9VU1NDLUNQRzEvOTkwMDMzNTIwMg==A13h1MjAyNl9OVFBDXzExMjk1N18x: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQyMTkyODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjcyNzU4OQ==A13h1TlRQQy9VU1NDLUNQRzEvOTkwMDMzNTIwMg==A13h1MjAyNl9OVFBDXzExMjk1N18x: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTkyODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjcyNzU5OQ==A13h1TlRQQy9VU1NDLUNQRzEvOTkwMDMzNTIwMg==A13h1MjAyNl9OVFBDXzExMjk1N18x: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQyMTkyODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjcyNzU5OQ==A13h1TlRQQy9VU1NDLUNQRzEvOTkwMDMzNTIwMg==A13h1MjAyNl9OVFBDXzExMjk1N18x: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTkzNDY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjcyNzU5OQ==A13h1ODE0OS9FOA==A13h1MjAyNl9NRVNfNzk1MTc3XzE=: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQyMTkzNDY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjcyNzU5OQ==A13h1ODE0OS9FOA==A13h1MjAyNl9NRVNfNzk1MTc3XzE=: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTkyODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjcyNzYzNw==A13h1TlRQQy9VU1NDLUNQRzEvOTkwMDMzNTIwMg==A13h1MjAyNl9OVFBDXzExMjk1N18x: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQyMTkyODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjcyNzYzNw==A13h1TlRQQy9VU1NDLUNQRzEvOTkwMDMzNTIwMg==A13h1MjAyNl9OVFBDXzExMjk1N18x: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}",
+        "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTkyODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjcyNzY0NA==A13h1TlRQQy9VU1NDLUNQRzEvOTkwMDMzNTIwMg==A13h1MjAyNl9OVFBDXzExMjk1N18x: RuntimeError: Gemini request failed for https://eprocure.gov.in/cppp/tendersfullview/MTQyMTkyODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjcyNzY0NA==A13h1TlRQQy9VU1NDLUNQRzEvOTkwMDMzNTIwMg==A13h1MjAyNl9OVFBDXzExMjk1N18x: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
       ]
     },
     {
