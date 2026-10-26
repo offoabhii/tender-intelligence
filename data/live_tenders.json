@@ -1,6 +1,6 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-10-26T12:27:15.305084+00:00",
+  "generated_at": "2026-10-26T22:23:48.405168+00:00",
   "record_count": 44,
   "tenders": [
     {
@@ -638,7 +638,7 @@
       "documents_found": 0,
       "verified_tenders": 0,
       "errors": [
-        "RuntimeError: eprocure.gov.in returned HTTP 403 on page 1 (category Charging point operations)"
+        "RuntimeError: eprocure.gov.in returned HTTP 404 on page 1 (category Charging point operations)"
       ]
     },
     {
@@ -650,7 +650,7 @@
       "documents_found": 0,
       "verified_tenders": 0,
       "errors": [
-        "RuntimeError: eprocure.gov.in returned HTTP 403 on page 1 (category Solar)"
+        "RuntimeError: eprocure.gov.in returned HTTP 404 on page 1 (category Solar)"
       ]
     },
     {
@@ -678,7 +678,7 @@
       "documents_found": 0,
       "verified_tenders": 0,
       "errors": [
-        "RuntimeError: eprocure.gov.in returned HTTP 403 on page 1 (category Bus operations (gross cost only))"
+        "RuntimeError: eprocure.gov.in returned HTTP 404 on page 1 (category Bus operations (gross cost only))"
       ]
     },
     {
@@ -696,7 +696,7 @@
       "documents_found": 0,
       "verified_tenders": 0,
       "errors": [
-        "RuntimeError: eprocure.gov.in returned HTTP 403 on page 1 (category Bus body building)"
+        "RuntimeError: eprocure.gov.in returned HTTP 404 on page 1 (category Bus body building)"
       ]
     }
   ]
