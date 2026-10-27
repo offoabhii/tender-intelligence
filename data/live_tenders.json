@@ -1,22 +1,8 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-10-26T22:23:48.405168+00:00",
-  "record_count": 44,
+  "generated_at": "2026-10-27T04:07:17.176602+00:00",
+  "record_count": 38,
   "tenders": [
-    {
-      "title": "SUPPLY AND IMPLEMENTATION OF COMMAND AND CONTROL CENTER  AT GAIL NOIDA FOR GAILS WIND AND SOLAR ASSETS",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNjYwMzM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MDg1OTI0NA==A13h1R0FJTC9OREEyNjA5My9KQlMvQ25QL1JFA13h1MjAyNl9HQUlMXzI5MzA4MV8x",
-      "category": "Solar",
-      "closing_date": "2026-10-26",
-      "issued_by": "GAIL (India) Limited",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 26-Oct-2026 02:00 PM",
-      "found_at": "2026-10-01T13:01:50.724138"
-    },
     {
       "title": "SPL REPAIR OF SOLAR WATER HEATING SYSTEM AT AHRR AND PROVN OF 10 KW HYBRID SOLAR POWER PLANT AT CWE NEW DELHI OFFICE COMPLEX UNDER GE EM RR HOSP DELHI CANTT-10",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzU3MTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTMyNTg4Mw==A13h1Q1dFLU5EL1QtMzUvMjAyNi0yNw==A13h1MjAyNl9NRVNfNzkyNTQ3XzE=",
@@ -172,20 +158,6 @@
       "found_at": "2026-10-10T21:33:45.245594"
     },
     {
-      "title": "Supply, Installation, testing, commissioning of 5KW Solar System complete setup (OFF-GRID-Roof top) at Danara Gram Panchayat Office Under CSR Activity of Bharatpur Area",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTUzMTE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTgxNjMyOQ==A13h1TUNML0dNIEJBL0VuTS9lVGVuZGVyLzIwMjYtMjcvMjYyNzI3IGR0ZCAxMi8xMC8yMDI2A13h1MjAyNl9NQ0xfMzY2OTY4XzE=",
-      "category": "Solar",
-      "closing_date": "2026-10-26",
-      "issued_by": "Mahanadi Coalfields Limited",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Supply, Installation, testing, commissioning of 5KW Solar System complete setup (OFF-GRID-Roof top) at Danara Gram Panchayat Office Under CSR Activity of Bharatpur Area",
-      "found_at": "2026-10-12T14:55:10.405203"
-    },
-    {
       "title": "DEVELOPMENT OF 1889 KW GRID CONNECTED ROOF TOP SOLAR POWER PROJECT AT PGI-CHANDIGARH",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTczMDc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTkzMDYzNw==A13h1TlZWTi9DYW5kTS8yMDI2LTI3L1JFLTU0Mg==A13h1MjAyNl9OVlZOXzExMjY4OV8x",
       "category": "Solar",
@@ -256,20 +228,6 @@
       "found_at": "2026-10-14T16:56:21.442948"
     },
     {
-      "title": "Dismantling and reinstallation of existing Solar panels and accessories at C.O. Building, BBSR (CCA Part).",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTk1MzI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTk5NjU4NQ==A13h1MTQvQUUvUEVTRC9CQlNSL05JVC8yMDI2LTI3A13h1MjAyNl9ET1BfOTMwMzQwXzE=",
-      "category": "Solar",
-      "closing_date": "2026-10-26",
-      "issued_by": "Department of Posts",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 26-Oct-2026 11:00 AM",
-      "found_at": "2026-10-14T16:56:21.444230"
-    },
-    {
       "title": "REPAIR/REPLACEMENT AND ROUTINE MAINTENANCE OF SOLAR WATER HEATING SYSTEM AND OTHER RELATED ACCESSORIES AT AF STN GWALIOR",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTk5Nzg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjAxMzE5Nw==A13h1ODYwMy9FOA==A13h1MjAyNl9NRVNfNzkzOTM3XzE=",
       "category": "Solar",
@@ -282,20 +240,6 @@
       "confidence": "HIGH",
       "evidence": "Bid Submission Closing Date: 04-Nov-2026 06:00 PM",
       "found_at": "2026-10-14T21:39:41.403812"
-    },
-    {
-      "title": "200149196 - Supply and Installation of 8 Nos Solar High Masts for NTPC Mouda Township, Main Plant and CHP",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMDM1OTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjA2MjI4MA==A13h1TlRQQy9VU1NDLUNQRzIvOTkwMDMzNTA3OA==A13h1MjAyNl9OVFBDXzExMjc4NV8x",
-      "category": "Solar",
-      "closing_date": "2026-10-26",
-      "issued_by": "NTPC Limited",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Supply and Installation of 8 Nos Solar High Masts for NTPC Mouda Township, Main Plant and CHP",
-      "found_at": "2026-10-15T11:13:33.235289"
     },
     {
       "title": "REPAIR/ MAINTENANCE AND SERVICEING OF DG SETS, PUMP SET AND REPLACEMENT OF ALLIED ACCESSORIES, REPAIR/REPLACEMENT OF SOLAR WATER HEATER, RO, GEYSER INCLUDING ALLIED WORKS, REPAIR/ REPLACEMENT OF OLD UNSV SOLAR/ LED SECURITY LIGHT FITTINGS, UG CABLE",
@@ -438,20 +382,6 @@
       "found_at": "2026-10-19T12:46:45.030510"
     },
     {
-      "title": "Supply,Installation,Testing and Commissioning of 5 Kwp Grid Connected Roof Top Solar PV System at Post Office Bldg at ( Hiranagar under Jammu Division Ramnagar under Udhampur Division (JandK) (2nd Call)",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTUzNTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjQxMzM4Mw==A13h1UEVEL05EL05JVC00My8yNi0yNw==A13h1MjAyNl9ET1BfOTMwOTkyXzE=",
-      "category": "Solar",
-      "closing_date": "2026-10-26",
-      "issued_by": "Department of Posts",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 26-Oct-2026 03:00 PM",
-      "found_at": "2026-10-19T12:46:45.032597"
-    },
-    {
       "title": "PROVN OF 01X 50 KWP SOLAR POWER PLANT ALONGWITH SOLAR SECURITY LIGHTS (30 X 60 WATTS ALONGWITH ACCESSORIES) AT SAMNABANJ UNDER GE (ARMY) DHAR ROAD UDHAMPUR",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTUyNzU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjQxMzQyOQ==A13h1Q1dFL1UoRFIpLTcyLzIwMjYtMjc=A13h1MjAyNl9NRVNfNzk0ODEwXzE=",
       "category": "Solar",
@@ -464,20 +394,6 @@
       "confidence": "HIGH",
       "evidence": "Bid Submission Closing Date: 16-Nov-2026 06:00 PM",
       "found_at": "2026-10-19T12:46:45.034171"
-    },
-    {
-      "title": "Supply and installations of 27 nos of Solar high must light 10 mtr for NTPC Darlipali Plant and Township",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTYxMjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjQ2ODY1Mg==A13h1TlRQQy9VU1NDLUNQRzIvOTkwMDMzNDk0Nw==A13h1MjAyNl9OVFBDXzExMjg4N18x",
-      "category": "Solar",
-      "closing_date": "2026-10-26",
-      "issued_by": "NTPC Limited",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Supply and installations of 27 nos of Solar high must light 10 mtr for NTPC Darlipali Plant and Township",
-      "found_at": "2026-10-20T04:10:39.669928"
     },
     {
       "title": "REPAIR/ MAINT OF 33/11 KV HT DISTRIBUTION SYSTEM, SOLAR PLANT AND OTHER ALLIED CONNECTED WORKS AT JALIPA MIL STN UNDER GE (A) BARMER",
