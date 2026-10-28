@@ -1,7 +1,7 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-10-27T21:55:22.511243+00:00",
-  "record_count": 38,
+  "generated_at": "2026-10-28T04:34:11.230140+00:00",
+  "record_count": 37,
   "tenders": [
     {
       "title": "SPL REPAIR OF SOLAR WATER HEATING SYSTEM AT AHRR AND PROVN OF 10 KW HYBRID SOLAR POWER PLANT AT CWE NEW DELHI OFFICE COMPLEX UNDER GE EM RR HOSP DELHI CANTT-10",
@@ -16,20 +16,6 @@
       "confidence": "HIGH",
       "evidence": "SPL REPAIR OF SOLAR WATER HEATING SYSTEM AT AHRR AND PROVN OF 10 KW HYBRID SOLAR POWER PLANT AT CWE NEW DELHI OFFICE COMPLEX UNDER GE EM RR HOSP DELHI CANTT-10",
       "found_at": "2026-10-06T22:38:29.516601"
-    },
-    {
-      "title": "REP/MAINT OF SOLAR HEATER AND IMPROVEMENT TO EXTERNAL WATER SUPPLY LINES, VALVES INCL MAINTENANCE OF PUMPSETS AND ALLIED ITEMS IN DOMESTIC AND TECHNICAL AREA AT AFS YELAHANKA",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzg4MzE=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQxMzc1Ng==A13h1ODYyNzgvRTg=A13h1MjAyNl9NRVNfNzkyNzEwXzE=",
-      "category": "Solar",
-      "closing_date": "2026-10-27",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 27-Oct-2026 06:00 PM",
-      "found_at": "2026-10-07T23:03:50.237293"
     },
     {
       "title": "SPL REPAIR/ REPLACEMENT OF STREET LIGHT TO SENSOR BASED SOLAR STREET LIGHT IN NORTH ZONE AND MISC WORK UNDER GE(N) BINNAGURI",
