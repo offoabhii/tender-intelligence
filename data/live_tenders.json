@@ -1,7 +1,7 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-10-28T22:19:12.699809+00:00",
-  "record_count": 37,
+  "generated_at": "2026-10-29T04:49:37.026601+00:00",
+  "record_count": 36,
   "tenders": [
     {
       "title": "SPL REPAIR OF SOLAR WATER HEATING SYSTEM AT AHRR AND PROVN OF 10 KW HYBRID SOLAR POWER PLANT AT CWE NEW DELHI OFFICE COMPLEX UNDER GE EM RR HOSP DELHI CANTT-10",
@@ -408,20 +408,6 @@
       "confidence": "HIGH",
       "evidence": "Bid Submission Closing Date: 11-Nov-2026 06:00 PM",
       "found_at": "2026-10-21T11:36:51.017436"
-    },
-    {
-      "title": "Purchase of 1 no. spare inverter for 200MW Gujarat-I Solar PV Project",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTc2Mjc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjYwMTQ4Mg==A13h1TlJFTC1DUy05OTAwMzMxOTU4A13h1MjAyNl9OVFBDUl8xMTI2NjNfMQ==",
-      "category": "Solar",
-      "closing_date": "2026-10-28",
-      "issued_by": "NTPC Renewable Energy Limited",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Purchase of 1 no. spare inverter for 200MW Gujarat-I Solar PV Project",
-      "found_at": "2026-10-21T16:59:54.501886"
     },
     {
       "title": "Providing Polyethylene Glass Lining PEG lining in existing Solar Evaporation Ponds A and D at Zirconium Complex, Pazhayakayal, Tuticorin.",
