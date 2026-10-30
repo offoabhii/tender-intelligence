@@ -1,7 +1,7 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-10-29T22:32:25.008377+00:00",
-  "record_count": 36,
+  "generated_at": "2026-10-30T04:49:21.613441+00:00",
+  "record_count": 32,
   "tenders": [
     {
       "title": "SPL REPAIR OF SOLAR WATER HEATING SYSTEM AT AHRR AND PROVN OF 10 KW HYBRID SOLAR POWER PLANT AT CWE NEW DELHI OFFICE COMPLEX UNDER GE EM RR HOSP DELHI CANTT-10",
@@ -30,62 +30,6 @@
       "confidence": "HIGH",
       "evidence": "SPL REPAIR/ REPLACEMENT OF STREET LIGHT TO SENSOR BASED SOLAR STREET LIGHT IN NORTH ZONE AND MISC WORK UNDER GE(N) BINNAGURI",
       "found_at": "2026-10-08T05:14:03.356988"
-    },
-    {
-      "title": "REPAIR/ MAINT OF DAY-TO-DAY COMPLAINTS OF PERIMETER STREET LIGHTS, AREA LIGHTS, HIGH MAST LIGHTS, SOLAR LIGHTS AND CERTAIN E/M WORKS",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzg4MjI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQzNjA1OQ==A13h1ODkyNS9FOA==A13h1MjAyNl9NRVNfNzkyNzA1XzE=",
-      "category": "Solar",
-      "closing_date": "2026-10-29",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 29-Oct-2026 06:00 PM",
-      "found_at": "2026-10-08T05:14:03.360615"
-    },
-    {
-      "title": "Land Development for EV Charging and Parking at BKC and SAHAR Road Metro Station of Mumbai Metro Line-3.",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxODI4NTA=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTUwMDc0MA==A13h1TU1SQy9QbG5nL05JVC9DaXZpbC9FVi8yMDI2LzI=A13h1MjAyNl9NTVJDTF8yOTM4NDZfMQ==",
-      "category": "Charging point operations",
-      "closing_date": "2026-10-29",
-      "issued_by": "Mumbai Metro Rail Corporation Limited",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "MEDIUM",
-      "evidence": "Tender Title: Land Development for EV Charging and Parking at BKC and SAHAR Road Metro Station of Mumbai Metro Line-3.",
-      "found_at": "2026-10-08T23:16:23.464810"
-    },
-    {
-      "title": "Installation of 10 m long octagonal Highmast Tower with 10 nos. of Solar Lights at 10 nos. location on NH 31 D",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxODYwMjQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTUyMjUzMQ==A13h1TklUIDA3LzIwMjYtMjcvSGlnaE1hc3QgSW5zdGFsbGF0aW9uIG9uIE5ILTMxRA==A13h1MjAyNl9OSEFJXzI5MzkwM18x",
-      "category": "Solar",
-      "closing_date": "2026-10-29",
-      "issued_by": "National Highways Authority of India",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Installation of 10 m long octagonal Highmast Tower with 10 nos. of Solar Lights at 10 nos. location on NH 31 D",
-      "found_at": "2026-10-09T05:16:32.316629"
-    },
-    {
-      "title": "PROVN OF 80 KW ROOFTOP SOLAR POWER PLANT OVER OTM ACCN AT KLP HQ 41 ARTY DIV AT WADGOAN SHERI UNDER GE MH AND RH KHADKI",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxODI5OTM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTUyMjU1Mg==A13h1ODg1OS9FOA==A13h1MjAyNl9NRVNfNzkyOTYxXzE=",
-      "category": "Solar",
-      "closing_date": "2026-10-29",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 29-Oct-2026 06:00 PM",
-      "found_at": "2026-10-09T05:16:32.318679"
     },
     {
       "title": "REPAIRS/REPLACEMENT OF INTERNAL WIRING, FITTING, GEYSERS, VENTILATION SYSTEM, SUB MAIN WIRING, LED FITTING, I/C SOLAR WATER HEATING PHASE-II OTM AREA(CHINDIT TOP, TENGA LEDGE, GOC CAMP AREA) WITH ALLIED E/M WORKS AT GE TENGA",
