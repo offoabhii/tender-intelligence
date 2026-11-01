@@ -1,7 +1,7 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-10-31T21:09:13.749011+00:00",
-  "record_count": 32,
+  "generated_at": "2026-11-01T04:53:52.771822+00:00",
+  "record_count": 28,
   "tenders": [
     {
       "title": "SPL REPAIR OF SOLAR WATER HEATING SYSTEM AT AHRR AND PROVN OF 10 KW HYBRID SOLAR POWER PLANT AT CWE NEW DELHI OFFICE COMPLEX UNDER GE EM RR HOSP DELHI CANTT-10",
@@ -18,34 +18,6 @@
       "found_at": "2026-10-06T22:38:29.516601"
     },
     {
-      "title": "SPL REPAIR/ REPLACEMENT OF STREET LIGHT TO SENSOR BASED SOLAR STREET LIGHT IN NORTH ZONE AND MISC WORK UNDER GE(N) BINNAGURI",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzg4MTc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTQzNjAwNQ==A13h1ODcwMSAvIDY0IC8gMjAyNi0yNyAvIDA3IC8gRTg=A13h1MjAyNl9NRVNfNzkyNzAyXzE=",
-      "category": "Solar",
-      "closing_date": "2026-10-31",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "SPL REPAIR/ REPLACEMENT OF STREET LIGHT TO SENSOR BASED SOLAR STREET LIGHT IN NORTH ZONE AND MISC WORK UNDER GE(N) BINNAGURI",
-      "found_at": "2026-10-08T05:14:03.356988"
-    },
-    {
-      "title": "REPAIRS/REPLACEMENT OF INTERNAL WIRING, FITTING, GEYSERS, VENTILATION SYSTEM, SUB MAIN WIRING, LED FITTING, I/C SOLAR WATER HEATING PHASE-II OTM AREA(CHINDIT TOP, TENGA LEDGE, GOC CAMP AREA) WITH ALLIED E/M WORKS AT GE TENGA",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTA5MDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTYzNDA4Mw==A13h1ODI4OC9FOA==A13h1MjAyNl9NRVNfNzkzMjc5XzE=",
-      "category": "Solar",
-      "closing_date": "2026-10-31",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 31-Oct-2026 06:00 PM",
-      "found_at": "2026-10-10T12:18:26.482387"
-    },
-    {
       "title": "Selection of developer for design, engineering, supply, financing, procurement, installation, testing, commissioning, operation and maintenance of a grid connected 3 mw ac solar pv power plant integrated with a 1 MW   4 MWh battery energy storage sys",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTA1ODU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTYzNDIxNw==A13h1TUVFLzI5LzIwMjYvRHkuQ01FKE1QIGFuZCBPSCk=A13h1MjAyNl9DaFBUXzkyOTc4M18x",
       "category": "Solar",
@@ -58,34 +30,6 @@
       "confidence": "HIGH",
       "evidence": "Bid Submission Closing Date: 06-Nov-2026 03:00 PM",
       "found_at": "2026-10-10T12:18:26.484672"
-    },
-    {
-      "title": "PROVISION OF SOLAR STREET LIGHTS AT PREMISES OF CGDHQ-4 AND CGRA RAMESHWARAM, KOCHI",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTA2NDM=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTY2NzM3MQ==A13h1ODMzNS9FOA==A13h1MjAyNl9NRVNfNzkzMjM5XzE=",
-      "category": "Solar",
-      "closing_date": "2026-10-31",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "PROVISION OF SOLAR STREET LIGHTS AT PREMISES OF CGDHQ-4 AND CGRA RAMESHWARAM, KOCHI",
-      "found_at": "2026-10-10T21:33:45.243815"
-    },
-    {
-      "title": "MAINT AND REPAIRS TO WINTER APPLIANCES SOLAR WATER HEATER, GEYSERS AND CONNECTED WORKS UNDER AGE E/M NO 1 OF GE (NORTH) MEERUT CANTT",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTA5NDQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTY2NzM3MQ==A13h1ODcwMi9FOA==A13h1MjAyNl9NRVNfNzkzMjQ2XzE=",
-      "category": "Solar",
-      "closing_date": "2026-10-31",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "MAINT AND REPAIRS TO WINTER APPLIANCES SOLAR WATER HEATER, GEYSERS AND CONNECTED WORKS UNDER AGE E/M NO 1 OF GE (NORTH) MEERUT CANTT",
-      "found_at": "2026-10-10T21:33:45.245594"
     },
     {
       "title": "DEVELOPMENT OF 1889 KW GRID CONNECTED ROOF TOP SOLAR POWER PROJECT AT PGI-CHANDIGARH",
