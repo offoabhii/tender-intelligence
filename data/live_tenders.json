@@ -1,22 +1,8 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-11-03T22:59:22.511388+00:00",
-  "record_count": 26,
+  "generated_at": "2026-11-04T05:17:47.965174+00:00",
+  "record_count": 25,
   "tenders": [
-    {
-      "title": "SPL REPAIR OF SOLAR WATER HEATING SYSTEM AT AHRR AND PROVN OF 10 KW HYBRID SOLAR POWER PLANT AT CWE NEW DELHI OFFICE COMPLEX UNDER GE EM RR HOSP DELHI CANTT-10",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxNzU3MTk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTMyNTg4Mw==A13h1Q1dFLU5EL1QtMzUvMjAyNi0yNw==A13h1MjAyNl9NRVNfNzkyNTQ3XzE=",
-      "category": "Solar",
-      "closing_date": "2026-11-03",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "SPL REPAIR OF SOLAR WATER HEATING SYSTEM AT AHRR AND PROVN OF 10 KW HYBRID SOLAR POWER PLANT AT CWE NEW DELHI OFFICE COMPLEX UNDER GE EM RR HOSP DELHI CANTT-10",
-      "found_at": "2026-10-06T22:38:29.516601"
-    },
     {
       "title": "Selection of developer for design, engineering, supply, financing, procurement, installation, testing, commissioning, operation and maintenance of a grid connected 3 mw ac solar pv power plant integrated with a 1 MW   4 MWh battery energy storage sys",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTA1ODU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTYzNDIxNw==A13h1TUVFLzI5LzIwMjYvRHkuQ01FKE1QIGFuZCBPSCk=A13h1MjAyNl9DaFBUXzkyOTc4M18x",
