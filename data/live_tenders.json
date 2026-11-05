@@ -1,7 +1,7 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-11-04T23:19:55.602833+00:00",
-  "record_count": 25,
+  "generated_at": "2026-11-05T05:38:08.827877+00:00",
+  "record_count": 21,
   "tenders": [
     {
       "title": "Selection of developer for design, engineering, supply, financing, procurement, installation, testing, commissioning, operation and maintenance of a grid connected 3 mw ac solar pv power plant integrated with a 1 MW   4 MWh battery energy storage sys",
@@ -30,62 +30,6 @@
       "confidence": "HIGH",
       "evidence": "Bid Submission Closing Date: 10-Nov-2026 05:00 PM",
       "found_at": "2026-10-13T22:39:19.321069"
-    },
-    {
-      "title": "COMPREHENSIVE REPAIR AND MAINTENANCE OF STREET/ SECURITY LIGHT FITTINGS, HIGH MAST LIGHTS, SOLAR STREET LIGHT, TOWER LIGHTS AND CONNECTED WORKS IN NSRY OF NAVAL BASE AREA KARWAR",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTg5OTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTk5NjQ0MQ==A13h1ODU3Ni9FOA==A13h1MjAyNl9NRVNfNzkxNjg5XzE=",
-      "category": "Solar",
-      "closing_date": "2026-11-04",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 04-Nov-2026 06:00 PM",
-      "found_at": "2026-10-14T16:56:21.422665"
-    },
-    {
-      "title": "REPAIR/MAINT TO GEYSER, SOLAR WATER HEATER AND MISC E/M ITEMS AT BADDOWAL, MOGA, DHOLEWAL, CG COMPLEX AND DORAHA UNDER GE LUDHIANA",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTk3NTg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTk5NjU3Mw==A13h1R0UvTERIL1QtMjcvMjAyNi0yNw==A13h1MjAyNl9NRVNfNzkzODkzXzE=",
-      "category": "Solar",
-      "closing_date": "2026-11-04",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 04-Nov-2026 06:00 PM",
-      "found_at": "2026-10-14T16:56:21.441034"
-    },
-    {
-      "title": "COMPREHENSIVE MAINTENANCE OF SOLAR POWER PLANT 800KW AT OTA AND 600KW AT MH UNDER GE STM",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTk3OTQ=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MTk5NjU3OQ==A13h1ODY2MzYvRTg=A13h1MjAyNl9NRVNfNzkzOTA3XzE=",
-      "category": "Solar",
-      "closing_date": "2026-11-04",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 04-Nov-2026 06:00 PM",
-      "found_at": "2026-10-14T16:56:21.442948"
-    },
-    {
-      "title": "REPAIR/REPLACEMENT AND ROUTINE MAINTENANCE OF SOLAR WATER HEATING SYSTEM AND OTHER RELATED ACCESSORIES AT AF STN GWALIOR",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQxOTk5Nzg=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjAxMzE5Nw==A13h1ODYwMy9FOA==A13h1MjAyNl9NRVNfNzkzOTM3XzE=",
-      "category": "Solar",
-      "closing_date": "2026-11-04",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 04-Nov-2026 06:00 PM",
-      "found_at": "2026-10-14T21:39:41.403812"
     },
     {
       "title": "REPAIR/MAINTENANCE OF GEYSER, SOLAR WATER HEATER AND ALLIED WORK UNDER GE (WEST) BAREILLY.",
