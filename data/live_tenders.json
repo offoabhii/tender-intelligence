@@ -1,7 +1,7 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-11-11T13:44:19.065141+00:00",
-  "record_count": 7,
+  "generated_at": "2026-11-12T00:11:44.274629+00:00",
+  "record_count": 5,
   "tenders": [
     {
       "title": "PROVN OF 01X 50 KWP SOLAR POWER PLANT ALONGWITH SOLAR SECURITY LIGHTS (30 X 60 WATTS ALONGWITH ACCESSORIES) AT SAMNABANJ UNDER GE (ARMY) DHAR ROAD UDHAMPUR",
@@ -32,20 +32,6 @@
       "found_at": "2026-10-21T11:36:51.015623"
     },
     {
-      "title": "REPAIR / REPLACEMENT OF SECURITY LIGHTS / SOLAR LIGHT FITTING WITH LED FITTINGS INCL OTHER ALLIED WORKS AT ZONE-II UNDER AGE (I) NYOMA.",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTc2NTY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjU4MjAyNw==A13h1ODEwMC9OSVQtMjI=A13h1MjAyNl9NRVNfNzk0NzUwXzE=",
-      "category": "Solar",
-      "closing_date": "2026-11-11",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 11-Nov-2026 06:00 PM",
-      "found_at": "2026-10-21T11:36:51.017436"
-    },
-    {
       "title": "REPAIR MAINTENANCE OF BOREWELL REPAIR TO PUMP SETS MOTOR STARTERS PANELS AND ALLIED WORKS AT AF STN GURGAON  REPAIR AND MAINT OF FIRE FIGHTING SYSTEM AND SOLAR WATER HEATING SYSTEM AT AFSSR UNDER GE (AF) GURGAON",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTkxNDI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjY4Nzk0Mw==A13h1R0UvR1VSLS9OSVQtMTA0LzIwMjYtMjc=A13h1MjAyNl9NRVNfNzk1MDcyXzE=",
       "category": "Solar",
@@ -72,20 +58,6 @@
       "confidence": "HIGH",
       "evidence": "Supply, Installation, Commissioning and AMC of Rooftop Solar System at NTPC Talcher Thermal Township",
       "found_at": "2026-10-22T21:35:20.046043"
-    },
-    {
-      "title": "PROVN OF SOLAR STREET LTS IN VARIOUS PLACES IN NDA  KHADAKWASLA.",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTkzNDY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjcwNDI2MQ==A13h1ODE0OS9FOA==A13h1MjAyNl9NRVNfNzk1MTc3XzE=",
-      "category": "Solar",
-      "closing_date": "2026-11-11",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "PROVN OF SOLAR STREET LTS IN VARIOUS PLACES IN NDA  KHADAKWASLA.",
-      "found_at": "2026-10-22T21:35:20.049956"
     },
     {
       "title": "DEVELOPMENT OF 580 KW GRID CONNECTED ROOF TOP SOLAR POWER PROJECT  AT NIB NOIDA",
