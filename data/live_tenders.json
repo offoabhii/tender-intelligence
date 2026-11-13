@@ -1,7 +1,7 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-11-12T23:17:33.480229+00:00",
-  "record_count": 5,
+  "generated_at": "2026-11-13T05:33:46.762970+00:00",
+  "record_count": 3,
   "tenders": [
     {
       "title": "PROVN OF 01X 50 KWP SOLAR POWER PLANT ALONGWITH SOLAR SECURITY LIGHTS (30 X 60 WATTS ALONGWITH ACCESSORIES) AT SAMNABANJ UNDER GE (ARMY) DHAR ROAD UDHAMPUR",
@@ -32,20 +32,6 @@
       "found_at": "2026-10-21T11:36:51.015623"
     },
     {
-      "title": "REPAIR MAINTENANCE OF BOREWELL REPAIR TO PUMP SETS MOTOR STARTERS PANELS AND ALLIED WORKS AT AF STN GURGAON  REPAIR AND MAINT OF FIRE FIGHTING SYSTEM AND SOLAR WATER HEATING SYSTEM AT AFSSR UNDER GE (AF) GURGAON",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTkxNDI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjY4Nzk0Mw==A13h1R0UvR1VSLS9OSVQtMTA0LzIwMjYtMjc=A13h1MjAyNl9NRVNfNzk1MDcyXzE=",
-      "category": "Solar",
-      "closing_date": "2026-11-12",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "REPAIR AND MAINT OF FIRE FIGHTING SYSTEM AND SOLAR WATER HEATING SYSTEM AT AFSSR UNDER GE (AF) GURGAON",
-      "found_at": "2026-10-22T17:02:03.633961"
-    },
-    {
       "title": "Supply, Installation, Commissioning and AMC of Rooftop Solar System at NTPC Talcher Thermal Township",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTkyODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjcwNDIxMA==A13h1TlRQQy9VU1NDLUNQRzEvOTkwMDMzNTIwMg==A13h1MjAyNl9OVFBDXzExMjk1N18x",
       "category": "Solar",
@@ -58,20 +44,6 @@
       "confidence": "HIGH",
       "evidence": "Supply, Installation, Commissioning and AMC of Rooftop Solar System at NTPC Talcher Thermal Township",
       "found_at": "2026-10-22T21:35:20.046043"
-    },
-    {
-      "title": "DEVELOPMENT OF 580 KW GRID CONNECTED ROOF TOP SOLAR POWER PROJECT  AT NIB NOIDA",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMjE4MjY=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5Mjc1NDIzMQ==A13h1TlZWTi9DYW5kTS9SRS01NDMvMjAyNi0yNw==A13h1MjAyNl9OVlZOXzExMjk2NF8x",
-      "category": "Solar",
-      "closing_date": "2026-11-12",
-      "issued_by": "NTPC Vidyut Vyapar Nigam Limited",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "DEVELOPMENT OF 580 KW GRID CONNECTED ROOF TOP SOLAR POWER PROJECT  AT NIB NOIDA",
-      "found_at": "2026-10-23T11:23:13.833370"
     }
   ],
   "source_summary": [
