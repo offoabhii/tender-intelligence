@@ -1,22 +1,8 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-11-16T15:07:26.468595+00:00",
-  "record_count": 3,
+  "generated_at": "2026-11-17T01:42:21.927110+00:00",
+  "record_count": 2,
   "tenders": [
-    {
-      "title": "PROVN OF 01X 50 KWP SOLAR POWER PLANT ALONGWITH SOLAR SECURITY LIGHTS (30 X 60 WATTS ALONGWITH ACCESSORIES) AT SAMNABANJ UNDER GE (ARMY) DHAR ROAD UDHAMPUR",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTUyNzU=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjQxMzQyOQ==A13h1Q1dFL1UoRFIpLTcyLzIwMjYtMjc=A13h1MjAyNl9NRVNfNzk0ODEwXzE=",
-      "category": "Solar",
-      "closing_date": "2026-11-16",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Bid Submission Closing Date: 16-Nov-2026 06:00 PM",
-      "found_at": "2026-10-19T12:46:45.034171"
-    },
     {
       "title": "REPAIR/ MAINT OF 33/11 KV HT DISTRIBUTION SYSTEM, SOLAR PLANT AND OTHER ALLIED CONNECTED WORKS AT JALIPA MIL STN UNDER GE (A) BARMER",
       "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTc1OTI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjU4MjAxOQ==A13h1ODQ0OTkvQy9FOA==A13h1MjAyNl9NRVNfNzk0OTQwXzE=",
