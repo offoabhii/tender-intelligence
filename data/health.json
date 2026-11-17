@@ -1,7 +1,7 @@
 {
   "status": "FAILED",
   "message": "All live tender searches failed. The dashboard must not treat this as a normal empty result.",
-  "updated_at": "2026-11-17T01:42:21.927466+00:00",
+  "updated_at": "2026-11-17T15:39:02.662778+00:00",
   "details": [
     {
       "category": "Charging point operations",
