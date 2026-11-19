@@ -1,37 +1,8 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-11-18T23:59:46.206486+00:00",
-  "record_count": 2,
-  "tenders": [
-    {
-      "title": "REPAIR/ MAINT OF 33/11 KV HT DISTRIBUTION SYSTEM, SOLAR PLANT AND OTHER ALLIED CONNECTED WORKS AT JALIPA MIL STN UNDER GE (A) BARMER",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTc1OTI=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjU4MjAxOQ==A13h1ODQ0OTkvQy9FOA==A13h1MjAyNl9NRVNfNzk0OTQwXzE=",
-      "category": "Solar",
-      "closing_date": "2026-11-18",
-      "issued_by": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "REPAIR/ MAINT OF 33/11 KV HT DISTRIBUTION SYSTEM, SOLAR PLANT AND OTHER ALLIED CONNECTED WORKS AT JALIPA MIL STN UNDER GE (A) BARMER",
-      "found_at": "2026-10-21T11:36:51.015623"
-    },
-    {
-      "title": "Supply, Installation, Commissioning and AMC of Rooftop Solar System at NTPC Talcher Thermal Township",
-      "source_url": "https://eprocure.gov.in/cppp/tendersfullview/MTQyMTkyODc=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1OGQ2NzAxYTMwZTJhNTIxMGNiNmEwM2EzNmNhYWZhODk=A13h1MTc5MjcwNDIxMA==A13h1TlRQQy9VU1NDLUNQRzEvOTkwMDMzNTIwMg==A13h1MjAyNl9OVFBDXzExMjk1N18x",
-      "category": "Solar",
-      "closing_date": "2026-11-18",
-      "issued_by": "NTPC Limited",
-      "qualification_criteria": "NOT SURE",
-      "eligibility_status": "NOT SURE",
-      "is_net_cost": false,
-      "is_open_now": true,
-      "confidence": "HIGH",
-      "evidence": "Supply, Installation, Commissioning and AMC of Rooftop Solar System at NTPC Talcher Thermal Township",
-      "found_at": "2026-10-22T21:35:20.046043"
-    }
-  ],
+  "generated_at": "2026-11-19T07:11:04.040026+00:00",
+  "record_count": 0,
+  "tenders": [],
   "source_summary": [
     {
       "category": "Charging point operations",
