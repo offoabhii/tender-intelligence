@@ -1,6 +1,6 @@
 {
   "data_source": "LIVE_FETCHED_DATA",
-  "generated_at": "2026-11-25T07:28:40.137686+00:00",
+  "generated_at": "2026-11-25T21:16:10.060507+00:00",
   "record_count": 0,
   "tenders": [],
   "source_summary": [
@@ -21,7 +21,7 @@
       "documents_found": 0,
       "verified_tenders": 0,
       "errors": [
-        "RuntimeError: eprocure.gov.in returned HTTP 404 on page 1 (category Charging point operations)"
+        "RuntimeError: eprocure.gov.in connection error (page 1, category Charging point operations): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
       ]
     },
     {
@@ -33,7 +33,7 @@
       "documents_found": 0,
       "verified_tenders": 0,
       "errors": [
-        "RuntimeError: eprocure.gov.in returned HTTP 404 on page 1 (category Solar)"
+        "RuntimeError: eprocure.gov.in connection error (page 1, category Solar): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
       ]
     },
     {
@@ -61,7 +61,7 @@
       "documents_found": 0,
       "verified_tenders": 0,
       "errors": [
-        "RuntimeError: eprocure.gov.in returned HTTP 404 on page 1 (category Bus operations (gross cost only))"
+        "RuntimeError: eprocure.gov.in connection error (page 1, category Bus operations (gross cost only)): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
       ]
     },
     {
@@ -79,7 +79,7 @@
       "documents_found": 0,
       "verified_tenders": 0,
       "errors": [
-        "RuntimeError: eprocure.gov.in returned HTTP 404 on page 1 (category Bus body building)"
+        "RuntimeError: eprocure.gov.in connection error (page 1, category Bus body building): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
       ]
     }
   ]
